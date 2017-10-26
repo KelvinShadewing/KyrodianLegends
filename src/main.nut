@@ -1,26 +1,28 @@
-/*========================================*\
-|	             KYRODIAN LEGENDS            |
-|                                          |
-| Code License: GPL 3.0                    |
-| KyLe Asset License: CC-BY-NC-SA-3.0      |
-| Core Asset License: CC-BY-3.0            |
-| Music Copyright: Kevin "JazzyPanda" Soto |
-| Guest Characters © Respective Owners     |
-\*========================================*/
-
-function main(){
+::main <- function(){
 	//Set up the display
 	setBackgroundColor(0);
 	setScalingFilter(1);
+	setWindowTitle("Kyrodian Legends");
+	setResolution(320, 180);
+	setFPS(60);
 
 	//Set the game mode
-	gvGameMode = Game.intro;
+	gvGameMode = 0;
 
 	//Run main game loop
-	local quit <- false;
+	local quit = false;
 	while(!quit){
-		gvGameMode();
+		if(gvGameMode != 0) gvGameMode();
+		drawSprite(sprMidiP, 0, mouseX(), mouseY());
+		if(keyPress(k_escape)) quit = true;
+		
+		//Ball test
+		if(mousePress(0)){
+			newActor(TestBall, mouseX(), mouseY());
+			countActors();
+		};
+		
+		runActors();
+		update();
 	};
 };
-
-main();

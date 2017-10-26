@@ -1,2 +1,2 @@
-local gvGameMode;
-local Game = {};
+::gvGameMode <- 0;
+::Game <- {};

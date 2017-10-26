@@ -6,8 +6,8 @@ Game.intro <- function(){
 	//Splash text
 	//Intro animation
 		//If the player presses a key, skip the animation
-	
+
 	//End intro
 	//Unload assets
-	gvGameMode = Game.titleScreen;
+	gvGameMode = Game.title;
 };

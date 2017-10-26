@@ -1,0 +1,2 @@
+::Midi <- class extends Actor{
+};

@@ -1,13 +1,71 @@
-local actor = {};
-local actlast = 0;
+////////////
+// ACTORS //
+////////////
 
-class Actor{
+//Main
+::actor <- {};
+::actlast <- 0;
+
+::Actor <-class{
 	id = 0;
 	x = 0;
 	y = 0;
 	sprite = 0;
 	shape = 0;
 
-	constructor(){
+	constructor(_x, _y){
+		x = _x;
+		y = _y;
+	};
+
+	function step(){
+	};
+
+	function destructor(){
+	};
+};
+
+::newActor <- function(type, x, y){
+	local na = type(x, y);
+	na.id = actlast;
+	actor[actlast] <- na;
+	actlast++;
+	return na.id;
+};
+
+::deleteActor <- function(id){
+	if(!actor.rawin(id)) return;
+
+	actor[id].destructor();
+	delete actor[id];
+};
+
+::countActors <- function(){
+	print("Actor count: " + actor.len());
+};
+
+::runActors <- function(){
+	foreach(i in actor) i.step();
+};
+
+//Game Actors
+::TestBall <- class extends Actor{
+	frame = 0;
+	
+	constructor(_x, _y){
+		base.constructor(_x, _y);
+		print("Made a ball.");
+	};
+	
+	function step(){
+		y++;
+		if(y > 200) deleteActor(this.id);
+		drawSprite(sprMidiP, frame + 104, x, y);
+		if(frame < 7) frame += 0.5;
+		else frame = 0;
+	};
+	
+	function destructor(){
+		print("Lost a ball.");
 	};
 };

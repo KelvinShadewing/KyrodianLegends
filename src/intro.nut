@@ -1,3 +1,7 @@
+///////////
+// INTRO //
+///////////
+
 Game.intro <- function(){
 	//Begin intro
 	//Load assets needed for intro

@@ -1,3 +1,7 @@
+//////////
+// MAIN //
+//////////
+
 ::main <- function(){
 	//Set up the display
 	setBackgroundColor(0);

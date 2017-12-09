@@ -51,12 +51,12 @@
 //Game Actors
 ::TestBall <- class extends Actor{
 	frame = 0;
-	
+
 	constructor(_x, _y){
 		base.constructor(_x, _y);
 		print("Made a ball.");
 	};
-	
+
 	function step(){
 		y++;
 		if(y > 200) deleteActor(this.id);
@@ -64,7 +64,7 @@
 		if(frame < 7) frame += 0.5;
 		else frame = 0;
 	};
-	
+
 	function destructor(){
 		print("Lost a ball.");
 	};

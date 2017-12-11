@@ -50,6 +50,10 @@
 	foreach(i in actor) i.step();
 };
 
+::checkActor <- function(id){
+	return actor.rawin(id);
+};
+
 //Game Actors
 ::TestBall <- class extends Actor{
 	frame = 0;

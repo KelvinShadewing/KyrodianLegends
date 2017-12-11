@@ -22,12 +22,6 @@ The game plays similar to games like Gargoyle's Quest and Zelda 2, with players 
 
 &nbsp;
 
-## Wiki
-
-The wiki has been generated with Nuno Silva's [StaticWiki](https://github.com/LittleCodingFox/StaticWiki) engine.
-
-&nbsp;
-
 ## How to Play
 
 This game runs in the [XYG Studio](https://github.com/KelvinShadewing/XYG-Studio) game engine.

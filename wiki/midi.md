@@ -1,4 +1,3 @@
-<center>![KL Title](img/titleTrans.png)</center>
 # Midi Waffle
 
 &nbsp;

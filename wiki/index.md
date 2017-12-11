@@ -1,5 +1,5 @@
-<center>![KL Title](img/titleTrans.png)</center>
-# Kyrodian Legends Wiki
+# ![KL Title](img/titleTrans.png)
+# Wiki
 
 &nbsp;
 

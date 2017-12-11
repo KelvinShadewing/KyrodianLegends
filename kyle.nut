@@ -17,6 +17,7 @@ donut("src/menu.nut");
 donut("src/intro.nut");
 donut("src/title.nut");
 //donut("src/debug.nut");
+donut("src/midi.nut");
 donut("src/main.nut");
 
 main();

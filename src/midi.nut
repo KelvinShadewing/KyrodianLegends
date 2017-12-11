@@ -21,13 +21,14 @@ const rolling = 14;
 const hurting = 15;
 const idling = 16;
 
-::Midi <- class extends Actor{
+::Midi <- class extends Physical{
 	state = standing;
 	blink = 0;
 	sprinting = 0;
 	gravity = 0;
 	xspeed = 0;
 	yspeed = 0;
+	mspeed = 3;
 
 	constructor(_x, _y){
 		base.constructor(_x, _y);
@@ -36,6 +37,19 @@ const idling = 16;
 	};
 
 	function step(){
+		//Friction
+		if(xspeed > 0) xspeed--;
+		if(xspeed < 0) xspeed++;
 
+		//Controls
+		if(keyDown(k_right) && xspeed < mspeed) xspeed += 2;
+		if(keyDown(k_left) && xspeed > -mspeed) xspeed -= 2;
+		if(keyPress(k_space)) newActor(TestBall, x, y);
+		if(keyDown(k_lshift) || keyDown(k_rshift)) mspeed = 6;
+		else mspeed = 3;
+
+		//Update
+		move(xspeed, yspeed);
+		drawSprite(sprite, frame, x, y);
 	};
 };

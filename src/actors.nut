@@ -12,6 +12,7 @@
 	y = 0;
 	sprite = 0;
 	shape = 0;
+	frame = 0;
 
 	constructor(_x, _y){
 		x = _x;
@@ -19,6 +20,7 @@
 	};
 
 	function step(){
+		drawSprite(sprite, frame, x, y);
 	};
 
 	function destructor(){
@@ -67,5 +69,12 @@
 
 	function destructor(){
 		print("Lost a ball.");
+	};
+};
+
+::Physical <- class extends Actor{
+	function move(_x, _y){
+		x += _x;
+		y += _y;
 	};
 };

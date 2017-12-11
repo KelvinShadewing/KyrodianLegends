@@ -121,7 +121,7 @@ Actors have three functions: `constructor`, which is called when the Actor is cr
 
 To prevent exceptions, you should always check that an Actor exists before referencing anything in it. To do this, simply use `checkActor` with the ID of the Actor you want to interact with. For example:
 
-```
+```squirrel
 target <- newActor(Enemy, x, y); //newActor returns the ID of the newly-generated Actor
 
 if(checkActor(target)) { ... }; //Do something to the target.

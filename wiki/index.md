@@ -1,4 +1,4 @@
-# ![KL Title](img/titleTrans.png)
+![KL Title](img/titleTrans.png)
 # Wiki
 
 &nbsp;

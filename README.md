@@ -1,6 +1,6 @@
 # **Kyrodian Legends**
 
-An action-adventure platformer with cute, fuzzy.
+An action-adventure platformer with cute, fuzzy heroes.
 
 &nbsp;
 

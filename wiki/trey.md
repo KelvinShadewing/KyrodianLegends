@@ -3,7 +3,7 @@
 &nbsp;
 
 **FULL NAME:** Trey Julian Mendez  
-**RACE:** Marstel  
+**RACE:** [Marstel](marstels.md)  
 **SEX:** Male  
 **AGE:** 18  
 **HEIGHT:** 5'6"  

@@ -5,7 +5,7 @@
 ![Midi](img/midi.png)
 
 **FULL NAME:** Midi Valbelgian Waffle  
-**RACE:** Kholu	 
+**RACE:** [Kholu](kholu.md)  
 **SEX:** Male  
 **AGE:** 14  
 **HEIGHT:** 4'4"  

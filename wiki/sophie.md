@@ -3,7 +3,7 @@
 &nbsp;
 
 **FULL NAME:** Sophia Robin Mendez  
-**RACE:** Marstel  
+**RACE:** [Marstel](marstels.md)  
 **SEX:** Female  
 **AGE:** 18  
 **HEIGHT:** 5'8"  

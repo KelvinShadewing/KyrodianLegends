@@ -57,6 +57,7 @@
 //Game Actors
 ::TestBall <- class extends Actor{
 	frame = 0;
+	yspeed = 0;
 
 	constructor(_x, _y){
 		base.constructor(_x, _y);
@@ -64,10 +65,11 @@
 	};
 
 	function step(){
-		y++;
+		yspeed += 0.5;
+		y += yspeed;
 		if(y > 200) deleteActor(this.id);
 		drawSprite(sprMidiP, frame + 104, x, y);
-		if(frame < 7) frame += 0.5;
+		if(frame < 7) frame += 1;
 		else frame = 0;
 	};
 

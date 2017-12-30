@@ -28,7 +28,7 @@ const idling = 16;
 	gravity = 0;
 	xspeed = 0;
 	yspeed = 0;
-	mspeed = 3;
+	mspeed = 0;
 
 	constructor(_x, _y){
 		base.constructor(_x, _y);
@@ -45,8 +45,8 @@ const idling = 16;
 		if(keyDown(k_right) && xspeed < mspeed) xspeed += 2;
 		if(keyDown(k_left) && xspeed > -mspeed) xspeed -= 2;
 		if(keyPress(k_space)) newActor(TestBall, x, y);
-		if(keyDown(k_lshift) || keyDown(k_rshift)) mspeed = 6;
-		else mspeed = 3;
+		if(keyDown(k_lshift) || keyDown(k_rshift)) mspeed = 8;
+		else mspeed = 4;
 
 		//Update
 		move(xspeed, yspeed);

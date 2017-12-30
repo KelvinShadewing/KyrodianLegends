@@ -10,3 +10,4 @@ During the Feudal and early Biometal War eras, gryphons were known for actively 
 
 ## Atmoskyr
 
+One of the great bastions during the Biometal War, Atmoskyr was built upon one of Kyroda's largest skylands. It is a communal hall that spans most of the skyland's surface, and unlike smaller settlements, has its services adapted to be mostly indoors. Buried at the heart of the skyland is a massive core of pure fulgurite, which is charged using a mirror array to generate energy that runs the perpetual thunderstorm that serves as the city's main defense. The core also energizes the levitite ore in the skyland to help counter the weight of the population above.

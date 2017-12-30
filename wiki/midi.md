@@ -25,6 +25,8 @@ During an away mission, shortly before the events of the game, he was sent to ra
 **GAMEPLAY:**  
 Midi is the most straightforward platformer character. He has lower physical attack power and depends more on his elemental bombs that come in four types:
 
+![Bombs](img/bombs.gif)
+
 * Normal - A 'clean flame' that deals damage but does not have an elemental effect. When charged, it can be launched at a greater distance and deals extra damage. This type costs the least amount of energy to use.
 * Fire - Adds a burning effect that slowly damages enemies over time. Can also be used to burn down certain plant matter and weaker ice blocks to open passages. When charged, it creates a bigger explosion and deals extra damage.
 * Shock - Adds a static effect that causes enemies to pass along an electric charge that damages them when spread, and slows enemies down through paralisys. Electricity can also be used to power conduits and charge machinery. Underwater, the static effect can jump further. When charged, it creates a ball of lightning that lingers and launches lightning bolts at enemies.

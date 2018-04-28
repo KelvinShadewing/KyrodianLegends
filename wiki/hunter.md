@@ -24,5 +24,5 @@ His wings allow him to glide and perform repeated midair jumps. The number of ju
 * Steady Control - By holding the grab and throw buttons at the same time, Hunter can move a held object freely in any direction within his attraction radius.
 * Momentum - Works identically to Trey's version of the Speed Booster from Metroid.
 * Meteor Dive - Converts falling speed into a shockwave upon landing.
-* Hammer Toss - By switching directions left and right, inertial force can be stored in the held object to increase distance and speed when thrown.
-* Devour - When holding small enough creatures, the melee attack will make Hunter eat it for health.
+* Hammer Toss - By switching directions left and right, inertial force can be stored in the held object to increase horizontal distance and speed when thrown.
+* Devour - When holding small enough creatures, the melee attack will make Hunter eat it for health. This does not effect biometals.

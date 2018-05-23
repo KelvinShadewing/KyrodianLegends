@@ -11,3 +11,7 @@ While perfectly fine with catching fish the wild way, they still enjoy cooking, 
 The haven city of the hidegvins is a massive ice cavern under the antarctic shelf. Shaped and reinforced by hidegvin magic, the structures in this city are so resistant to heat that even dragon fire does not melt them. The ice is frozen solid enough that it is safe to run electrical wiring through, allowing modern furnishings to be included.
 
 Ice bricks used for walls are normally white, but can be dyed to give buildings distinguishing colors and designs so that the entire city doesn't look identical. Once the bricks are arranged, they are shaved and smoothed into a variety of shapes, allowing hidegvin structures to take just about any shape.
+
+## Notes
+
+Hidegvin is a portmanteau of Hungarian words "hideg" meaning "chill" and "pingvin" meaning "penguin". It's both a reference to my herritage and to Chill Penguin from Mega Man X, my favorite game as a kid.

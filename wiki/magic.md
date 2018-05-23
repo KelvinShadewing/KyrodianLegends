@@ -21,6 +21,15 @@ Elemental magic comes in eight forms, half of which representing forms of matter
 
 Mages with elemental skill tend to lean towards one or the other type, matter or energy. However, this is where the yin-yang principal comes into play. A mage who specializes in energy will have one matter element they can use, and one who specializes in matter will have one energy element. For example, [Midi](midi.md) can use fire, ice, and shock bombs, and can also make dark bombs that create a gravity well.
 
+Along with that, another point of balance among the elements is how they relate to their compliments. Each elemental category has two elements that counteract each other, and two that counteract one from the other category.
+
+|Element|Counter|
+|-------|-------|
+|Fire   |Ice    |
+|Earth  |Air    |
+|Water  |Shock  |
+|Light  |Dark   |
+
 ## Psionics
 
 On rare occasions, a person will be born able to learn psionic abilities instead of magic. Psi, the energy used in psionics, does not share a 4th space with mana, but does with physical matter, meaning the two energies do not have any effect on one another and must use some physical means in order to affect each other. Because of the 4th distance from mana, psionics are virtually useless against ethereal beings, making psychic types not very effective against ghosts.

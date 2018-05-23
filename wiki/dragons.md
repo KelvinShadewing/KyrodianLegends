@@ -6,7 +6,7 @@ During this period, they travel the world, learning as much as they can. Due to 
 
 Dragons are covered in extremely durable scales, and can have manes, spikes, horns, or fins going down their back. Along with their virtually unlimited color variations, there's no practical limit to how varied they look. While rare, it is still possible for them too have feathered wings instead of membraned.
 
-During the biped stage, they will live in whatever dwellings suit their tastes and among any people that happen to be around. They leave their nests at a young age with enough treasure to last them a bit whike they seek employment and homes.
+During the biped stage, they will live in whatever dwellings suit their tastes and among any people that happen to be around. They leave their nests at a young age with enough treasure to last them a bit while they seek employment and homes.
 
 Dragon libraries are where they store their accumulated knowledge. While their material treasure hoard makes them wealthy among the smaller people, among other dragons, knowledge is the true wealth, and it is one they both share freely and protect fiercely. A thief stealing gold will be shrugged off and left to the authorities, but anyone found stealing ir willfully destroying their books will be reminded of the myths spread about them during the Feudal era of dragons devouring princesses shortly before the offender is drafted for a reenactment in the role of said princess.
 

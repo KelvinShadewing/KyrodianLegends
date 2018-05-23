@@ -26,14 +26,12 @@ These pages contain spoilers for the game's storyline. If you are not interested
 |**Friendlies**                     |
 [Rusty](rusty.md)                   |
 
-|GAMEPLAY                 |
-|-------------------------|
-|[Overworld](overworld.md)|
-|[Items](items.md)        |
-
-|SIDE QUESTS |
-|------------|
-|
+|CAMPAIGNS              |GAMEPLAY                 |
+|-----------------------|-------------------------|
+|[Maga Fins](ep1.md)    |[Overworld](overworld.md)|
+|[Blood Victual](ep2.md)|[Items](items.md)        |
+|[Apex Hunter](ep3.md)  |[Controls](controls.md)  |
+|[Six Packs](ep4.md)    |[Platformer](platform.md)|
 
 ## TODO
 

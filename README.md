@@ -12,6 +12,8 @@ The assets in `res/kl` are made specifically for Kyrodian Legends. They are free
 
 The characters in `res/kl` made specifically for Kyrodian Legends may be used in any project, even commercially, provided all assets of them, both visual and auditory, are released under the same sharealike license.
 
+Kholu, marstels, hidegvins, and shadewings are original races created for Kyrodian Legends. They may be used in other projects, provided that their origins are not misrepresented and any alterations that deviate from canon lore and mechanics be made clear so as to not misrepresent the source material.
+
 The assets in `res/ga` are made for guest appearance users who have made special contributions to the project. They may not be used without the consent of their respective owners.
 
 The assets in `res/cc` are free under their respective licenses. See credits.md for full attribution.
@@ -76,7 +78,7 @@ The primary types of enemies come in several categories:
 
 ***Cold Front***
 
-A group of paengi pirates that have blue feathers and use a variety of ice-related attacks. The pengrunt sprite found in `res/kl` can be used as a basis for their design.
+A group of hidegvin pirates that have blue feathers and use a variety of ice-related attacks. The pengrunt sprite found in `res/kl` can be used as a basis for their design.
 
 ***Biometal***
 

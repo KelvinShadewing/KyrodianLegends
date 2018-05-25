@@ -27,6 +27,8 @@ P: acorn bomb
 S: transphere 
 T: cycle element
 
+In transphere mode, the backdash button activates Midi's magnet field after he gets it, letting him ride on magnetic rails.
+
 **Trey**
 P: shadow kunai
 S: grappling whip

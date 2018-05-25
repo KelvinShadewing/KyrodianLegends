@@ -27,6 +27,8 @@ P: acorn bomb
 S: transphere 
 T: cycle element
 
+In transphere mode, the backdash button activates Midi's magnet field after he gets it, letting him ride on magnetic rails.
+
 **Trey**
 P: shadow kunai
 S: grappling whip
@@ -41,3 +43,7 @@ T: sniper mode (hold)
 P: throw/punt
 S: attract/grab
 T: extrasensory
+
+## Notes
+
+I've considered campaigns and side modes that would allow for two-player co-op, but so far, only the episode planned for Trey and Sophie will have room for this. I may have Midi return as a playable partner in Hunter's story, though.

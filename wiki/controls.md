@@ -12,7 +12,7 @@ The game's controls will be limited to what can be done with a six-button pad to
 
 ## Default Controls
 * start: submenu
-* select: change character
+* select: change character (one player)/join partner (two player)
 * A: melee attack
 * X: jump
 * Y: primary(P) special
@@ -26,3 +26,18 @@ The game's controls will be limited to what can be done with a six-button pad to
 P: acorn bomb
 S: transphere 
 T: cycle element
+
+**Trey**
+P: shadow kunai
+S: grappling whip
+T: dark shift (hold)
+
+**Sophie**
+P: blaster (rapid)
+S: blaster (charge)
+T: sniper mode (hold)
+
+**Hunter**
+P: throw/punt
+S: attract/grab
+T: extrasensory

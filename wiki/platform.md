@@ -18,12 +18,14 @@ Background and foreground elements are identified by contrast in color and shade
 
 * **Lava** - Causes damage that increases with continuous contact. Damage multiplier falls while outside lava. Variant shield will reduce intial damage and slow multiplier increase. Rebreathers do not work under lava.
 
-* **Magnetic Rail** - These are used by biometals to move around quickly. Midi can use these after upgrading his transphere.
+* **Magnetic Rail** - These are used by biometals to move around quickly. [Midi](midi.md) can use these after upgrading his transphere.
 
 * **Springus** - A mushroom that reacts to anything touching it by pressing upward, launching the offending object away. Acts as a bounce pad for players. Can also bounce Midi's bombs. One of them will look like the XYG logo.
 
 * **Power Node** - Reacts to electrical attacks by powering anything wired to it.
 
 * **Fuse Line** - Reacts to fire attacks, sending a flame from the tip to anything it's attached to.
+
+* **Updraft** - An air current that increases jump height and reduces falling speed. [Hunter](hunter.md) can ride these currents by gliding.
 
 

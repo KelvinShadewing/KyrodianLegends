@@ -40,6 +40,22 @@ Mind control is even more complicated, requiring the user to have an intimate un
 
 [Shadewings](shadewings.md) are all born with psionic abilities.
 
+## Aura
+
+A lifeform's spiritual aura acts as a natural barrier and means of healing quickly. It activates automatically when it senses the body is in danger of physical damage, shrowding the body in a force field and working to heal any damage done to the body by spending energy to replace lost or damaged cells.
+
+Aura can regenerate over time when the body absorbs and metabolizes ambient energy, and can be sped up by taking in substances that benefit the body, such as food, medicine, or alchemical stimulants, or healing spells which trigger the aura to metabolize mana directly. Fighters who have lost a lot can be seen eating copious amounts of food without increasing their size as the aura converts the material into spiritual energy.
+
+Like with mana, aura has a different position on the 4th spectrum, and shifts its position to enter the physical plane to deflect damage. According to the law of conservation, the ammount of food required to restore certain quantities of aura should contain enough energy to create several megaton blasts. However, aura spends energy not just on deflecting damage, but also holding its position and fighting against the pull towards its 4th rest. Therefore, it cannot return an equal amount of energy to what it takes in, as a portion of that energy goes elsewhere.
+
+Because it overlaps with mana, magical detectors can be made to measure it and present it in a quantified form of points known as vita (singular, vitum). A person can wear a special wristband that lets them gauge exactly how much vita they have. When it runs out, the aura can no longer protect the body, leaving it vulnerable.
+
+Wearing armor can allow the aura to relax, saving energy as it doesn not need to try as hard to protect areas of the body where the armor takes the hit. Some fighters still prefer not to wear armor to maximize their mobility.
+
+Since aura only activates when the body is in danger, certain forms of "damage" can circumvent it. For example, a surgeon with no intent to harm will be able to use a scalpel or needle to treat a patient, and someone smacking someone outside of a fight (usually in comedic scenes) will not be hindered at all, especially when such strikes are meant to convey a mess ge that would otherwise not sink in, like smacking an insubordinate subordinate.
+
+Because souls in KL are capable of inhabiting any body with the capacity for sentience, even machines may potentially develop them, allowing them to have auras as well.
+
 ## Goats
 
 Kyrodian goats are unique and mystical creatures that regularly defy the laws of physics in ways that even arch mages have been unable to define. They are reportedly capable of ingesting and metabolizing any material, even solid metal. Despite these awesome powers, they are quite gentle and friendly, though shadewings seem to have an irrational fear of them.

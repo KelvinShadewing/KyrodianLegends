@@ -56,6 +56,12 @@ Since aura only activates when the body is in danger, certain forms of "damage" 
 
 Because souls in KL are capable of inhabiting any body with the capacity for sentience, even machines may potentially develop them, allowing them to have auras as well.
 
+## Affinities
+
+Magic affinity grants mages with a special aptitude towards a certain type or class of spells, or a grant a passive ability. Some mages may have two, but three has never been recorded. The rigidness of the affinity dictates both the effectiveness of the spells it grants, and the limitations of how much a mage can learn beyond it.
+
+For example, Midi's affinity grants him his elemental bombs, and his passive tailsafe. However, due to having two rigid affinities, he is unable to learn any other type of magic.
+
 ## Goats
 
 Kyrodian goats are unique and mystical creatures that regularly defy the laws of physics in ways that even arch mages have been unable to define. They are reportedly capable of ingesting and metabolizing any material, even solid metal. Despite these awesome powers, they are quite gentle and friendly, though shadewings seem to have an irrational fear of them.

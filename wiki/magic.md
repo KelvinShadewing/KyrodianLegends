@@ -6,6 +6,8 @@ Because mana is slightly out of phase, only partially overlapping physical matte
 
 When a mage casts a spell, their brain translates their will into an electronic signal that the mana in their body will react to, similar to the electronic signals that tell the muscles when and how to move. After completing its task, the mana will return to a resting state, at which point it can be reabsorbed by living beings. Areas with high concentrations of mana can be beneficial to mages who have learned to draw it in on command. This is done by willing the mana in their bodies to compress, creating a void that pulls ambient energy in like a vacuum. However, this can have harmful effects if too much is drawn in at once, as once the compression stops, the mana will attempt to spread out within its new host, and may damage them by leaking out.
 
+The effect of damaging a mage who charges too much is due to the fact that the mana has not had time to acclimate to its new host; it's frequency has not yet changed to match the signature of the host's aura. Mana that is absorbed naturally over time will perfectly resonate with the aura, allowing the caster to cast spells without harming themselves at all. For instance, Midi is able to be caught in his own explosions becaues the mana creating his bombs matches his aura.
+
 Enchanting is the process of ordering mana to take on a new host and use the stored energy their to perform a persistent task. Because enchanted objects are wrapped in a magical aura, they are capable of interacting with ethereal entities, which is why, for example, an enchanted sword is needed to fight a ghost.
 
 ## Elements
@@ -21,7 +23,7 @@ Elemental magic comes in eight forms, half of which representing forms of matter
 
 Mages with elemental skill tend to lean towards one or the other type, matter or energy. However, this is where the yin-yang principal comes into play. A mage who specializes in energy will have one matter element they can use, and one who specializes in matter will have one energy element. For example, [Midi](midi.md) can use fire, ice, and shock bombs, and can also make dark bombs that create a gravity well.
 
-Along with that, another point of balance among the elements is how they relate to their compliments. Each elemental category has two elements that counteract each other, and two that counteract one from the other category.
+Along with that, another point of balance among the elements is how they relate to their compliments. Each elemental category has two elements that counteract each other, and two that counteract one from the other category.These elements will have a greater effect against their counterpart, while offering resistance against themselves.
 
 |Element|Counter|
 |-------|-------|
@@ -29,6 +31,8 @@ Along with that, another point of balance among the elements is how they relate 
 |Earth  |Air    |
 |Water  |Shock  |
 |Light  |Dark   |
+
+Conjuration in magic does not produce real matter, only an approximation of it. When a conjured object runs out of energy, either over time or bieng depleted by damage, it will disintegrate. Conjured items must be given a constant charge in order to remain indefinitely, and will cause the caster to slowly deplete mana over time, or faster if the object is more massive. For this reason, conjured food should not be consumed for sustinance, as it will simply disappear afterwards, leaving whoever ate it hugry again with no benefit. This rule does not apply to summoned objects, as that is merely a change in position, and not a creation of pseudomatter.
 
 ## Psionics
 

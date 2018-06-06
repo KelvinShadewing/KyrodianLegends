@@ -19,7 +19,7 @@ The game's controls will be limited to what can be done with a six-button pad to
 * start: submenu
 * select: change character (one player)/join partner (two player)
 * A: melee attack
-* X: jump
+* X: jump/swim/glide
 * Y: primary(P) special
 * B: secondary(S) special
 * R: tertiary(T) special
@@ -28,26 +28,30 @@ The game's controls will be limited to what can be done with a six-button pad to
 ## Character Specific Controls
 
 **Midi**
-P: acorn bomb
-S: transphere 
-T: cycle element
+
+* P: acorn bomb
+* S: transphere 
+* T: cycle element
 
 In transphere mode, the backdash button activates Midi's magnet field after he gets it, letting him ride on magnetic rails.
 
 **Trey**
-P: shadow kunai
-S: grappling whip
-T: dark shift (hold)
+
+* P: shadow kunai
+* S: grappling whip
+* T: dark shift (hold)
 
 **Sophie**
-P: blaster (rapid)
-S: blaster (charge)
-T: sniper mode (hold)
+
+* P: blaster (rapid)
+* S: blaster (charge)
+* T: sniper mode (hold)
 
 **Hunter**
-P: throw/punt
-S: attract/grab
-T: extrasensory
+
+* P: throw/punt
+* S: attract/grab
+* T: extrasensory
 
 ## Notes
 

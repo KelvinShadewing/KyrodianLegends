@@ -10,7 +10,7 @@ The code for this game is free under the GNU General Public License.
 
 The assets in `res/kl` are made specifically for Kyrodian Legends. They are free under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/us/).
 
-The characters in `res/kl` made specifically for Kyrodian Legends may be used in any project, even commercially, provided all assets of them, both visual and auditory, are released under the same sharealike license.
+The characters in `res/kl` made specifically for Kyrodian Legends may be used in any project, even commercially, provided all assets of them, both visual and auditory, are released under the same sharealike license. [See full license.](http://kyrodianlegends.com/license)
 
 Kholu, marstels, hidegvins, and shadewings are original races created for Kyrodian Legends. They may be used in other projects, provided that their origins are not misrepresented and any alterations that deviate from canon lore and mechanics be made clear so as to not misrepresent the source material.
 

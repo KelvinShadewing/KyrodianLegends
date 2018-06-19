@@ -14,8 +14,8 @@ echo "
                        *      KYRODIAN LEGENDS!      *
                         *****************************
 
-If you would like to support this game, please consider pledging to our Patreon
-page at: http://patreon.com/kyrodianlegends
+If you would like to support this game, please consider donating on Liberapay
+at: http://liberapay.com/kelvinshadewing
 
 For more content, visit our home page here: http://kyrodianlegends.com
 "

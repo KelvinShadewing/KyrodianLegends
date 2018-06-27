@@ -48,6 +48,9 @@ const idling = 16;
 		if(keyDown(k_lshift) || keyDown(k_rshift)) mspeed = 8;
 		else mspeed = 4;
 
+		//Attack
+		
+
 		//Update
 		move(xspeed, yspeed);
 		drawSprite(sprite, frame, x, y);

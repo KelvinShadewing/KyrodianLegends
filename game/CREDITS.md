@@ -2,7 +2,7 @@
 
 ## Graphics
 
-[Kelvin Shadewing](http://kelvinshadewing.net): KL sprites (Midi, Trey, Sophie, Pengrunt, acorn), JazzyPanda sprites, Foxboy83 sprites, tileset edits (grasstop, snowstone, temple, beach, copper plating)
+[Kelvin Shadewing](http://kelvinshadewing.net): KL sprites (Midi, Trey, Sophie, Pengrunt, acorn), JazzyPanda sprites, Foxboy83 sprites, tileset edits (grasstop, snowstone, temple, beach, copper plating), explosions (fire, ice, lightning)
 
 [Foxboy83](https://www.patreon.com/foxboy83/): portrait sketches (Midi, Trey, Sophie, Foxboy), Wiki images (Midi)
 
@@ -12,7 +12,9 @@
 
 [Revangale](https://opengameart.org/users/revangale): beach tiles
 
-[The Chayed](https://opengameart.org/users/the-chayed) metroidvania forest tiles
+[The Chayed](https://opengameart.org/users/the-chayed): metroidvania forest tiles
+
+[13rice](https://opengameart.org/users/13rice): base for lightning explosion
 
 ## Music
 

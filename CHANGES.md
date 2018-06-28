@@ -6,6 +6,8 @@
 
 * **Add hardegvin sprite** - The hardegvins are a pair of characters I made for comedy. They're pranksters and they stand out by the hard hats they wear. In fact, the name is a portmanteau of hard and hidegvin, which is a portmanteau of hideg, which is Icelandic for chill, and pingvin, Icelandic for penguin. The two will mainly serve as comic relief in some scenes.
 
+* **Update Midi sprite** - MAJOR update here! I got the ears trimmed on the overworld sprite, added a couple new poses to the platformer, and... you see those three new rows? That's how his sphere will look on magnetic rails! Yep, I'm putting those in as well. He'll be able to use them once he learns the thunderbomb and uses that to magnetize his transphere.
+
 ## 21-JUN-2018
 
 * **Change date format** - Sort of. Just made the month a word instead of a number so it's easier to tell I'm using DD-MM-YYYY.

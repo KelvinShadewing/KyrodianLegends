@@ -1,5 +1,5 @@
 /*========================================*\
-|	      KYRODIAN LEGENDS             |
+|	          KYRODIAN LEGENDS             |
 |                                          |
 | Code License: GPL 3.0                    |
 | KyLe Asset License: CC-BY-SA-3.0         |

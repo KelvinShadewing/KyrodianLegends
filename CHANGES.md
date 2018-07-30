@@ -1,5 +1,13 @@
 #Change log
 
+## 30-JUL-2018
+
+* **Update Midi sprite** - Well, it's been a long time without changes again, but there's at least a good reason for that. I've been working on some commissioned art, and also getting my new life sorted out in Georgia. I now have a new job, too!
+
+  So, what's new with the sprite? Well, I got rid of the armless poses, and instead made room for new angled attack poses. Remember how Simon Belmont learned to use his whip diagonally? Well, Midi's gonna do that, but with bombs! I also removed the "win" action, because I'm going to transform the current frames into part of his "attack up" sequence, while a new win sequence will be made that will look much nicer than just a skyward punch.
+  
+  Updates to this project will still probably be a bit far between, as I'm also working more on XYG, and the new job is gonna take some time away. Not like I made the best of my time unemployed, anyway. `>.-.>`
+
 ## 27-JUN-2018
 
 * **Add explosion sprites** - Currently have fire, ice, and lightning done.

@@ -18,12 +18,12 @@ The game's controls will be limited to what can be done with a six-button pad to
 
 * start: submenu
 * select: change character (one player)/join partner (two player)
-* A: melee attack
-* X: jump/swim/glide
-* Y: primary(P) special
-* B: secondary(S) special
-* R: tertiary(T) special
-* L: backdash
+* A(M): melee attack
+* X(J): jump/swim/glide
+* Y(P): primary(P) special
+* B(S): secondary(S) special
+* R(T): tertiary(T) special
+* L(D): backdash
 
 ## Character Specific Controls
 
@@ -33,7 +33,13 @@ The game's controls will be limited to what can be done with a six-button pad to
 * S: transphere 
 * T: cycle element
 
-In transphere mode, the backdash button activates Midi's magnet field after he gets it, letting him ride on magnetic rails.
+**Midi's Transphere**
+
+* M: time bomb
+* D: fire boost
+* P: remote bomb
+* S: normal form
+* R: cold/magnet field
 
 **Trey**
 

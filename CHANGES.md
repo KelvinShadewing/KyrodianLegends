@@ -1,4 +1,12 @@
-#Change log
+# Change log
+
+## 27-AUG-2018
+
+* **Update Midi wiki** - Removed the mention of a wingnut because I decided to make a remote bomb instead. Bomb laddering will be done by laying and detonating the bombs rapidly.
+
+* **Update Controls wiki** - Added controls for Midi's transphere.
+
+* **General design update** - An AI partner system seems beyond my ability for now, so I'm removing the concept from the core design. Instead, characters will just be switchable. However, I may put in local co-op for missions that use two characters.
 
 ## 30-JUL-2018
 

@@ -27,7 +27,7 @@ Midi is the most straightforward platformer character. He has lower physical att
 
 ![Bombs](img/bombs.gif)
 
-* Normal - A 'clean flame' that deals damage but does not have an elemental effect. When charged, it can be launched at a greater distance and deals extra damage. This type costs the least amount of energy to use.
+* Normal - A pure kineetic explosion that deals damage but does not have an elemental effect. When charged, it can be launched at a greater distance and deals extra damage. This type costs the least amount of energy to use.
 * Fire - Adds a burning effect that slowly damages enemies over time. Can also be used to burn down certain plant matter and weaker ice blocks to open passages. When charged, it creates a bigger explosion and deals extra damage.
 * Shock - Adds a static effect that causes enemies to pass along an electric charge that damages them when spread, and slows enemies down through paralisys. Electricity can also be used to power conduits and charge machinery. Underwater, the static effect can jump further. When charged, it creates a ball of lightning that lingers and launches lightning bolts at enemies.
 * Ice - Adds a freezing effect that stops enemies cold when their health is low. Flying enemies will fall and take damage when frozen, except when under water. When charged, it creates a swirling blizzard that freezes all enemies caught in it, regardless of health (except bosses).
@@ -38,7 +38,7 @@ His bombs can be dispensed in three ways:
 * Charging - When charged, Midi will use both hands, one holding the charged bomb, and one that creates a secondary explosion to launch it, gaining greater speed and distance than a thrown bomb.
 * Spinning - When on the ground, pressing down and forward while throwing will instead spin the bomb like a top along the ground, making it much easier to hit enemies that are too low to easily hit by throwing.
 * Planting - Midi can have one landmine planted at a time. This is done by holding down while standing and pressing the bomb button. If Midi jumps while standing on a mine, it will explode under him, launching him into the air for a much higher jump.
-* Dropping - While in his transphere, Midi will leave a time bomb on the ground. If he has the wingnut ability, these bombs will float, allowing him to perform a repetitive bomb jump for as long as he has energy to do so.
+* Dropping - While in his transphere, Midi will leave a remote or time bomb on the ground. Rapidly dropping and detonating remote bombs will allow limited bomb laddering.
 
 Even when charged, Midi's bombs suffer a speed reduction when under water.
 
@@ -52,6 +52,4 @@ Midi gains the transphere when he falls into a pillbug manufacturing machine. Th
 
 The tailsafe (as Midi calls it, a play on the word "failsafe") is a portal in his tail that leads to his own personal hyperspace arsenal, and acts as his inventory. His tail is also unusually strong, and helps him with both handling long falls and swimming, as he's not a very good swimmer.
 
-Midi can travel between areas by returning to the Cloud Chaser and speaking to Sophie, who will list what areas can be travelled to and what missions are available for each one. New areas are unlocked as the game progresses. Trey will give story missions as Midi gains experience while he investigates the Cold Front, and will join in some of the story missions as an AI partner.
-
-When Trey is following Midi, he will help attack enemies using his own gameplay moves. If he cannot find a way back to Midi, he will simply teleport to him. While Trey is not invincible, he won't die and cost players the mission when he runs out of health, but instead crouches down to catch his breath for a moment, then catch up with Midi when he's better.
+Midi can travel between areas by returning to the Cloud Chaser and speaking to Sophie, who will list what areas can be travelled to and what missions are available for each one. New areas are unlocked as the game progresses. Trey will give story missions as Midi gains experience while he investigates the Cold Front, and will join in some of the story missions as a switchable partner.

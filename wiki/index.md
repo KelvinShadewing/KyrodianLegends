@@ -8,30 +8,44 @@ These pages contain spoilers for the game's storyline. If you are not interested
 
 ## CATEGORIES
 
-|CHARACTERS                         |LIFEFORMS                  | WORLD                     |
-|-----------------------------------|---------------------------|---------------------------|
-|**Heroes**                         |[Kholu](kholu.md)          |[History](history.md)      |
-|[Midi Waffle](midi.md)             |[Marstels](marstels.md)    |[Geography](geography.md)  |
-|[Trey Mendez](trey.md)             |[Humans](humans.md)        |[Technology](technology.md)|
-|[Sophie Mendez](sophie.md)         |[Gryphons](gryphons.md)    |[Magic](magic.md)          |
-|[Hunter Shadewing](hunter.md)      |[Shadewings](shadewings.md)|[Factions](factions.md)    |
-|&nbsp;                             |[Hidegvins](hidegvins.md)  |
-|**Villains**                       |[Dragons](dragons.md)      |
-|[Emperor Pendragon](pendragon.md)  |[Nagas](nagas.md)          |
-|[Guinevere Pendragon](guinevere.md)|[Biometals](biometals.md)  |
-|[Puck Pendragon](puck.md)          |[Vampires](vampires.md)    |
-|[Dr. Alastor Quincey](drq.md)      |
-|[Obtuse Angler](obtuse.md)         |
-|&nbsp;                             |
-|**Friendlies**                     |
-[Rusty](rusty.md)                   |
+&nbsp;
+
+###Characters
+
+**Heroes**
+
+|Heroes                       |Villains                           |Friendlies       |
+|-----------------------------|-----------------------------------|-----------------|
+|[Midi Waffle](midi.md)       |[Emperor Pendragon](pendragon.md)  |[Rusty](rusty.md)|
+|[Trey Mendez](trey.md)       |[Guinevere Pendragon](guinevere.md)|
+|[Sophie Mendez](sophie.md)   |[Puck Pendragon](puck.md)          |
+|[Hunter Shadewing](hunter.md)|[Dr. Alastor Quincey](drq.md)      |
+|                             |[Obtuse Angler](obtuse.md)         |
+
+&nbsp;
+
+|LIFEFORMS                  |WORLD                      |
+|---------------------------|---------------------------|
+|[Kholu](kholu.md)          |[History](history.md)      |
+|[Marstels](marstels.md)    |[Geography](geography.md)  |
+|[Humans](humans.md)        |[Technology](technology.md)|
+|[Gryphons](gryphons.md)    |[Magic](magic.md)          |
+|[Shadewings](shadewings.md)|[Factions](factions.md)    |
+|[Hidegvins](hidegvins.md)  |
+|[Dragons](dragons.md)      |
+|[Nagas](nagas.md)          |
+|[Biometals](biometals.md)  |
+|[Vampires](vampires.md)    |
+
+&nbsp;
 
 |CAMPAIGNS              |GAMEPLAY                 |
 |-----------------------|-------------------------|
 |[Maga Fins](ep1.md)    |[Overworld](overworld.md)|
-|[Blood Victual](ep2.md)|[Items](items.md)        |
-|[Apex Hunter](ep3.md)  |[Controls](controls.md)  |
-|[Six Packs](ep4.md)    |[Platformer](platform.md)|
+|[Blood Victual](ep2.md)|[Controls](controls.md)  |
+|[Items](items.md)      |[Platformer](platform.md)|
+|[Apex Hunter](ep3.md)  |
+|[Six Packs](ep4.md)    |
 
 ## TODO
 

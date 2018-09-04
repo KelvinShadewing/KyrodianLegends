@@ -20,4 +20,16 @@
   actor[c].line = timeline;
 };
 
+::tlSplashScreen <- function(timer){
+  switch(timer){ //TODO: Make splash images
+    case 0:
 
+      break;
+    case 90:
+
+      break;
+    case 180:
+
+      break;
+  };
+};

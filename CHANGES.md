@@ -1,5 +1,9 @@
 # Change log
 
+## 04-SEP-2018
+
+* **Update Pendragon wiki** - Filled in Pendragon's bio some. I'll add more if I can think of any new details.
+
 ## 03-SEP-2018
 
 * **Add Pendragon wiki** - Gonna fill this in, with more soon. Just wanted to get it set up for now.

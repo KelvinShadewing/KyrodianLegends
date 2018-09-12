@@ -13,6 +13,7 @@
 	//Set the game mode
 	gvGameMode = 0;
 	newActor(Midi, 64, 120);
+	newTimeline(tlTest);
 
 	//Run main game loop
 	local quit = false;

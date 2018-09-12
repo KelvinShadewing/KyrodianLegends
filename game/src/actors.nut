@@ -68,7 +68,7 @@
 		yspeed += 0.5;
 		y += yspeed;
 		if(y > 200) deleteActor(this.id);
-		drawSprite(sprMidiP, frame + 104, x, y);
+		drawSprite(sprMidiP, frame + 208, x, y);
 		if(frame < 7) frame += 1;
 		else frame = 0;
 	};

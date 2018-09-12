@@ -13,6 +13,10 @@
 
     timer++;
   };
+
+  function destructor(){
+    print("Timeline ended: " + timer.tostring());
+	};
 };
 
 ::newTimeline <- function(timeline){

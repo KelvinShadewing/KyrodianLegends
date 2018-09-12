@@ -2,7 +2,9 @@
 
 ## 11-SEP-2018
 
-* **Add test timeline** - Made a small timeline at work to test when I get home.
+* **Add test timeline** - Made a small timeline at work to test when I get home... Tested it, and it works great! While the current timeline handler works globally, the code for the timeline actor can easily be inserted into any other actor's class to make them able to run timelines as well. I'm going to refit the current timeline code to make it work for all actors later.
+
+* **Add enemy wiki pages: pengrunt, pillbug** - Started making pages to describe planned enemy behavior. I've also realized I've been putting too much world building into the game wiki instead of keeping it mainly focused on gameplay, so I'm going to make a separate wiki for lore that can be applied to other media as well.
 
 ## 04-SEP-2018
 

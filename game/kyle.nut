@@ -16,6 +16,7 @@ donut("src/actors.nut");
 donut("src/menu.nut");
 donut("src/intro.nut");
 donut("src/title.nut");
+donut("src/timelines.nut");
 //donut("src/debug.nut");
 donut("src/midi.nut");
 donut("src/main.nut");

@@ -1,5 +1,9 @@
 # Change log
 
+## 11-SEP-2018
+
+* **Add test timeline** - Made a small timeline at work to test when I get home.
+
 ## 04-SEP-2018
 
 * **Update Pendragon wiki** - Filled in Pendragon's bio some. I'll add more if I can think of any new details.

@@ -7,7 +7,7 @@
 	setBackgroundColor(0);
 	setScalingFilter(1);
 	setWindowTitle("Kyrodian Legends");
-	setResolution(400, 240);
+	setResolution(360, 240);
 	setFPS(30);
 
 	//Set the game mode

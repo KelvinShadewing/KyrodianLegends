@@ -54,6 +54,17 @@
 	return actor.rawin(id);
 };
 
+::findActor <- function(type){
+  foreach(i in actor){
+    if(typeof i == type){
+			return i.id;
+			break;
+		};
+  };
+
+  return -1;
+};
+
 //Game Actors
 ::TestBall <- class extends Actor{
 	frame = 0;

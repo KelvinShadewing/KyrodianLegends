@@ -28,10 +28,9 @@ These pages contain spoilers for the game's storyline. If you are not interested
 |---------------------------|---------------------------|
 |[Kholu](kholu.md)          |[History](history.md)      |
 |[Marstels](marstels.md)    |[Geography](geography.md)  |
-|[Humans](humans.md)        |[Technology](technology.md)|
-|[Gryphons](gryphons.md)    |[Magic](magic.md)          |
-|[Shadewings](shadewings.md)|[Factions](factions.md)    |
-|[Hidegvins](hidegvins.md)  |
+|[Gryphons](gryphons.md)    |[Technology](technology.md)|
+|[Shadewings](shadewings.md)|[Magic](magic.md)          |
+|[Hidegvins](hidegvins.md)  |[Factions](factions.md)    |
 |[Dragons](dragons.md)      |
 |[Nagas](nagas.md)          |
 |[Biometals](biometals.md)  |

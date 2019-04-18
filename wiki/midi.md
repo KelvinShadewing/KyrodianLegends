@@ -31,8 +31,9 @@ Midi is the most straightforward platformer character. He has lower physical att
 * Fire - Adds a burning effect that slowly damages enemies over time. Can also be used to burn down certain plant matter and weaker ice blocks to open passages. When charged, it creates a bigger explosion and deals extra damage.
 * Shock - Adds a static effect that causes enemies to pass along an electric charge that damages them when spread, and slows enemies down through paralisys. Electricity can also be used to power conduits and charge machinery. Underwater, the static effect can jump further. When charged, it creates a ball of lightning that lingers and launches lightning bolts at enemies.
 * Ice - Adds a freezing effect that stops enemies cold when their health is low. Flying enemies will fall and take damage when frozen, except when under water. When charged, it creates a swirling blizzard that freezes all enemies caught in it, regardless of health (except bosses).
+* Dark - Creates a gravity well that pulls in enemies and damages them with intense pressure. Cannot be used normally, but must be built up by taking damage.
 
-His bombs can be dispensed in three ways:
+His bombs can be dispensed in several ways:
 
 * Throwing - The basic attack he starts with. It can be aimed in eight directions, and throws bombs in an arc.
 * Charging - When charged, Midi will use both hands, one holding the charged bomb, and one that creates a secondary explosion to launch it, gaining greater speed and distance than a thrown bomb.

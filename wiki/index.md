@@ -42,9 +42,9 @@ These pages contain spoilers for the game's storyline. If you are not interested
 |-----------------------|-------------------------|
 |[Maga Fins](ep1.md)    |[Overworld](overworld.md)|
 |[Blood Victual](ep2.md)|[Controls](controls.md)  |
-|[Items](items.md)      |[Platformer](platform.md)|
-|[Apex Hunter](ep3.md)  |[Enemies](enemies.md)    |
-|[Six Packs](ep4.md)    |
+|[Apex Hunter](ep3.md)  |[Platformer](platform.md)|
+|[Six Packs](ep4.md)    |[Enemies](enemies.md)    |
+|                       |[Items](items.md)        |
 
 ## TODO
 

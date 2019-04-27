@@ -3,7 +3,6 @@
 //////////
 
 ::Midi <- class extends Physical{
-	state = idling;
 	blink = 0;
 	sprinting = 0;
 	gravity = 0;

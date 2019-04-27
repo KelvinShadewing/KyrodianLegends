@@ -1,5 +1,9 @@
 # Change Log
 
+## 19-APR-2019
+
+* **I forget...** - Yeah, not the best title for an update. I've been making little changes here and there over time, but my motivation has been pretty crapped out lately. At least I had time to work on some of the scritp for the first episode. Finished the cutscene for the intro stage, so that's something. Also tweaked the code a bit here and there, but may end up reverting the changes to some of the things I did. Also animating Trey some more, so those sprites will be up soon.
+
 ## 11-SEP-2018
 
 * **Add test timeline** - Made a small timeline at work to test when I get home... Tested it, and it works great! While the current timeline handler works globally, the code for the timeline actor can easily be inserted into any other actor's class to make them able to run timelines as well. I'm going to refit the current timeline code to make it work for all actors later.

@@ -2,6 +2,16 @@
 
 &nbsp;
 
+**Synopsis:** Midi is an ex pirate who escapes from his old crew and tries to stop them, but is injured. He is rescued by Trey and Sophie, who agree to help defeat the Cold Front. Trey investigates and gives leads to where the CF are heading while Sophie trains Midi and transports him in her airship.
+
+At each dig site, Midi defeats one of Pendragon's commanders, but the CF manage to get away with the four keys they were searching for. Trey discovers the keys are to a vault that holds a weapon of terrible power. The team head out to attack the CF directly.
+
+They assault the Avalanche and critically damage it, forcing a crash landing. Pendragon escapes in a plane with Midi's team in persuit, and they arrive at the vault where Pendragon uses the keys to unlock the weapon just as Midi arrives, where they have their final battle.
+
+After defeating the Cold Front, Midi goes back to his cousin, Rusty's, house, and lets Trey and Sophie know to call him if the CF seem to be causing trouble again. Meanwhile, Dr. Quincey, seeing his leader utterly defeated by a child, takes charge of the Cold Front and swears revenge on Midi, telling the crew he knows of an alternative way to sieze their glory.
+
+&nbsp;
+
 *All cutscenes are skippable by pressing start. A menu will ask if the player would like to skip in case they press it by accident.*
 
 The episode begins with [Midi](midi.md) aboard the Avalanche. They approach a small mining town, at which point [Dr Quincey](drq.md) calls all [Cold Front](factions.md) members to the hangar for a briefing.

@@ -1,5 +1,11 @@
 # Change Log
 
+## 4-MAY-2019
+
+* **Update Episode 1** - I added a synopsis to show what I have planned for the episode and give a simple guideline to follow and make sure I have a clear direction to follow.
+
+* **Re-add character portraits** - I got ahold of Foxboy83 and asked him about licensing, and he said it's fine to relicense the art I get from him, so the portraits have been put back in. As with the rest of the assets in `res/kl`, they are free under CC BY-SA 4.0. I'm also going to be getting more art done of characters to use in the wiki.
+
 ## 19-APR-2019
 
 * **I forget...** - Yeah, not the best title for an update. I've been making little changes here and there over time, but my motivation has been pretty crapped out lately. At least I had time to work on some of the scritp for the first episode. Finished the cutscene for the intro stage, so that's something. Also tweaked the code a bit here and there, but may end up reverting the changes to some of the things I did. Also animating Trey some more, so those sprites will be up soon.

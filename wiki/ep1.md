@@ -14,6 +14,18 @@ After defeating the Cold Front, Midi goes back to his cousin, Rusty's, house, an
 
 *All cutscenes are skippable by pressing start. A menu will ask if the player would like to skip in case they press it by accident.*
 
+## Chapter 0:	Snake? Snake!
+
+> [Cutscene opens with a small, blue aircraft landing on a beach. Midi and three pengrunts disembark, one wearing a black headband, the other two wearing hard hats. They walk up the beach until they reach an old stone ruin.]
+
+> MIDI: Are you sure this is the place? It looks like a real dump to me.
+
+> CAP: Dr. Quincey hasn't been wrong about this stuff yet.
+
+> MIDI: 
+
+## Chapter 1: What's Mined is Mine
+
 The episode begins with [Midi](midi.md) aboard the Avalanche. They approach a small mining town, at which point [Dr Quincey](drq.md) calls all [Cold Front](factions.md) members to the hangar for a briefing.
 
 > [Scene begins with an external view of the Avalanche coming in to view, then zooms in to it and switches to an internal view with pengrunts walking through the hall.]

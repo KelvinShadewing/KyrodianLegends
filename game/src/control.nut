@@ -2,7 +2,8 @@
 | CONTROLS |
 \*========*/
 
-::klBtnPress <- function(button, player){
+//Keyboard or button press handler
+::klPress <- function(button, player){
 	switch(button){
 		case "left":
 			if(keyPress(klKeyLeft[player])) return true;

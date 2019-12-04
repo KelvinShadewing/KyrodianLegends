@@ -1,8 +1,8 @@
-# Sophie Mendez
+# Sophie Cano
 
 &nbsp;
 
-**FULL NAME:** Sophia Robin Mendez  
+**FULL NAME:** Sophia Robin Cano  
 **RACE:** [Marstel](marstels.md)  
 **SEX:** Female  
 **AGE:** 18  

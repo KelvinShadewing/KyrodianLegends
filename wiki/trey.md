@@ -1,8 +1,8 @@
-# Trey Cano
+# Trey Nuberro
 
 &nbsp;
 
-**FULL NAME:** Trey Julian Cano  
+**FULL NAME:** Trey Julian Nuberro  
 **RACE:** [Marstel](marstels.md)  
 **SEX:** Male  
 **AGE:** 18  

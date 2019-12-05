@@ -1,8 +1,8 @@
-# Sophie Cano
+# Sophie Nuberro
 
 &nbsp;
 
-**FULL NAME:** Sophia Robin Cano  
+**FULL NAME:** Sophia Robin Nuberro  
 **RACE:** [Marstel](marstels.md)  
 **SEX:** Female  
 **AGE:** 18  
@@ -17,4 +17,4 @@ Sophie is [Trey](trey.md)'s twin sister. Like her brother, she was born with [va
 Unlike Trey, Sophie didn't allow the abuse from her parents to make her distant or aloof. Instead, she chose to be as warm and caring as she could in an effort to be the exact opposite of what her parents were. She also developed an interest in machines, and eventually became both pilot and mechanic when she and Trey bought their own airship.
 
 **GAMEPLAY:**  
-She's currently just planned to be Midi's transportation interface for the time being, but I've had the idea of an episode featuring her rescuing him from capture, or even tagging along as an AI partner in some missions.
+She's currently just planned to be Midi's transportation interface for the time being, but I've had the idea of an episode featuring her rescuing him from capture, or even tagging along as an AI partner in some missions. In others, she acts as a sniper, offering cover fire and helping to fight enemies that may be out of the others' reach.

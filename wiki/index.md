@@ -17,8 +17,8 @@ These pages contain spoilers for the game's storyline. If you are not interested
 |Heroes                       |Villains                           |Friendlies       |
 |-----------------------------|-----------------------------------|-----------------|
 |[Midi Waffle](midi.md)       |[Emperor Pendragon](pendragon.md)  |[Rusty](rusty.md)|
-|[Trey Mendez](trey.md)       |[Guinevere Pendragon](guinevere.md)|
-|[Sophie Mendez](sophie.md)   |[Puck Pendragon](puck.md)          |
+|[Trey Cano](trey.md)         |[Guinevere Pendragon](guinevere.md)|
+|[Sophie Cano](sophie.md)     |[Puck Pendragon](puck.md)          |
 |[Hunter Shadewing](hunter.md)|[Dr. Alastor Quincey](drq.md)      |
 |                             |[Obtuse Angler](obtuse.md)         |
 

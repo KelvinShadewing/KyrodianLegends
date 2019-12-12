@@ -1,12 +1,12 @@
-# Trey Mendez
+# Trey Nuberro
 
 &nbsp;
 
-**FULL NAME:** Trey Julian Mendez  
+**FULL NAME:** Trey Julian Nuberro  
 **RACE:** [Marstel](marstels.md)  
 **SEX:** Male  
 **AGE:** 18  
-**HEIGHT:** 5'1"  
+**HEIGHT:** 5'2"  
 **WEIGHT:** ...  
 **COLORS:** Dark gray fur, light gray underfur, green eyes  
 **FACTION:** Cloud Chasers

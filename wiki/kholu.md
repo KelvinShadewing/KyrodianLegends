@@ -13,3 +13,8 @@ Kholu are among the most [magically](magic.md) adept people on Kyroda, second on
 Originally the Weeping Fortress, this massive one-tree city is the ultimate example of the kholu's connection to nature. First created during the Biometal War, the Weeping Fortress was made able to tighten his willow hangings into a hard ball to defend against attacks, and the bark is strong enough to withstand missile blasts with minimal damage. After the war, it became a symbol of interracial cooperation during the Renaissance era as mages and engineers pulledd together to help the tree grow into a full-blown city.
 
 The trunk alone is several city blocks in diameter, and the branches are wide enough that whole roads were carved into them. The branches are lit with paper lanterns with a different color for each district, allowing people to easily find their way by following the lights. Some ground dwellings also exist under the branches, and rain caught by the leaves is directed around into streams that originate from the city perrimeter, making outskirt farming easy with the plentiful water supply.
+
+## characters
+
+* [Midi Waffle](midi.md)
+* [Rusty Risotto](rusty.md)

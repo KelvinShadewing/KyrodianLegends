@@ -2,7 +2,7 @@
 
 &nbsp;
 
-**FULL NAME:** Trey Julian Nuberro  
+**FULL NAME:** Trey Soto Nuberro  
 **RACE:** [Marstel](marstels.md)  
 **SEX:** Male  
 **AGE:** 18  

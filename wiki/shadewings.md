@@ -19,3 +19,7 @@ To aid in use of their psi, and to help speed up developing new psionic abilitie
 Since the [first era](history.md), shadewings have been blamed for nightmares and madness, and are said to only appear before those who are doomed to die soon. They were known to appear and disappear silently, could speak directly to the mind, and could enter the dreams of others.
 
 All of these traits were replicated by Apex. The choice to create a mythological creature came from the idea that anyone claiming they saw one would never be believed.
+
+## Characters
+
+* [Hunter](hunter.md)

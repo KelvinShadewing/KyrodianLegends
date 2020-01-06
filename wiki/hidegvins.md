@@ -12,6 +12,11 @@ The haven city of the hidegvins is a massive ice cavern under the antarctic shel
 
 Ice bricks used for walls are normally white, but can be dyed to give buildings distinguishing colors and designs so that the entire city doesn't look identical. Once the bricks are arranged, they are shaved and smoothed into a variety of shapes, allowing hidegvin structures to take just about any shape.
 
+## Characters
+
+* [Emperor Pendragon](pendragon.md)
+* [Dr. Quincey](quincey.md)
+
 ## Notes
 
 Hidegvin is a portmanteau of Hungarian words "hideg" meaning "chill" and "pingvin" meaning "penguin". It's both a reference to my herritage and to Chill Penguin from Mega Man X, my favorite game as a kid.

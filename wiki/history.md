@@ -4,7 +4,7 @@ Kyroda's recorded history is divided into four eras. More info will be added to 
 
 ## Feudal Era
 
-Recorded history begins with only vague accounts of this era due to a lack of emphasis on intellectual pursuits. During this time, the races of Kyroda were at odds with one another, even with the likes of [kholu](kholu.md) and [humans](humans.md) being hunted as prey by others.
+Recorded history begins with only vague accounts of this era due to a lack of emphasis on intellectual pursuits. During this time, the races of Kyroda were at odds with one another, even with the likes of [kholu](kholu.md) and [marstels](marstels.md) being hunted as prey by others.
 
 ## Biometal War
 

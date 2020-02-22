@@ -14,6 +14,12 @@ Since they were developed for military use, they were also imbued with experimen
 
 To aid in use of their psi, and to help speed up developing new psionic abilities, the shadewing brain posesses a genetic computer called the Subconsciously Intigrated Computing Assistant, or SICA. It's basically a genetic AI inherrited in the form of a chromosome. SICA can provide analysis, perform automated tasks (however, the shadewing must still provide the energy needed to run these tasks), and communicate through the subconscious with the body to interpret bio feedback, giving shadewings a clearer understanding of what's happening in their systems. SICA can also scan the passive ESP waves emitted by shadewings to detect motion and provide a 3D map of the area, as well as trigger a short burst of neural overclocking known as a theta state that allows shadewings to see and process faster, essentially creating the illusion of slowed time for them. Theta mode is incredibly taxing on the brain, however, and should only be used in short bursts to prevent brain damage.
 
+## Frostwings
+
+Frostwings are the arctic model shadewings. They have white fur instead of teal scales designed to keep them warm and help them blend into snowy environments. For their eye colors, they have cyan for telekinesis and magenta for cloaking. The mane and tail colors are the same as their temperate counterparts.
+
+A concept for dustwings, the desert model, was designed, however no specimens were created before the project went under. They would have had sandy tan scales with orange eyes for cloaking and yellow for kinesis.
+
 ## Mythology
 
 Since the [first era](history.md), shadewings have been blamed for nightmares and madness, and are said to only appear before those who are doomed to die soon. They were known to appear and disappear silently, could speak directly to the mind, and could enter the dreams of others.

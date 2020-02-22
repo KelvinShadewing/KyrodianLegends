@@ -21,7 +21,7 @@
 	klKeySpecS = [k_a, 0],
 	klKeySpecT = [k_f, 0],
 	klKeyMenu = [k_tab, 0],
-	klKeySwitch = [k_, 0],
+	klKeySwitch = [k_backspace, 0],
 
 	klJoyDown = [0, 0],
 	klJoyUp = [0, 0],

@@ -88,15 +88,15 @@
 
 	function step(){
 		//Friction
-		if(xspeed > 0) xspeed--;
-		if(xspeed < 0) xspeed++;
+		if(xspd > 0) xspd--;
+		if(xspd < 0) xspd++;
 
 		//Controls
-		if(keyDown(k_right) && xspeed < mspeed) xspeed += 2;
-		if(keyDown(k_left) && xspeed > -mspeed) xspeed -= 2;
+		if(keyDown(k_right) && xspd < mspd) xspd += 2;
+		if(keyDown(k_left) && xspd > -mspd) xspd -= 2;
 		if(keyPress(k_space)) newActor(TestBall, x, y);
-		if(keyDown(k_lshift) || keyDown(k_rshift)) mspeed = 8;
-		else mspeed = 4;
+		if(keyDown(k_lshift) || keyDown(k_rshift)) mspd = 8;
+		else mspd = 4;
 
 		//Attack
 
@@ -115,7 +115,7 @@
 		};
 
 		//Update
-		move(xspeed, yspeed);
+		move(xspd, yspd);
 		drawSprite(sprite, anim[floor(frame)], x, y);
 	};
 

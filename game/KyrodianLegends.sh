@@ -4,7 +4,7 @@
 ####################
 
 echo Launching Kyrodian Legends.
-xyg kyle.nut
+brux kyle.nut
 echo "
 
 

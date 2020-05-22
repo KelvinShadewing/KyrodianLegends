@@ -18,7 +18,17 @@ To aid in use of their psi, and to help speed up developing new psionic abilitie
 
 Frostwings are the arctic model shadewings. They have white fur instead of teal scales designed to keep them warm and help them blend into snowy environments. For their eye colors, they have cyan for telekinesis and magenta for cloaking. The mane and tail colors are the same as their temperate counterparts.
 
-A concept for dustwings, the desert model, was designed, however no specimens were created before the project went under. They would have had sandy tan scales with orange eyes for cloaking and yellow for kinesis.
+## Dustwings
+
+Dustwings are the desert model shadewings. They have sandy tan scales. Their wings are leather like their shadewing cousins, allowing them to ventilate heat and control their body temperature without expending psionic energy. They have orange eyes for cloaking and yellow for kinesis.
+
+Both subspecies of shadewing have thermokinesis built in as well. 
+
+## Hybrids
+
+Although possible, hybrids between different types of shadewings are extremely unlikely, and because of their already low population and strict breeding procedures used to keep their population from getting too high, hybrids are incredibly rare.
+
+Since they both have scales, a hybrid between a shadewing and a dustwing is visibly indistinguishable, however crossing with a frostwing could result in a furred shadewing/dustwing, or a scaled frostwing. Hybrids are born sterile/infertile, and because mixing their colorations tends to defeat the purpose for which they were designed, creating hybrids is highly discouraged.
 
 ## Mythology
 

@@ -20,6 +20,8 @@ The assets in `res/cc` are free under their respective licenses. See CREDITS.md 
 
 The music by JazzyPanda has not been cleared for release under creative commons, and should not be used in other projects until this changes.
 
+Materials in the wiki are licensed under CC-BY-SA 4.0, unless otherwise specified.
+
 &nbsp;
 
 ## Gameplay

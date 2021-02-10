@@ -14,7 +14,7 @@ Originally the Weeping Fortress, this massive one-tree city is the ultimate exam
 
 The trunk alone is several city blocks in diameter, and the branches are wide enough that whole roads were carved into them. The branches are lit with paper lanterns with a different color for each district, allowing people to easily find their way by following the lights. Some ground dwellings also exist under the branches, and rain caught by the leaves is directed around into streams that originate from the city perrimeter, making outskirt farming easy with the plentiful water supply.
 
-## characters
+## Characters
 
 * [Midi Waffle](midi.md)
 * [Rusty Risotto](rusty.md)

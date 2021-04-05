@@ -9,16 +9,43 @@
 \*========================================*/
 
 
+//Standard libs
+donut("std/shapes.nut");
+donut("std/timelines.nut");
+
 //Run game sources
 donut("src/global.nut");
 donut("src/assets.nut");
-donut("src/actors.nut");
 donut("src/menu.nut");
 donut("src/intro.nut");
 donut("src/title.nut");
-donut("src/timelines.nut");
 //donut("src/debug.nut");
+donut("src/physactor.nut");
 donut("src/midi.nut");
 donut("src/main.nut");
 
-main();
+//////////
+// MAIN //
+//////////
+
+//Set up the display
+setBackgroundColor(0);
+setScalingFilter(1);
+setWindowTitle("Kyrodian Legends");
+setResolution(320, 240);
+setFPS(30);
+
+//Set the game mode
+gvGameMode = 0;
+newActor(Midi, 64, 120);
+newTimeline(tlTest);
+
+//Run main game loop
+local quit = false;
+while(!quit){
+	if(gvGameMode != 0) gvGameMode();
+	if(keyPress(k_escape)) quit = true;
+
+	runActors();
+	update();
+};

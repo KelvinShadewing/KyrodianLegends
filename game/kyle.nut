@@ -35,10 +35,11 @@ setWindowTitle("Kyrodian Legends");
 setResolution(320, 240);
 setFPS(30);
 
+//Add resource paths
+tileSearchDir.push("res");
+
 //Set the game mode
 gvGameMode = 0;
-newActor(Midi, 64, 120);
-newTimeline(tlTest);
 
 //Run main game loop
 local quit = false;

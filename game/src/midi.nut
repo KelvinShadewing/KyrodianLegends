@@ -16,14 +16,16 @@
 	//Animations
 	anim = []; //Animation frame delimiters: [start, end, speed]
 	anStand = [0.0, 0.0];
-	anWalk = [8.0, 15.0];
-	anRun = [16.0, 23.0];
+	anIdle = [1.0, 4.0];
+	anCrouch = [6.0, 6.0];
+	anWalk = [16.0, 23.0];
+	anJog = [32.0, 39.0];
+	anRun = [48.0, 55.0];
 	anDive = [24.0, 25.0];
-	anSlide = [26.0, 29.0];
-	anHurt = [30.0, 31.0];
-	anJumpU = [32.0, 33.0];
-	anJumpT = [34.0, 35.0];
-	anFall = [36.0, 37.0];
+	anHurt = [14.0, 15.0];
+	anJumpU = [8.0, 9.0];
+	anJumpT = [10.0, 11.0];
+	anFall = [12.0, 13.0];
 	anClimb = [44.0, 47.0];
 	anWall = [48.0, 49.0];
 

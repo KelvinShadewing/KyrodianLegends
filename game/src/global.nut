@@ -3,25 +3,37 @@
 ////////////
 
 ::gvGameMode <- 0;
-::Game <- {
+::game <- {
 	//Global variables for gameplay
 	//Stored in player save files
+	health = 4,
+	maxHealth = 0,
+
+	//Pointer to player actor
+	player = 0,
+	//Starting character
+	char0 = Midi,
+	//Character to swap to
+	char1 = 0,
+	charUnlocked = ["Midi"]
 };
-::gvCfg <-{
+::config <-{
 	//Configuration data is stored in this table.
 
-	klKeyDown = [k_down, 0],
-	klKeyUp = [k_up, 0],
-	klKeyLeft = [k_left, 0],
-	klKeyRight = [k_right, 0],
-	klKeyJump = [k_s, 0],
-	klKeyAttack = [k_d, 0],
-	klKeyDash = [k_lshift, 0],
-	klKeySpecP = [k_w, 0],
-	klKeySpecS = [k_a, 0],
-	klKeySpecT = [k_f, 0],
-	klKeyMenu = [k_tab, 0],
-	klKeySwitch = [k_backspace, 0],
+	key = {
+		down = k_down,
+		up = k_up,
+		left = k_left,
+		right = k_right,
+		jump = k_s,
+		attack = k_d,
+		run = k_lshift,
+		specp = k_f,
+		specs = k_a,
+		spect = k_w,
+		menu = k_tab,
+		swap = k_backspace
+	}
 
 	klJoyDown = [0, 0],
 	klJoyUp = [0, 0],
@@ -36,3 +48,5 @@
 	klJoyMenu = [0, 0],
 	klJoySwitch = [0, 0]
 };
+::camx <- 0;
+::camy <- 0;

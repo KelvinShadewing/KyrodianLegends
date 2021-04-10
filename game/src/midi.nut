@@ -2,6 +2,45 @@
 // MIDI //
 //////////
 
+::Nutbomb <- class extends PhysAct {
+	hspeed = 0.0;
+	vspeed = 0.0;
+	frame = 0.0;
+	gravity = 0.2;
+	element = 0;
+	level = 0;
+
+	function run() {
+		if(!placeFree(x, y)) explode();
+	}
+
+	function explode() {
+		//Create explosion object
+		switch(element) {
+			case 0:
+				//Normal
+				break;
+			case 1:
+				//Fire
+				break;
+			case 2:
+				//Thunder
+				break;
+			case 3:
+				//Ice
+				break;
+			case 4:
+				//Dark
+				break;
+			default:
+				//Smoke (incorrect value)
+				break;
+		}
+		//Delete actor
+		deleteActor(id);
+	}
+}
+
 ::Midi <- class extends PhysAct{
 	canJump = 16;
 	didJump = false; //Checks if up speed can be slowed by letting go of jump
@@ -21,24 +60,21 @@
 	anWalk = [16.0, 23.0];
 	anJog = [32.0, 39.0];
 	anRun = [48.0, 55.0];
-	anDive = [24.0, 25.0];
 	anHurt = [14.0, 15.0];
 	anJumpU = [8.0, 9.0];
 	anJumpT = [10.0, 11.0];
 	anFall = [12.0, 13.0];
 	anClimb = [44.0, 47.0];
-	anWall = [48.0, 49.0];
+	anWall = [62.0, 63.0];
 
-	constructor(_x, _y)
-	{
+	constructor(_x, _y) {
 		base.constructor(_x, _y);
 		anim = anStand;
 		shape = Polygon(x, y, [[2, 14], [7, 10], [7, -3], [2, -8], [-2, -8], [-7, -3], [-7, 10], [-2, 14]]);
 		game.player = this;
 	}
 
-	function run()
-	{
+	function run() {
 		//Side checks
 		local freeDown = placeFree(x, y + 1);
 		local freeLeft = placeFree(x - 1, y);
@@ -49,28 +85,28 @@
 		//times per frame.
 
 		//Animation states
-		switch(anim)
-		{
+		switch(anim) {
 			case anStand:
 				frame = 0.0;
-				if(hspeed != 0)
-				{
+
+				if(hspeed != 0) {
 					anim = anWalk;
 					frame = anim[0];
 				}
-				if(placeFree(x, y + 2))
-				{
+
+				if(placeFree(x, y + 2)) {
 					if(vspeed >= 0) anim = anFall;
 					else anim = anJumpU;
 					frame = anim[0];
 				}
+
 				break;
 			case anWalk:
 				frame += abs(hspeed) / 8;
 				if(hspeed == 0) anim = anStand;
 				if(abs(hspeed) > 4) anim = anRun;
-				if(placeFree(x, y + 2))
-				{
+
+				if(placeFree(x, y + 2)) {
 					if(vspeed >= 0) anim = anFall;
 					else anim = anJumpU;
 					frame = anim[0];
@@ -79,120 +115,114 @@
 			case anRun:
 				frame += abs(hspeed) / 8;
 				if(abs(hspeed) < 3) anim = anWalk;
-				if(placeFree(x, y + 2))
-				{
+
+				if(placeFree(x, y + 2)) {
 					if(vspeed >= 0) anim = anFall;
 					else anim = anJumpU;
 					frame = anim[0];
 				}
+
 				break;
 			case anJumpU:
 				if(frame < anim[0] + 1) frame += 0.3;
-				if(!freeDown)
-				{
+
+				if(!freeDown) {
 					anim = anStand;
 					frame = 0.0;
 				}
-				if(vspeed > 0)
-				{
+
+				if(vspeed > 0) {
 					anim = anJumpT;
 					frame = anim[0];
 				}
+
 				break;
 			case anJumpT:
 				frame += 0.2;
-				if(!freeDown)
-				{
+
+				if(!freeDown) {
 					anim = anStand;
 					frame = 0.0;
 				}
-				if(frame > anim[1])
-				{
+
+				if(frame > anim[1]) {
 					anim = anFall;
 					frame = anim[0];
 				}
+
 				break;
 			case anFall:
 				frame += 0.2;
-				if(!freeDown)
-				{
+
+				if(!freeDown) {
 					anim = anStand;
 					frame = 0.0;
 				}
+
 				break;
 			case anClimb:
-				if(frame < anim[0])
-				{
+				if(frame < anim[0]) {
 					frame = anim[0];
 					climbf = 1;
 				}
-				if(frame > anim[1])
-				{
+
+				if(frame > anim[1]) {
 					frame = anim[1]
 					climbf = -1;
 				}
+
 				frame += (vspeed / 4) * climbf;
 				break;
 			case anWall:
 				frame += 0.25;
 				vspeed = 0;
-				if(floor(frame) > anim[1])
-				{
+
+				if(floor(frame) > anim[1]) {
 					vspeed = -5;
 					if(flip == 0) hspeed = 4;
 					else hspeed = -4;
 					anim = anJumpU;
 					frame = anim[0];
 				}
+
+				break;
 		}
 
-		if(anim != anClimb && anim != anWall)
-		{
+		if(anim != anClimb && anim != anWall) {
 			if(hspeed > 1) flip = 0;
 			if(hspeed < -1) flip = 1;
 		}
 
-		/*
-		if(anim[0] != anim[1])
-		{
-			if(floor(frame) > anim[1]) frame -= anim[1] - anim[0];
-			if(floor(frame) < anim[0]) frame += anim[1] - anim[0];
-		}
-		*/
 		frame = wrap(frame, anim[0], anim[1]);
 
 		//Controls
 		if(!placeFree(x, y + 2)) canJump = 4;
 		else if(canJump > 0) canJump--;
-		if(canMove)
-		{
+
+		if(canMove) {
 			if(keyDown(config.key.run)) mspeed = 4;
 			else mspeed = 2;
 			if(keyDown(config.key.right) && hspeed < mspeed) hspeed += 0.2;
 			if(keyDown(config.key.left) && hspeed > -mspeed) hspeed -= 0.2;
 
-			if(keyPress(config.key.jump) && canJump > 0)
-			{
+			if(keyPress(config.key.jump) && canJump > 0) {
 				vspeed = -5;
 				didJump = true;
 				canJump = 0;
 			}
-			if(keyRelease(config.key.jump) && vspeed < 0 && didJump)
-			{
+			if(keyRelease(config.key.jump) && vspeed < 0 && didJump) {
 				didJump = false;
 				vspeed /= 2;
 			}
 
-			if(freeDown && keyDown(config.key.jump))
-			{
-				if(!placeFree(x - 2, y) && keyPress(config.key.right))
-				{
+			if(freeDown && keyDown(config.key.jump)) {
+				if(!placeFree(x - 2, y) && keyPress(config.key.right)) {
 					flip = 0;
 					anim = anWall;
 					frame = anim[0];
 				}
-				if(!placeFree(x + 2, y) && keyPress(config.key.left))
-				{
+
+				if(!placeFree(x + 2, y) && keyPress(config.key.left)) {
 					flip = 1;
 					anim = anWall;
 					frame = anim[0];

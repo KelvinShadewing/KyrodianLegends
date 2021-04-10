@@ -39,7 +39,7 @@ setFPS(30);
 tileSearchDir.push("res");
 
 //Set the game mode
-gvGameMode = 0;
+gvGameMode = gmTitle;
 
 //Run main game loop
 local quit = false;

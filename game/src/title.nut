@@ -4,13 +4,13 @@
 
 startTitle <- function() {
 	//Load main menu
-	menu = meMain;
+	menu = meMain
 
 	//Erase all actors
-	actor = {};
+	actor = {}
 }
 
 gmTitle <- function() {
 	//Draw title background
 	//Draw game menu
-};
+}

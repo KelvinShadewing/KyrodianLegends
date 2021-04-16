@@ -2,7 +2,7 @@
 // GLOBAL //
 ////////////
 
-::gvGameMode <- 0;
+::gvGameMode <- 0
 ::game <- {
 	//Global variables for gameplay
 	//Stored in player save files
@@ -16,7 +16,8 @@
 	//Character to swap to
 	char1 = 0,
 	charUnlocked = ["Midi"]
-};
+}
+
 ::config <-{
 	//Configuration data is stored in this table.
 
@@ -47,6 +48,7 @@
 	klJoySpecT = [0, 0],
 	klJoyMenu = [0, 0],
 	klJoySwitch = [0, 0]
-};
-::camx <- 0;
-::camy <- 0;
+}
+
+::camx <- 0
+::camy <- 0

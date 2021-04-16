@@ -2,7 +2,7 @@
 // INTRO //
 ///////////
 
-Game.intro <- function(){
+Game.intro <- function() {
 	//Begin intro
 	//Load assets needed for intro
 
@@ -13,5 +13,5 @@ Game.intro <- function(){
 
 	//End intro
 	//Unload assets
-	gvGameMode = Game.title;
-};
+	gvGameMode = Game.title
+}

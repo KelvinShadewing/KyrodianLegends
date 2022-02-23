@@ -1,4 +1,4 @@
-# Maga Fins (Pending Title)
+# Nuts to Pirates
 
 &nbsp;
 
@@ -14,7 +14,7 @@ After defeating the Cold Front, Midi goes back to his cousin, Rusty's, house, an
 
 *All cutscenes are skippable by pressing start. A menu will ask if the player would like to skip in case they press it by accident.*
 
-## Chapter 0:	Snake? Snake!
+## Chapter 0: Snake? Snake!
 
 > [Cutscene opens with a small, blue aircraft landing on a beach. Midi and three pengrunts disembark, one wearing a black headband, the other two wearing hard hats. They walk up the beach until they reach an old stone ruin.]
 
@@ -34,7 +34,7 @@ The player regains control and is free to explore the ruins. Midi starts with a 
 
 The ruins entrance has some lightly rocky terrain with fallen pillars and stones to give players an easy place to practice movement. A few pillbugs patrol the upper area with more complex enemies in lower levels. Areas in the ruin will also have some crumbling floors that, if avoided, will reward the player with a vita cell.
 
-Further beneath the ruins is a caved-in 
+Further beneath the ruins is a caved-in
 
 ## Chapter 1: What's Mined is Mine
 

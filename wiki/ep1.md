@@ -30,11 +30,11 @@ After defeating the Cold Front, Midi goes back to his cousin, Rusty's, house, an
 
 > CAP: Just get the tablet back, keep us informed over the radio if anything happens, and don't die. Prioritize in that order.
 
-The player regains control and is free to explore the ruins. Midi starts with a one-two punch combo and void bombs. Player can talk to Cap to be told to get on with it, attack the pengrunts to have them retaliate with ice balls, and even attack the dropship with a bomb for an immediate game over.
+The player regains control and is free to explore the ruins. Midi starts with neutral bombs. Player can talk to Cap to be told to get on with it, attack the pengrunts to have them retaliate with ice balls, and even attack the dropship with a bomb for an immediate game over.
 
 The ruins entrance has some lightly rocky terrain with fallen pillars and stones to give players an easy place to practice movement. A few pillbugs patrol the upper area with more complex enemies in lower levels. Areas in the ruin will also have some crumbling floors that, if avoided, will reward the player with a vita cell.
 
-Further beneath the ruins is a caved-in
+Further beneath the ruins is the entrance to the biometal nest this chapter focuses on. Midi fights his way through and accquires his transphere from a green pillbug armor that is found in an assembly room that latches onto him and fuses itself to his tail. This allows him to move quickly through small spaces and jump while small.
 
 ## Chapter 1: What's Mined is Mine
 

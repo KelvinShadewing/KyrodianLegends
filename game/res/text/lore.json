@@ -1,0 +1,78 @@
+{
+	"journal" : {
+		"midi" : {
+			"intro" : {
+				"title" : "Introduction",
+				"content" : "  My name is Midi Waffle. I was six years old when I found myself alone in the world, the night I lost my parents, when I saw a shadewing, a creature I'd only believed to be a story to scare children, and the night I made my first bomb.\n\n  I was taken in by a kind ship captain named Tempest Firemane. He was good to me, and said he'd let me be part of his crew when I was old enough.\n\n  That day was stolen from me when the Cold Front came. My new father fought hard but ultimately fell to them. I was no match for their leader, the self-proclaimed Emperor Pendragon. But rather than strike me down, Pendragon saw potential in me, and took me as part of his treasure.\n\n  They raised me to be their treasure hunter, hoping I would grow to be their greatest weapon someday. In fact, I'm about to take on another such mission right now..."
+			},
+			"first-lift" : {
+				"title" : "Gryphon Temple Descent",
+				"content" : "  I actually enjoy these treasure hunts. I don't care about the pirates getting their precious treasure, but I love exploring these old places. As soon as I'm strong enough, I'm gonna blow this place and find myself a real adventure."
+			},
+			"biometal-nest" : {
+				"title" : "Biometal Nest",
+				"content" : "  Figures there'd be a biometal nest down here, and figures I'd be the one to have to deal with them. I wonder if those blunt-beaked grunts knew... Either way, I'm stuck here now. I don't have any tech on me they'd want, but that won't stop them from attacking me just for being here. At least I'd be doing the world a favor by clearing this place out."
+			},
+			"transphere" : {
+				"title" : "Transphere",
+				"content" : "  This weird metal ball thing just stuck itself to me! I thought it was a sleeping pillbug, but when I touched it, it sprang to life and jumped on me, then disappeared into my tailsafe. The weird part is that it makes a shell around me when I curl up, and I can still move by rolling. I need a cool name for this thing. Transforming into a sphere... Heh, I'll call it the transphere."
+			},
+			"second-lift" : {
+				"title" : "Another Explorer?",
+				"content" : "  Seems like someone got here before us. What happened to them? Probably the biometals got them. If there's any more journal pages, I should find them. Maybe someday, I'll be able to someone what happened."
+			}
+		},
+
+		"abilities" : {
+			"tailsafe" : {
+				"title" : "Tailsafe",
+				"content" : "Midi's tail contains passive inventory magic that allows him to stow small to moderately-sized items in a pocket dimension. This allows him to conceal items and carry things that would otherwise be too cumbersome to keep on hand normally."
+			},
+			"transphere" : {
+				"title" : "Transphere",
+				"content" : "A piece of biometal technology that resides in Midi's tailsafe. When summoned, it allows Midi to curl himself small and round to move through narrow passages more quickly. Additional upgrades are available for it."
+			},
+			"normal-bomb" : {
+				"title" : "Normal Bomb",
+				"content" : "A magically-conjured bomb with no elemental affiliation. Damage is purely kinetic. It can be used for the lowest energy cost."
+			},
+			"fire-bomb" : {
+				"title" : "Fire Bomb",
+				"content" : "A fire-type magic bomb. Can melt ice blocks, and has a chance of setting enemies on fire. Burning enemies will take lasting damage."
+			},
+			"ice-bomb" : {
+				"title" : "Ice Bomb",
+				"content" : "An ice-type magic bomb. Able to put out flames and create temporary platforms over lava."
+			}
+		},
+
+		"prof-banyan" : {
+			"intro" : {
+				"title" : "Introduction",
+				"content" : "  Allow me to introduce myself. I am Prof. David Banyan of the San Tansincos University's archaeology department. Within these pages, you will find the log of my expedition into the ruins of Gullsandur. Should anything happen to me, I ask that whoever finds this, please take my findings to the university at your earliest convenience.\n\n  Gullsandur was once one of the gryphons' strongholds during the Biometal War. I believe this ruin may hold some new insight into the events of that war that were lost to history."
+			}
+		},
+
+		"gullsandur" : {
+			"intro" : {
+				"title" : "Gullsandur",
+				"content" : "  We, the soldiers of Atomskyr, dedicate this stronghold, Gullsandur, to the protection of Kyroda.\n\n  Long has war been the way of our kind. In ancient times, we hunted all manner of prey, including our smaller neighbors, the kholu and marstels. In this, our most desperate age, we set aside the old ways and forge an alliance with all races for the salvation of our world. Let Gullsandur stand as a bastion to defend all Kyrodians."
+			},
+
+			"statues" : {
+				"title" : "Egg Statues",
+				"content" : "  In ancient times, gryphons were hoarders of treasure. We hid our most prized jewels not in chests, but in false eggs to decieve those who sought them. We have fashioned new eggs to hide our creations from the biometals, so that they may not be used against us."
+			},
+
+			"war-end" : {
+				"title" : "War's End",
+				"content" : "  At long last, the cerebrates of the biometal hordes have been slain. Many biometals remain in our world, now living as wild animals do. The ways of war still run in our blood, but we will not turn on our new allies. Instead, we shall keep these ways alive and marry them with the ways of peace; we shall stand vigilant and use our power to defend our new friends.\n\n  We leave this stronghold standing, in case it is ever needed again. We return now to the skylands. Henceforth shall all be welcome in our halls."
+			},
+
+			"kholu" : {
+				"title" : "Kholu",
+				"content" : "  While some marstels are hesitant to trust us fully, the kholu have proven far more forgiving and light-hearted. They have founded a new tradition: taking on surnames after food. We have found this to be naut more than good-natured humor, and take it as a sign of forgiveness for the times we hunted them.\n\n  We gryphons are still ever remorseful for our lack of consideration, and seek to make amends by protecting them from other dangers as best we can."
+			}
+		}
+	}
+}

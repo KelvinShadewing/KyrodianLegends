@@ -1,20 +1,36 @@
 # Nuts to Pirates
 
-&nbsp;
-
-**Synopsis:** Midi is an ex pirate who escapes from his old crew and tries to stop them, but is injured. He is rescued by Trey and Sophie, who agree to help defeat the Cold Front. Trey investigates and gives leads to where the CF are heading while Sophie trains Midi and transports him in her airship.
-
-At each dig site, Midi defeats one of Pendragon's commanders, but the CF manage to get away with the four keys they were searching for. Trey discovers the keys are to a vault that holds a weapon of terrible power. The team head out to attack the CF directly.
-
-They assault the Avalanche and critically damage it, forcing a crash landing. Pendragon escapes in a plane with Midi's team in persuit, and they arrive at the vault where Pendragon uses the keys to unlock the weapon just as Midi arrives, where they have their final battle.
-
-After defeating the Cold Front, Midi goes back to his cousin, Rusty's, house, and lets Trey and Sophie know to call him if the CF seem to be causing trouble again. Meanwhile, Dr. Quincey, seeing his leader utterly defeated by a child, takes charge of the Cold Front and swears revenge on Midi, telling the crew he knows of an alternative way to sieze their glory.
-
-&nbsp;
-
 *All cutscenes are skippable by pressing start. A menu will ask if the player would like to skip in case they press it by accident.*
 
-## Chapter 0: Snake? Snake!
+## Chapter 0: The Gryphon Temple
+
+**Synopsis:** An introductory mission where [Midi](midi.md) is sent by the Cold Front to explore an old gryphon ruin. 
+
+----
+
+Upon starting a new game, there is a cutscene that shows scenes from Midi's past along with his narration. If skipped, this narration will appear in his journal to be re-read.
+
+> [Image of a bridge on a rainy night with a small car crossing it.]
+
+> MIDI: My name is Midi Waffle. I was six years old when I found myself alone in the world, the night I lost my parents, when I saw a shadewing, a creature I'd only believed to be a story to scare children, and the night I made my first bomb.
+
+> [Image changes to a younger Midi being held protectively by a large gryphon.]
+
+> MIDI: I was taken in by a kind ship captain named Tempest Firemane. He was good to me, and said he'd let me be part of his crew when I was old enough.
+
+> [Image changes to Firemane and Pendragon dueling on an airship deck.]
+
+> MIDI: That day was stolen from me when the Cold Front came. My new father fought hard but ultimately fell to them.
+
+> [Image shows Midi rushing at Pendragon with a bomb in hand.]
+
+> MIDI: I was no match for their leader, the self-proclaimed Emperor Pendragon. But rather than strike me down, Pendragon saw potential in me, and took me as part of his treasure.
+
+> [Image shows Midi and some pengrunts in an old ruin.]
+
+> MIDI: They raised me to be their treasure hunter, hoping I would grow to be their greatest weapon someday. In fact, I'm about to take on another such mission right now...
+
+An in-game cutscene follows:
 
 > [Cutscene opens with a small, blue aircraft landing on a beach. Midi and three pengrunts disembark, one wearing a black headband, the other two wearing hard hats. They walk up the beach until they reach an old stone ruin.]
 
@@ -34,9 +50,21 @@ The player regains control and is free to explore the ruins. Midi starts with ne
 
 The ruins entrance has some lightly rocky terrain with fallen pillars and stones to give players an easy place to practice movement. A few pillbugs patrol the upper area with more complex enemies in lower levels. Areas in the ruin will also have some crumbling floors that, if avoided, will reward the player with a vita cell.
 
+Moving deeper in, Midi will find a lift. As he descends for the first time, another journal entry is added.
+
 Further beneath the ruins is the entrance to the biometal nest this chapter focuses on. Midi fights his way through and accquires his transphere from a green pillbug armor that is found in an assembly room that latches onto him and fuses itself to his tail. This allows him to move quickly through small spaces and jump while small.
 
 ## Chapter 1: What's Mined is Mine
+
+**Synopsis:** [Midi](midi.md) is an ex pirate who escapes from his old crew and tries to stop them, but is injured. He is rescued by Trey and Sophie, who agree to help defeat the Cold Front. Trey investigates and gives leads to where the CF are heading while Sophie trains Midi and transports him in her airship.
+
+At each dig site, Midi defeats one of Pendragon's commanders, but the CF manage to get away with the four keys they were searching for. Trey discovers the keys are to a vault that holds a weapon of terrible power. The team head out to attack the CF directly.
+
+They assault the Avalanche and critically damage it, forcing a crash landing. Pendragon escapes in a plane with Midi's team in persuit, and they arrive at the vault where Pendragon uses the keys to unlock the weapon just as Midi arrives, where they have their final battle.
+
+After defeating the Cold Front, Midi goes back to his cousin, Rusty's, house, and lets Trey and Sophie know to call him if the CF seem to be causing trouble again. Meanwhile, Dr. Quincey, seeing his leader utterly defeated by a child, takes charge of the Cold Front and swears revenge on Midi, telling the crew he knows of an alternative way to sieze their glory.
+
+----
 
 The episode begins with [Midi](midi.md) aboard the Avalanche. They approach a small mining town, at which point [Dr Quincey](drq.md) calls all [Cold Front](factions.md) members to the hangar for a briefing.
 

@@ -1,0 +1,28 @@
+{
+	"journal" : {
+		"gullsandur" : {
+			"name" : "Gullsandur",
+			"items" : {
+				"intro" : {
+					"title" : "Dedication",
+					"content" : "  We, the soldiers of Atmoskyr, dedicate this stronghold, Gullsandur, to the protection of Kyroda.\n\n  Long has war been the way of our kind. In ancient times, we hunted all manner of prey, including our smaller neighbors, the kholu and marstels. In this, our most desperate age, we set aside the old ways and forge an alliance with all races for the salvation of our world. Let Gullsandur stand as a bastion to defend all Kyrodians."
+				},
+
+				"statues" : {
+					"title" : "Egg Statues",
+					"content" : "  In ancient times, gryphons were hoarders of treasure. We hid our most prized jewels not in chests, but in false eggs to decieve those who sought them. We have fashioned new eggs to hide our creations from the biometals, so that they may not be used against us."
+				},
+
+				"war-end" : {
+					"title" : "War's End",
+					"content" : "  At long last, the cerebrates of the biometal hordes have been slain. Many biometals remain in our world, now living as wild animals do. The ways of war still run in our blood, but we will not turn on our new allies. Instead, we shall keep these ways alive and marry them with the ways of peace; we shall stand vigilant and use our power to defend our new friends.\n\n  We leave this stronghold standing, in case it is ever needed again. We return now to the skylands. Henceforth shall all be welcome in our halls."
+				},
+
+				"kholu" : {
+					"title" : "Kholu",
+					"content" : "  While some marstels are hesitant to trust us fully, the kholu have proven far more forgiving and light-hearted. They have founded a new tradition: taking on surnames after food. We have found this to be naut more than good-natured humor, and take it as a sign of forgiveness for the times we hunted them.\n\n  We gryphons are still ever remorseful for our lack of consideration, and seek to make amends by protecting them from other dangers as best we can."
+				}
+			}
+		}
+	}
+}

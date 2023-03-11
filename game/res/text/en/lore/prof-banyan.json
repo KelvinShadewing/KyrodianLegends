@@ -1,0 +1,38 @@
+{
+	"journal" : {
+		"prof-banyan" : {
+			"name" : "Prof. Banyan",
+			"items" : {
+				"intro" : {
+					"title" : "Introduction",
+					"content" : "  Allow me to introduce myself. I am Prof. David Banyan of the San Tansincos University's archaeology department. Within these pages, you will find the log of my expedition into the ruins of Gullsandur. Should anything happen to me, I ask that whoever finds this, please take my findings to the university at your earliest convenience.\n\n  Gullsandur was once one of the gryphons' strongholds during the Biometal War. I believe this ruin may hold some new insight into the events of that war that were lost to history."
+				},
+
+				"biometal-nest" : {
+					"title" : "Biometal Nest",
+					"content" : "  We have discovered a biometal nest in the depths of Gullsandur. They have fortified the walls and doors with their sickly green metal, and sealed off many of these passages. Finding a way past them will be difficult, and if the biometals prove too dangerous, I will be forced to turn back.\n\n  My bodyguard, one Ferro Calcyrrus, was enraged to learn of this infestation. Whie I grieve for the incalculable loss of historical knowledge, as a gryphon, Ferro's very heritage has taken a toll. My heart goes out to him, and I have resolved to see this expedition through no matter what, to recover and preserve as much gryphon history as I can before it is all destroyed.\n\n  Once we have surveyed the extent of their entrenchment and determined their threat level, we will return to the surface and send for additional mercenary forces to help clear them out."
+				},
+
+				"biometal-water" : {
+					"title" : "Biometal Hydration",
+					"content" : "  I was initially puzzled at a mechanical life-form's need to drink water. Their bodies are not composed of it like organic beings, save for those that use it for specialized purposes. Today, I've been given a clue as to the nature of th is behavior.\n\n  I came across one of the pillbugs that appeared to be more sluggish than others, and barely aware of my presence. After convincing my bodyguard to stay his hand, I was able to follow and observe it. It began to take in water, and moments later, appeared more energized than before. This was accompanied by the smell of concentrated oxygen.\n\n  It is my hypothesis that biometals consume water to use the hydrogen in it as fuel. How they separate it, I've yet to determine. A shame that no one has successfully managed to disect a biometal without it self-destructing."
+				},
+
+				"gryphon-kholu-relations" : {
+					"title" : "Gryphon-Kholu Relations",
+					"content" : "  The plaques describing kholu in this stronghold speak very fondly of our kind. To some, the turnabout seems sudden, but I've come to know how proud gryphons are of their word, and how serious of a bond it is. If they'd enshrined these words in the walls of such an important location, then they did not simply mean it as a goal to strive for, but a law to be enacted immediately.\n\n  I do find rather amusing to learn that our penchant for food-related names started as a joke by our anscestors. I say with certainty that I share their sentiment. There's simply no logic in holding a grudge when it inhibits progress, even against those who once hunted us.\n\n  My bodyguard was surprised at this as well. When asked about it, he seemed flustered at the very idea of consuming another sapient being. What a relief; with how close he tends to stand near me, I was beginning to think he thought I smelled good."
+				},
+
+				"egg-statues" : {
+					"title" : "Egg Statues",
+					"content" : "  In several of the rooms we've come across, there are large gryphon statues bearing eggs that reverberate with mana. Well, they are large to me, merely life-size to Ferro. He tells me the eggs are the gryphon equivalent to a treasure chest, disguised as an egg to confuse thieves who would steal their riches.\n\n  When he suggested breaking them open to help us defend ourselves from biometal attacks, I initially suspected he simply meant to accquire more wealth, but his words proved true. Within the egg, we found a weapon, a boomerang enchanted to return to its weilder when thrown. How could I have doubted him?\n\n  Ferro has managed to easily dispatch multiple biometals with this boomerang so far. Such a useful tool is probably better in the talons of a capable gryphon than collecting dust in a museum. If another one exists, I will put that one on display, but this one, we agree he should keep."
+				},
+
+				"acid-pits" : {
+					"title" : "Acid Pits",
+					"content" : "  This nest is a death trap! It's not just the biometals themselves always on patrol and attacking us on sight, but this nest is filled to the brim with "
+				}
+			}
+		}
+	}
+}

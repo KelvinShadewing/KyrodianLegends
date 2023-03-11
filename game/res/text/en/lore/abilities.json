@@ -1,0 +1,29 @@
+{
+	"journal" : {
+		"abilities" : {
+			"name" : "Abilities",
+			"items" : {
+				"tailsafe" : {
+					"title" : "Tailsafe",
+					"content" : "Midi's tail contains passive inventory magic that allows him to stow small to moderately-sized items in a pocket dimension. This allows him to conceal items and carry things that would otherwise be too cumbersome to keep on hand normally."
+				},
+				"transphere" : {
+					"title" : "Transphere",
+					"content" : "A piece of biometal technology that resides in Midi's tailsafe. When summoned, it allows Midi to curl himself small and round to move through narrow passages more quickly. Additional upgrades are available for it."
+				},
+				"normal-bomb" : {
+					"title" : "Normal Bomb",
+					"content" : "A magically-conjured bomb with no elemental affiliation. Damage is purely kinetic. It can be used for the lowest energy cost."
+				},
+				"fire-bomb" : {
+					"title" : "Fire Bomb",
+					"content" : "A fire-type magic bomb. Can melt ice blocks, and has a chance of setting enemies on fire. Burning enemies will take lasting damage."
+				},
+				"ice-bomb" : {
+					"title" : "Ice Bomb",
+					"content" : "An ice-type magic bomb. Able to put out flames and create temporary platforms over lava."
+				}
+			}
+		}
+	}
+}

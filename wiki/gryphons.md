@@ -8,6 +8,8 @@ When it comes to [magic](magic.md), gryphons are the fifth most adept at it, beh
 
 During the Feudal and early Biometal War eras, gryphons were known for actively hunting other people, most notably kholu and [humans](humans.md). After the war, however, it became illegal to hunt sapient prey, and even discussing it is a taboo among their culture. Despite this, there are still some gryphons who view land-bound races as inferior, and may make off-handed comments about eating them, even if they wouldn't actually do it.
 
+In ancient times, gryphons would create fake eggs filled with random junk to obfuscate their real eggs to protect them from predators. Over time, need for this waned, and gryphons instead used fake eggs to hide their treasures. Statues of gryphons holding eggs were constructed to store items of special significance. Some eggs still hide less valuable loot to confuse would-be thieves, especially those who would seek treasure without having it in them to risk raiding a nest of unborn young for material gain. As gryphons will protect these eggs as fiercely as those they lay themselves, only the most desperate or heartless thieves would risk it.
+
 ## Atmoskyr
 
 One of the great bastions during the Biometal War, Atmoskyr was built upon one of Kyroda's largest skylands. It is a communal hall that spans most of the skyland's surface, and unlike smaller settlements, has its services adapted to be mostly indoors. Buried at the heart of the skyland is a massive core of pure fulgurite, which is charged using a mirror array to generate energy that runs the perpetual thunderstorm that serves as the city's main defense. The core also energizes the levitite ore in the skyland to help counter the weight of the population above.

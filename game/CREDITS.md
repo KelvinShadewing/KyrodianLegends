@@ -6,11 +6,11 @@
 
 [Foxboy83](https://www.patreon.com/foxboy83/): portrait sketches (Midi, Trey, Sophie, Foxboy), Wiki images (Midi)
 
-[Knoble Persona](https://opengameart.org/users/knoblepersona): grasstop tiles, snowstone tiles, pine trees, pots, copper plating, steampunk objects
+[Knoble Persona](https://opengameart.org/users/knoblepersona): grasstop tiles*, snowstone tiles*, pine trees, pots, copper plating*, steampunk objects*
 
-[Surt](https://opengameart.org/users/surt): temple tiles, igloo, giant mushrooms, pipes
+[Surt](https://opengameart.org/users/surt): temple tiles*, igloo, giant mushrooms, pipes, biometal tiles*
 
-[Revangale](https://opengameart.org/users/revangale): beach tiles
+[Revangale](https://opengameart.org/users/revangale): palm trees*
 
 [The Chayed](https://opengameart.org/users/the-chayed): metroidvania forest tiles
 
@@ -29,3 +29,5 @@
 [JazzyPanda](https://www.youtube.com/user/SotoKevin92): Kevin Pandaheart
 
 [Foxboy83](https://www.patreon.com/foxboy83/): Foxboy
+
+\* indicates alterations made from original

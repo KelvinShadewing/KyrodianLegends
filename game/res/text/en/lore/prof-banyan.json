@@ -30,7 +30,12 @@
 
 				"acid-pits" : {
 					"title" : "Acid Pits",
-					"content" : "  This nest is a death trap! It's not just the biometals themselves always on patrol and attacking us on sight, but this nest is filled to the brim with "
+					"content" : "  This nest is a death trap! It's not just the biometals themselves always on patrol and attacking us on sight, but this nest is filled to the brim with pits of effervescent acid. I can barely stand to eat with the smell of it. When I did manage to keep a meal down, the litter left behind was gone when we backtracked. I suspect the biometals may use this acid as both a means of defense and cleaning. They seem unaffected by it as well; perhaps some chemical compound that does not survive their self-termination is used to protect against it."
+				},
+
+				"west-wing" : {
+					"title" : "The West Wing",
+					"content" : "  The nest goes even further than we thought. The air here grows hotter with every step we take into the western half. Parts of the floor are too hot to step on, and in some rooms, the heat being convected through the air is so intense that even standing at the door is painful.\n\n  I dare not proceed further, unless we find the source of this heat and disable it, or find some way to protect against it."
 				}
 			}
 		}

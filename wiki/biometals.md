@@ -36,3 +36,7 @@ The plan ended up being a complete success. Seeing this, Omicron decided he coul
 Biometals do not fight to the point of genocide. They only make themselves enough of a threat to unite whatever worlds they land on, while at the same time systematically assimilating and destroying much of the world's technology to ensure they cannot be exterminated themselves. Once unity is achieved, they leave behind minimal forces to continue the conflict and ensure mass war never breaks out again, while at the same time keeping up the appearance of their own power being kept in check by the locals.
 
 In some instances, biometals will allow the creation of weapons that appear to be much stronger than they really are, and feign defeat as a means of gaslighting the population into thinking they've become more powerful than they really are.
+
+## Nest Behavior
+
+Biometal nests exist in areas of material benefit, such as ore veins used as food to reproduce, or areas of strategic or historical significance to stifle unwantes growth in local populations. To keep focus on themselves as enemies of all life, their grand purpose, they will carefully preserve the journals of those who stumble upon their nests and scatter entries from them around the nest so that adventurers and self-styled heroes will be further insensed against them.

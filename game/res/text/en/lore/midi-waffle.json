@@ -22,6 +22,14 @@
 				"second-lift" : {
 					"title" : "Another Explorer?",
 					"content" : "  Seems like someone got here before us. What happened to them? Probably the biometals got them. If there's any more journal pages, I should find them. Maybe someday, I'll be able to someone what happened."
+				},
+				"new-bomb" : {
+					"title" : "New Bomb",
+					"content" : "  So I just learned a new type of bomb. Neat. I'm not sure why it took me this long to figure out anything beyond the basic ones. Something about fighting that thing, feeling its attacks, it just made something click. Maybe I'll learn more elements by fighting other types of enemies. This just might be my ticket out of this crew!"
+				},
+				"dark-bomb" : {
+					"title" : "Dark Bomb",
+					"content" : "  So this new bomb... this one actually kind of scares me. It doesn't recharge normally, but gets stronger when I get hurt. I don't have any control over when it's fully charged, and when it is, I feel like I NEED to get rid of it. If it shows up at the wrong time, I guarantee Dr. Quincey is gonna lock me up and do anything to figure out how to weaponize it.\n\n  I wouldn't put it past that creep to try to turn me into a living cannon or something. My bombs are all I'm good for to that guy, and probably to Pendragon, too. If I keep anything I find down here a secret from them, it definitely better be this."
 				}
 			}
 		}

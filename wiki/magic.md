@@ -56,16 +56,37 @@ Because it overlaps with mana, magical detectors can be made to measure it and p
 
 Wearing armor can allow the aura to relax, saving energy as it doesn not need to try as hard to protect areas of the body where the armor takes the hit. Some fighters still prefer not to wear armor to maximize their mobility.
 
-Since aura only activates when the body is in danger, certain forms of "damage" can circumvent it. For example, a surgeon with no intent to harm will be able to use a scalpel or needle to treat a patient, and someone smacking someone outside of a fight (usually in comedic scenes) will not be hindered at all, especially when such strikes are meant to convey a mess ge that would otherwise not sink in, like smacking an insubordinate subordinate.
+Since aura only activates when the body is in danger, certain forms of "damage" can circumvent it. For example, a surgeon with no intent to harm will be able to use a scalpel or needle to treat a patient, and someone smacking someone outside of a fight (usually in comedic scenes) will not be hindered at all, especially when such strikes are meant to convey a message that would otherwise not sink in, like smacking an insubordinate underling.
 
 Because souls in KL are capable of inhabiting any body with the capacity for sentience, even machines may potentially develop them, allowing them to have auras as well.
 
-## Affinities
+## Fortes
 
-Magic affinity grants mages with a special aptitude towards a certain type or class of spells, or a grant a passive ability. Some mages may have two, but three has never been recorded. The rigidness of the affinity dictates both the effectiveness of the spells it grants, and the limitations of how much a mage can learn beyond it.
+A magic forte grants mages with a special aptitude towards a certain type or class of spells, or a grant a passive ability. Some mages may have two, but three has never been recorded. The rigidness of the affinity dictates both the effectiveness of the spells it grants, and the limitations of how much a mage can learn beyond it.
 
-For example, Midi's affinity grants him his elemental bombs, and his passive tailsafe. However, due to having two rigid affinities, he is unable to learn any other type of magic.
+For example, Midi's forte grants him his elemental bombs, and his passive tailsafe. However, due to having two rigid fortes, he is unable to learn any other type of magic.
+
+## "Tric" Weapons
+
+A slang shortening for "thaumaturgic", tric weapons do not carry their own enchantment, but instead rely on the magic of their weilder for power. This allows for virtually unlimited use; if the user keeps regenerating mana, they can keep channeling it into a tric weapon. Such arms are able to siphon mana easily enough on their own that no magical skill is required to use them, simply a supply of energy.
+
+Two common uses for such technology include the tric shot, a pistol that turns the weilder's mana into bullets, and the tric blade, which turns mana into a sword of energy. Depending on the user, such weapons can take on elemental effects, or other spell effects entirely. Someone with a forte for light magic, for instance, would shoot bullets of light from a tric shot, while a healer could pump a healing spell into it to create a healing bullet.
+
+Some fortes are incompatible with certain tric weapons, and will thus confer no special effects.
+
+Various examples of tric weapons include:
+
+* Shot - A basic pistol that fires medium-range bullets.
+* Sniper - Concentrates its bullets into a thin laser for extra precision and range.
+* Buster - An arm-mounted tric shot that can charge up large bursts.
+* Grenade - Turns mana charges into impact bombs. Midi's magic is an in-born and more complex version of this.
+* Sword - A basic melee weapon, blade length depends on the power output of the weilder.
+* Whip - A flexible beam weapon that can grapple.
+* Shield - Acts as both a physical shield and magic ward. Can reflect small destruction spells.
+* Pickaxe - Used by miners to augment digging ability and break through stone with less physical effort.
 
 ## Goats
 
 Kyrodian goats are unique and mystical creatures that regularly defy the laws of physics in ways that even arch mages have been unable to define. They are reportedly capable of ingesting and metabolizing any material, even solid metal. Despite these awesome powers, they are quite gentle and friendly, though shadewings seem to have an irrational fear of them.
+
+Some goats have been known to reshape themselves into an anthropomorphic form and speak to people. It is exceptionally rare that this happens, but the few that have been seen doing it have gone on record to say that they can all do it; they mostly just prefer the simple life and to be left alone. Although goats have been involved in some of Kyroda's most significant historical events, they prefer to be left out, as they don't care for fame.

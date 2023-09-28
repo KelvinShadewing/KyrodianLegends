@@ -17,11 +17,11 @@
 				},
 				"transphere" : {
 					"title" : "Transphere",
-					"content" : "  This weird metal ball thing just stuck itself to me! I thought it was a sleeping pillbug, but when I touched it, it sprang to life and jumped on me, then disappeared into my tailsafe. The weird part is that it makes a shell around me when I curl up, and I can still move by rolling. I need a cool name for this thing. Transforming into a sphere... Heh, I'll call it the transphere."
+					"content" : "  This weird metal ball thing just stuck itself to me! I thought it was a sleeping pillbug, but when I touched it, it sprang to life and jumped on me, then disappeared into my tailsafe. The weird part is that it makes a shell around me when I curl up, and I can still move by rolling. I need a cool name for this thing. Transforming into a sphere... Heh, I'll call it the transphere.\n\n  Yes, I write out my laughs. Don't judge me."
 				},
 				"second-lift" : {
 					"title" : "Another Explorer?",
-					"content" : "  Seems like someone got here before us. What happened to them? Probably the biometals got them. If there's any more journal pages, I should find them. Maybe someday, I'll be able to someone what happened."
+					"content" : "  Seems like someone got here before us. What happened to them? Probably the biometals got them. If there's any more journal pages, I should find them. Maybe someday, I'll be able to tell someone what happened."
 				},
 				"new-bomb" : {
 					"title" : "New Bomb",
@@ -30,6 +30,14 @@
 				"dark-bomb" : {
 					"title" : "Dark Bomb",
 					"content" : "  So this new bomb... this one actually kind of scares me. It doesn't recharge normally, but gets stronger when I get hurt. I don't have any control over when it's fully charged, and when it is, I feel like I NEED to get rid of it. If it shows up at the wrong time, I guarantee Dr. Quincey is gonna lock me up and do anything to figure out how to weaponize it.\n\n  I wouldn't put it past that creep to try to turn me into a living cannon or something. My bombs are all I'm good for to that guy, and probably to Pendragon, too. If I keep anything I find down here a secret from them, it definitely better be this."
+				},
+				"strange-tablet" : {
+					"title" : "Strange Tablet",
+					"content" : "  So I found this weird stone tablet with what looks like a map on it. I think this is what they wanted me to find. There's definitely something important about the places marked on it.\n\n  There's no way I'm letting these guys find everything on this map. I've copied it into my own journal. As for the tablet, I broke it in half and shattered one. This way, I can keep the important stuff to myself without coming back empty handed. Hopefully that'll keep them from getting suspicious."
+				},
+				"island-destruction" : {
+					"title" : "Gullsandur Destroyed",
+					"content" : "  The whole island blew up! After I beat that big queen bee-looking thing, everything started going crazy! I was able to escape in time, but everything left there is gone now. A good excuse as any for only coming back with half the map.\n\n Come to think of it, I should have dropped the other half on the way out if the place was gonna blow up. But give me a break. It's kinda hard to think about that when you're running out of a collapsing biometal nest.\n\n  I hope I got all of the professor's notes. As soon as I'm out of this crew, I'm gonna find the university he worked at and tell them what happened.\n\n  With these new bombs I've learned and the equipment I found down there, I honestly feel ready to set out on my own. I just need the right opportunity to ditch these guys. After that, who knows? Maybe I'll be an archaeologist like Prof. Banyan. I still enjoy exploring old ruins, and there's plenty to go around thanks to the Biometal War.\n\n  I'll turn in the tablet once we get back to the Avalanche, and from there, I just gotta keep my head down until the right time. I've got a feeling that time is soon."
 				}
 			}
 		}

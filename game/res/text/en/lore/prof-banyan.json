@@ -48,6 +48,11 @@
 					"content" : "  The air grows ever colder here, in stark contrast to the west side. The strange pumps we saw on the way in, I suspect that they are using liquid presurization to siphon the heat from one side to the other. Why? What must be kept so hot? Or perhaps, what else must be kept so cold?\n\n  Some of the rooms here have proven unbearable. Ferro held me under his wing for some of them, but it's getting too much for even him. I am afraid we won't be able to progress much farther this way either."
 				},
 
+				"sabotage" : {
+					"title" : "Temperature Control Sabotage",
+					"content" : "  We found the machine responsible for transferring heat from the east wing to the west. Our plan was to disable it and then explore the wings, however, shortly after doing so, it was back up and running again. It seems the biometals are very adept at repairing their nest's systems.\n\n  We'll need to find something else to protect us from the extreme temperatures."
+				},
+
 				"disaster" : {
 					"title" : "Disaster!",
 					"content" : "  Dear reader, it is with a heavy heart and trembling hand that I write what I fear to be my final entry. We were ambushed from the shadows on the way to the surface. The way out was blocked off by a monsterous biometal I had never seen before. Surrounded by the smaller insect-like ones, this one did not simply attack. Like a queen bee, both in appearance and behavior, it commanded its troops after us. Not just commanded, it spoke! It told the others in a raspy voice to destroy us.\n\n  We were surrounded. Ferro grabbed me and threw me to the door, yelling at me to run ahead as he fought his way through behind me. I don't know how long I ran before I realized the noise behind me had ceased. Carefully, I snuck back to find my companion being dragged away by those monsters, the life already gone from him.\n\n  They threw his body into one of those abhorrent pits.\n\n  I think I may be next."

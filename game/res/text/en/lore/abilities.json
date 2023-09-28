@@ -50,6 +50,18 @@
 				"top-spin" : {
 					"title" : "Top Spin",
 					"content" : "Pressing down and forward on the ground allows Midi to throw a spinning bomb that travels along the floor."
+				},
+				"scanner" : {
+					"title" : "ESP Scanner",
+					"content" : "Allows Hunter to passively scan nearby points of interest. Analysis of these points will be added to Hunter's log."
+				},
+				"telekinesis" : {
+					"title" : "Telekinesis",
+					"content" : "Grab objects and small enemies from a distance by pressing special. Press special again to drop held object, or attack to throw it."
+				},
+				"gliding" : {
+					"title" : "Gliding",
+					"content" : "Hold jump to reduce falling speed. Press jump again to flap at the cost of stamina."
 				}
 			}
 		}

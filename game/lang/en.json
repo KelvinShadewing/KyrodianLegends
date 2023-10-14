@@ -1,0 +1,285 @@
+{
+	"journal" : {
+		"name" : "Journal",
+		"gullsandur" : {
+			"name" : "Gullsandur",
+			"items" : {
+				"intro" : {
+					"title" : "Dedication",
+					"content" : "  We, the soldiers of Atmoskyr, dedicate this stronghold, Gullsandur, to the protection of Kyroda.\n\n  Long has war been the way of our kind. In ancient times, we hunted all manner of prey, including our smaller neighbors, the kholu and marstels. In this, our most desperate age, we set aside the old ways and forge an alliance with all races for the salvation of our world. Let Gullsandur stand as a bastion to defend all Kyrodians."
+				},
+
+				"statues" : {
+					"title" : "Egg Statues",
+					"content" : "  In ancient times, gryphons were hoarders of treasure. We hid our most prized jewels not in chests, but in false eggs to decieve those who sought them. We have fashioned new eggs to hide our creations from the biometals, so that they may not be used against us."
+				},
+
+				"war-end" : {
+					"title" : "War's End",
+					"content" : "  At long last, the cerebrates of the biometal hordes have been slain. Many biometals remain in our world, now living as wild animals do. The ways of war still run in our blood, but we will not turn on our new allies. Instead, we shall keep these ways alive and marry them with the ways of peace; we shall stand vigilant and use our power to defend our new friends.\n\n  We leave this stronghold standing, in case it is ever needed again. We return now to the skylands. Henceforth shall all be welcome in our halls."
+				},
+
+				"kholu" : {
+					"title" : "Kholu",
+					"content" : "  While some marstels are hesitant to trust us fully, the kholu have proven far more forgiving and light-hearted. They have founded a new tradition: taking on surnames after food. We have found this to be naut more than good-natured humor, and take it as a sign of forgiveness for the times we hunted them.\n\n  We gryphons are still ever remorseful for our lack of consideration, and seek to make amends by protecting them from other dangers as best we can."
+				}
+			}
+		},
+		"midi-waffle" : {
+			"name" : "Midi Waffle",
+			"items" : {
+				"intro" : {
+					"title" : "Introduction",
+					"content" : "  My name is Midi Waffle. I was six years old when I found myself alone in the world, the night I lost my parents, when I saw a shadewing, a creature I'd only believed to be a story to scare children, and the night I made my first bomb.\n\n  I was taken in by a kind ship captain named Tempest Firemane. He was good to me, and said he'd let me be part of his crew when I was old enough.\n\n  That day was stolen from me when the Cold Front came. My new father fought hard but ultimately fell to them. I was no match for their leader, the self-proclaimed Emperor Pendragon. But rather than strike me down, Pendragon saw potential in me, and took me as part of his treasure.\n\n  They raised me to be their treasure hunter, hoping I would grow to be their greatest weapon someday. In fact, I'm about to take on another such mission right now..."
+				},
+				"first-lift" : {
+					"title" : "Gryphon Temple Descent",
+					"content" : "  I actually enjoy these treasure hunts. I don't care about the pirates getting their precious treasure, but I love exploring these old places. As soon as I'm strong enough, I'm gonna blow this place and find myself a real adventure."
+				},
+				"biometal-nest" : {
+					"title" : "Biometal Nest",
+					"content" : "  Figures there'd be a biometal nest down here, and figures I'd be the one to have to deal with them. I wonder if those blunt-beaked grunts knew... Either way, I'm stuck here now. I don't have any tech on me they'd want, but that won't stop them from attacking me just for being here. At least I'd be doing the world a favor by clearing this place out."
+				},
+				"transphere" : {
+					"title" : "Transphere",
+					"content" : "  This weird metal ball thing just stuck itself to me! I thought it was a sleeping pillbug, but when I touched it, it sprang to life and jumped on me, then disappeared into my tailsafe. The weird part is that it makes a shell around me when I curl up, and I can still move by rolling. I need a cool name for this thing. Transforming into a sphere... Heh, I'll call it the transphere.\n\n  Yes, I write out my laughs. Don't judge me."
+				},
+				"second-lift" : {
+					"title" : "Another Explorer?",
+					"content" : "  Seems like someone got here before us. What happened to them? Probably the biometals got them. If there's any more journal pages, I should find them. Maybe someday, I'll be able to tell someone what happened."
+				},
+				"new-bomb" : {
+					"title" : "New Bomb",
+					"content" : "  So I just learned a new type of bomb. Neat. I'm not sure why it took me this long to figure out anything beyond the basic ones. Something about fighting that thing, feeling its attacks, it just made something click. Maybe I'll learn more elements by fighting other types of enemies. This just might be my ticket out of this crew!"
+				},
+				"dark-bomb" : {
+					"title" : "Dark Bomb",
+					"content" : "  So this new bomb... this one actually kind of scares me. It doesn't recharge normally, but gets stronger when I get hurt. I don't have any control over when it's fully charged, and when it is, I feel like I NEED to get rid of it. If it shows up at the wrong time, I guarantee Dr. Quincey is gonna lock me up and do anything to figure out how to weaponize it.\n\n  I wouldn't put it past that creep to try to turn me into a living cannon or something. My bombs are all I'm good for to that guy, and probably to Pendragon, too. If I keep anything I find down here a secret from them, it definitely better be this."
+				},
+				"strange-tablet" : {
+					"title" : "Strange Tablet",
+					"content" : "  So I found this weird stone tablet with what looks like a map on it. I think this is what they wanted me to find. There's definitely something important about the places marked on it.\n\n  There's no way I'm letting these guys find everything on this map. I've copied it into my own journal. As for the tablet, I broke it in half and shattered one. This way, I can keep the important stuff to myself without coming back empty handed. Hopefully that'll keep them from getting suspicious."
+				},
+				"island-destruction" : {
+					"title" : "Gullsandur Destroyed",
+					"content" : "  The whole island blew up! After I beat that big queen bee-looking thing, everything started going crazy! I was able to escape in time, but everything left there is gone now. A good excuse as any for only coming back with half the map.\n\n Come to think of it, I should have dropped the other half on the way out if the place was gonna blow up. But give me a break. It's kinda hard to think about that when you're running out of a collapsing biometal nest.\n\n  I hope I got all of the professor's notes. As soon as I'm out of this crew, I'm gonna find the university he worked at and tell them what happened.\n\n  With these new bombs I've learned and the equipment I found down there, I honestly feel ready to set out on my own. I just need the right opportunity to ditch these guys. After that, who knows? Maybe I'll be an archaeologist like Prof. Banyan. I still enjoy exploring old ruins, and there's plenty to go around thanks to the Biometal War.\n\n  I'll turn in the tablet once we get back to the Avalanche, and from there, I just gotta keep my head down until the right time. I've got a feeling that time is soon."
+				}
+			}
+		},
+		"prof-banyan" : {
+			"name" : "Prof. Banyan",
+			"items" : {
+				"intro" : {
+					"title" : "Introduction",
+					"content" : "  Allow me to introduce myself. I am Prof. David Banyan of the San Tansincos University's department of archaeology. Within these pages, you will find the log of my expedition into the ruins of Gullsandur. Should anything happen to me, I ask that whoever finds this, please take my findings to the university at your earliest convenience.\n\n  Gullsandur was once one of the gryphons' strongholds during the Biometal War. I believe this ruin may hold some new insight into the events of that war that were lost to history. In this expedition, I am joined by a hired bodyguard, one Ferro Calcyrrus, who has offered to share his knowledge of gryphon culture to aid in solving the mysteries we may yet uncover."
+				},
+
+				"arena": {
+					"title" : "The Arena",
+					"content" :  "We've come across what appears to be a gladitorial arena. Given the purpose of this stronghold as a war base, I surmise that this area was used for training purposes. There are some artifacts left around, within which I notice a pattern. Ancient wood, stone, even glass items have been found so far, but nothing made of metal. If metal weapons were taken, why not the rest?\n\n  The barracks further in continue this trend, even finding objects of cultural significance, yet nothing metal. I have my suspicions, but until we find something concrete, I cannot conclude biometal activity within the stronghold itself."
+				},
+
+				"biometal-nest" : {
+					"title" : "Biometal Nest",
+					"content" : "  I can now conclude biometal activity within the stronghold itself. We have discovered a biometal nest in the depths of Gullsandur. They have fortified the walls and doors with their sickly green metal, and sealed off many of these passages. Finding a way past them will be difficult, and if the biometals prove too dangerous, I will be forced to turn back.\n\n  Ferro was enraged to learn of this infestation. Whie I grieve for the incalculable loss of historical knowledge, as a gryphon, Ferro's very heritage has taken a toll. My heart goes out to him, and I have resolved to see this expedition through no matter what, to recover and preserve as much gryphon history as I can before it is all destroyed.\n\n  Once we have surveyed the extent of their entrenchment and determined their threat level, we will return to the surface and send for additional mercenary forces to help clear them out."
+				},
+
+				"biometal-water" : {
+					"title" : "Biometal Hydration",
+					"content" : "  I was initially puzzled at a mechanical life-form's need to drink water. Their bodies are not composed of it like organic beings, save for those that use it for specialized purposes. Today, I've been given a clue as to the nature of th is behavior.\n\n  I came across one of the pillbugs that appeared to be more sluggish than others, and barely aware of my presence. After convincing my bodyguard to stay his hand, I was able to follow and observe it. It began to take in water, and moments later, appeared more energized than before. This was accompanied by the smell of concentrated oxygen.\n\n  It is my hypothesis that biometals consume water to use the hydrogen in it as fuel. How they separate it, I've yet to determine. A shame that no one has successfully managed to disect a biometal without it self-destructing."
+				},
+
+				"gryphon-kholu-relations" : {
+					"title" : "Gryphon-Kholu Relations",
+					"content" : "  The plaques describing kholu in this stronghold speak very fondly of our kind. To some, the turnabout seems sudden, but I've come to know how proud gryphons are of their word, and how serious of a bond it is. If they'd enshrined these words in the walls of such an important location, then they did not simply mean it as a goal to strive for, but a law to be enacted immediately.\n\n  I do find rather amusing to learn that our penchant for food-related names started as a joke by our anscestors. I say with certainty that I share their sentiment. There's simply no logic in holding a grudge when it inhibits progress, even against those who once hunted us.\n\n  My bodyguard was surprised at this as well. When asked about it, he seemed flustered at the very idea of consuming another sapient being. What a relief; with how close he tends to stand near me, I was beginning to think he thought I smelled good."
+				},
+
+				"egg-statues" : {
+					"title" : "Egg Statues",
+					"content" : "  In several of the rooms we've come across, there are large gryphon statues bearing eggs that reverberate with mana. Well, they are large to me, merely life-size to Ferro. He tells me the eggs are the gryphon equivalent to a treasure chest, disguised as an egg to confuse thieves who would steal their riches.\n\n  When he suggested breaking them open to help us defend ourselves from biometal attacks, I initially suspected he simply meant to accquire more wealth, but his words proved true. Within the egg, we found a weapon, a boomerang enchanted to return to its weilder when thrown. How could I have doubted him?\n\n  Ferro has managed to easily dispatch multiple biometals with this boomerang so far. Such a useful tool is probably better in the talons of a capable fighter than collecting dust in a museum. If another one exists, I will put that one on display, but this one, we agree he should keep."
+				},
+
+				"acid-pits" : {
+					"title" : "Acid Pits",
+					"content" : "  This nest is a death trap! It's not just the biometals themselves always on patrol and attacking us on sight, but this nest is filled to the brim with pits of effervescent acid. I can barely stand to eat with the smell of it. When I did manage to keep a meal down, the litter left behind was gone when we backtracked. I suspect the biometals may use this acid as both a means of defense and cleaning. They seem unaffected by it as well; perhaps some chemical compound that does not survive their self-termination is used to protect against it."
+				},
+
+				"west-wing" : {
+					"title" : "The West Wing",
+					"content" : "  The nest goes even further than we thought. The air here grows hotter with every step we take into the western half. Parts of the floor are too hot to step on, and in some rooms, the heat being convected through the air is so intense that even standing at the door is painful.\n\n  I dare not proceed further, unless we find the source of this heat and disable it, or find some way to protect against it."
+				},
+
+				"east-wing" : {
+					"title" : "The East Wing",
+					"content" : "  The air grows ever colder here, in stark contrast to the west side. The strange pumps we saw on the way in, I suspect that they are using liquid presurization to siphon the heat from one side to the other. Why? What must be kept so hot? Or perhaps, what else must be kept so cold?\n\n  Some of the rooms here have proven unbearable. Ferro held me under his wing for some of them, but it's getting too much for even him. I am afraid we won't be able to progress much farther this way either."
+				},
+
+				"sabotage" : {
+					"title" : "Temperature Control Sabotage",
+					"content" : "  We found the machine responsible for transferring heat from the east wing to the west. Our plan was to disable it and then explore the wings, however, shortly after doing so, it was back up and running again. It seems the biometals are very adept at repairing their nest's systems.\n\n  We'll need to find something else to protect us from the extreme temperatures."
+				},
+
+				"disaster" : {
+					"title" : "Disaster!",
+					"content" : "  Dear reader, it is with a heavy heart and trembling hand that I write what I fear to be my final entry. We were ambushed from the shadows on the way to the surface. The way out was blocked off by a monsterous biometal I had never seen before. Surrounded by the smaller insect-like ones, this one did not simply attack. Like a queen bee, both in appearance and behavior, it commanded its troops after us. Not just commanded, it spoke! It told the others in a raspy voice to destroy us.\n\n  We were surrounded. Ferro grabbed me and threw me to the door, yelling at me to run ahead as he fought his way through behind me. I don't know how long I ran before I realized the noise behind me had ceased. Carefully, I snuck back to find my companion being dragged away by those monsters, the life already gone from him.\n\n  They threw his body into one of those abhorrent pits.\n\n  I think I may be next."
+				},
+
+				"final-entry" : {
+					"title" : "Final Entry",
+					"content" : "  Dear reader, this is it. I've done everything I can to avoid the biometals, but all for naught. In this tiny crawlspace, I can do nothing but wait for them to find me and finish me off.\n\n  The other pages of my journal were ripped out. I have only this scrap of paper left. If there is any greater power out there watching over us, please, let this final message be found. Let someone know what happened to us.\n\n  The clicking of biometal steps is growing louder. It won't [Only a splatter of ink follows...]"
+				}
+			}
+		}
+	},
+
+	"abilities" : {
+		"midi-waffle" : {
+			"name" : "Midi Waffle",
+			"items" : {
+				"tailsafe" : {
+					"title" : "Tailsafe",
+					"content" : "Midi's tail contains passive inventory magic that allows him to stow small to moderately-sized items in a pocket dimension. This allows him to conceal items and carry things that would otherwise be too cumbersome to keep on hand normally."
+				},
+				"transphere" : {
+					"title" : "Transphere",
+					"content" : "A piece of biometal technology that resides in Midi's tailsafe. When summoned, it allows Midi to curl himself small and round to move through narrow passages more quickly. Additional upgrades are available for it."
+				},
+				"normal-bomb" : {
+					"title" : "Normal Bomb",
+					"content" : "A magically-conjured bomb with no elemental affiliation. Damage is purely kinetic. It can be used for the lowest energy cost."
+				},
+				"fire-bomb" : {
+					"title" : "Fire Bomb",
+					"content" : "A fire-type magic bomb. Can melt ice blocks, and has a chance of setting enemies on fire. Burning enemies will take lasting damage."
+				},
+				"ice-bomb" : {
+					"title" : "Ice Bomb",
+					"content" : "An ice-type magic bomb. Able to put out flames and create temporary platforms over lava."
+				},
+				"dark-bomb" : {
+					"title" : "Dark Bomb",
+					"content" : "A dark-type magic bomb. Instead of drawing from Midi's yang-side mana, this bomb draws from his yin point. Its energy is charged by taking damage.\n\nEnemies caught in the blast will be compressed by intense pressure."
+				},
+				"grapple-talons" : {
+					"title" : "Grapple Talons",
+					"content" : "Gryphon-made grappling hooks that can grab onto various surfaces. Can also be used to pull smaller objects towards the user."
+				},
+				"banarang" : {
+					"title" : "Banarang",
+					"content" : "A boomerang painted like a banana. It is enchanted to reliably return when thrown. Allows for cutting damage, and can be used without mana."
+				},
+				"hover-boost" : {
+					"title" : "Hover Boost",
+					"content" : "By standing on a pair of acorn bombs and overcharging the stem flames, Midi can hover in the air for a short time. Horizontal momentum is conserved, allowing him to cross over large gaps."
+				},
+				"acorn-mine" : {
+					"title" : "Acorn Mine",
+					"content" : "Plants a bomb into the ground that detonates when stepped on. Midi can stand on top of it and jump to detonate it on command, granting him a boost in jump height. Only one mine may be placed at once; the previous one will detonate when a new one is planted."
+				},
+				"wing-nut" : {
+					"title" : "Wing Nut",
+					"content" : "An upgrade to Midi's bombs that allow them to remain in the air when dropped from the transphere. The explosion will lift him into the air slightly, and can be chained into a vertical bomb ladder."
+				},
+				"top-spin" : {
+					"title" : "Top Spin",
+					"content" : "Pressing down and forward on the ground allows Midi to throw a spinning bomb that travels along the floor."
+				}
+			}
+		},
+		"hunter-shadewing" : {
+			"name" : "Hunter",
+			"items" : {
+				"scanner" : {
+					"title" : "ESP Scanner",
+					"content" : "Allows Hunter to passively scan nearby points of interest. Analysis of these points will be added to Hunter's log."
+				},
+				"telekinesis" : {
+					"title" : "Telekinesis",
+					"content" : "Grab objects and small enemies from a distance by pressing special. Press special again to drop held object, or attack to throw it."
+				},
+				"gliding" : {
+					"title" : "Gliding",
+					"content" : "Hold jump to reduce falling speed. Press jump again to flap at the cost of stamina."
+				},
+				"momentum" : {
+					"title" : "Momentum",
+					"content" : "Charge forward to build up speed and crash through enemies and breakable blocks."
+				},
+				"meteor-dive" : {
+					"title" : "Meteor Dive",
+					"content" : "Translate falling speed into a shockwave upon landing by holding down."
+				},
+				"chakram" : {
+					"title" : "Chakram",
+					"content" : "Press throw while not holding an object to throw chakram. Tap left and right to build momentum for the throw."
+				},
+				"claws-fangs" : {
+					"title" : "Claws and Fangs",
+					"content" : "Melee attack. If holding a small, non-sapient enemy with telekinesis, this attack will devour them for health."
+				}
+			}
+		},
+		"trey-nuberro" : {
+			"name" : "Trey Nuberro",
+			"items" : {
+				"dark-blade" : {
+					"title" : "Dark Blade",
+					"content" : "A conjured blade of dark matter that can be used in combo attacks. Effective against light-type enemies."
+				},
+				"pitch-trap" : {
+					"title" : "Pitch Trap",
+					"content" : "Lays a sticky trap on the ground. Useful against fast enemies."
+				},
+				"dark-whip" : {
+					"title" : "Dark Whip",
+					"content" : "A long range melee attack. Can be used to grapple to points."
+				},
+				"blood-heal" : {
+					"title" : "Blood Heal",
+					"content" : "Close-range melee attacks against organic foes will restore health."
+				},
+				"double-jump" : {
+					"title" : "Double Jump",
+					"content" : "Extends wings after jumping. Can be held to slow falls."
+				},
+				"shadow-form" : {
+					"title" : "Shadow Form",
+					"content" : "Transform into a dark mist to move through grating."
+				},
+				"dark-power" : {
+					"title" : "Dark Power",
+					"content" : "Abilities cost less energy in the dark."
+				}
+			}
+		},
+		"sophie-nuberro" : {
+			"name" : "Sophie Nuberro",
+			"items" : {
+				"light-shot" : {
+					"title" : "Light Shot",
+					"content" : "Fires a bolt of light energy. Effective against dark-type enemies."
+				},
+				"light-sniper" : {
+					"title" : "Light Sniper",
+					"content" : "Fire on enemies at long distance. Uses a reticle to precisely aim at targets."
+				},
+				"blood-heal" : {
+					"title" : "Blood Heal",
+					"content" : "Close-range melee attacks against organic foes will restore health."
+				},
+				"double-jump" : {
+					"title" : "Double Jump",
+					"content" : "Extends wings after jumping. Can be held to slow falls."
+				},
+				"shine-dash" : {
+					"title" : "Shine Dash",
+					"content" : "Bolt forward through transparent objects."
+				},
+				"light-power" : {
+					"title" : "Light Power",
+					"content" : "Abilities cost less energy in the light."
+				}
+			}
+		}
+	}
+}

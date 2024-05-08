@@ -1,12 +1,12 @@
-/*========================================*\
-| 	          KYRODIAN LEGENDS             |
-|                                          |
-| Code License: GPL 3.0                    |
-| KyLe Asset License: CC-BY-SA-4.0         |
-| Core Asset License: CC-BY-4.0            |
-| Music Copyright: Kevin "JazzyPanda" Soto |
-| Guest Characters © Respective Owners     |
-\*========================================*/
+/*===================================*\
+|                                     |
+|  KYRODIAN LEGENDS                   |
+|                                     |
+|  LICENSE: AGPL                      |
+|  AUTHOR: Kelvin Shadewing           |
+|  DESC: A 16-bit FOSS Metroidvania.  |
+|                                     |
+\*===================================*/
 
 
 //Standard libs
@@ -19,8 +19,8 @@ donut("src/assets.nut")
 donut("src/menu.nut")
 donut("src/intro.nut")
 donut("src/title.nut")
-//donut("src/debug.nut")
-donut("src/physactor.nut")
+donut("src/debug.nut")
+donut("src/physobj.nut")
 donut("src/midi.nut")
 donut("src/main.nut")
 

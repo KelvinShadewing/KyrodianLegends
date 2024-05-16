@@ -14,13 +14,9 @@
 **FACTION:** Cloud Chasers, formerly Cold Front
 
 ## BIO:
-A young mercenary in training who was formerly a pirate after being adopted by [Emperor Pendragon](pendragon.md). Midi became an orphan when he was six at the same time he discovered his affinity for bomb magic when his family's car ran off the road into a river. Midi saw a [shadewing](shadewing.md) after escaping the flooding car, and in a panic, cast his first bomb, blasting himself out of the river. His parents were unable to escape from the vehicle and drowned.
+A young bounty hunter, formerly a pirate. After losing his parents in a [biometal](biometal.md) attack, he was found by the [Cold Front](coldfront.md) and taken in for his magical potential. Although he stayed with them for several years, he was never fully committed, and always had his eyes open for an opportunity to escape from them, biding his time until he felt he was capable of taking care of himself.
 
-He was quickly found by a passenger airship captain named Tempest Firemane, a [gryphon](gryphons.md), and raised as a cabin boy until one night, the ship was attacked by the Cold Front. Captain Firemane challenged [Emperor Pendragon](pendragon.md) to defend his ship, and went missing after being knocked out and falling overboard. Midi attempted to fight Pendragon as well, but rather than let the boy fall as well, Pendragon took him along as part of his loot.
-
-For most of his time in the Cold Front, Midi was mostly treated as just a weapon by many of the pirates, only really making a connection with Pendragon's nephew, [Puck](puck.md), who had also lost his parents. He developed a penchant for snark and puns to help him deal with the abbrasive attitudes of the rest of the Cold Front, in particular that of [Dr. Quincey](drq.md).
-
-He accquired his Transphere while exploring a ruin infested with [biometals](biometals.md) and found a piece of experimental biometal tech that attached itself to him and integrated itself into his tail, allowing him to curl up and cover himself in pillbug armor. Cortex Vespa, the cerebrate of the nest, was thrilled at finally finding a successful bonding of biometal tech and Kyrodian biology, but still attempted to kill Midi for what he knew. After fighting his way out, Midi kept his Transphere a secret from the Cold Front for fear of Dr. Quincey wanting to do further experimentation on him.
+After encountering [Hunter](hunter.md) at Gulsandur, the two quickly bonded and set out together, using a repainted Cold Front dropship as their new mobile home.
 
 ## GAMEPLAY:
 
@@ -53,7 +49,7 @@ Midi's transphere is basically a morphball, but with two differences to its Metr
 
 The explanation of why he does not get dizzy is that because he is not actually spinning himself, only the metal plates around him. His body is gyroscopically stabilized inside. The transphere can be used in biometal nests to quickly travel around through pneumatic tubes.
 
-Each element Midi learns also gives him a new ability for his transphere.
+Some elements Midi learns also give him a new ability for his transphere.
 
 * Normal - Drops a bomb that bumps Midi into the air. Can be chained as long as he has mana.
 * Fire - Boosts forward and deals damage to enemies on contact.
@@ -61,7 +57,7 @@ Each element Midi learns also gives him a new ability for his transphere.
 * Shock - Magnetizes the sphere to stick to special rails
 
 ### Other Abilities:
-* Grappling Hook - Can be assigned to Midi's off hand, allowing him to swing from points set against the background wall.
+* Grappling Hook - Can be assigned to Midi's off hand, allowing him to swing from points set against the background or walls.
 * Monkey Bars - Some ceilings can be grabbed and traversed this way.
 * Bomb Hover - Midi spawns an acorn under each foot and stands on them in the air for a moment. Horizontal momentum is preserved while hovering, and falling is cancelled until the bombs despawn. Hover energy is restored when on the ground or clinging to a wall.
-* Wall Kick - Pressing jump against a wall lets Midi kick off of it. Holding towards it allows him to climb. Spiked or slippery walls can't be climbed.
+* Wall Kick - Pressing jump against a wall lets Midi kick off of it. Holding towards it allows him to climb. Spiked or slippery walls can't be climbed. Wall kicking will be restricted from single-wall climbing until the hover bomb is learned.

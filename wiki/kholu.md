@@ -6,13 +6,15 @@ Predominantly kholu towns tend to be in forests and groves of tall deciduous tre
 
 Kholu villages tend to be tightly packed, using rope bridges and plankwalks in place of streets between buildings. Thick trees are hollowed out with spiral staircases leading to the ground, but modern villages will also use external staircases for convenience sake. Personal lifts and ladders may also be found per the needs and tastes of home owners. Ground dwellings exist for those needing more space, such as for gardens. Due to living mostly in nut-bearing trees, it is easy for them to use nuts as an export out of treetop villages.
 
-Kholu are among the most [magically](magic.md) adept people on Kyroda, second only to [dragons](dragons.md). Their close connection to natural magic is what allows the trees they live in to grow larger and survive having the trunks burrowed through. They can even survive having electrical wiring installed in them and be made resistant to flames.
+Kholu are among the most [magically](magic.md) adept people on Kyroda, second only to [dragons](dragons.md). Their close connection to natural magic through the earth element is what allows the trees they live in to grow larger and survive having the trunks burrowed through. They can even survive having electrical wiring installed in them and be made resistant to flames. They can also use their plant-focused abilities to graft plant parts, creating hybrids or making the wood planks of their homes part of the tree they're built into, allowing for the natural leaf roofing that disguises their homes from above.
 
 ## The Weeping City
 
 Originally the Weeping Fortress, this massive one-tree city is the ultimate example of the kholu's connection to nature. First created during the Biometal War, the Weeping Fortress was made able to tighten his willow hangings into a hard ball to defend against attacks, and the bark is strong enough to withstand missile blasts with minimal damage. After the war, it became a symbol of interracial cooperation during the Renaissance era as mages and engineers pulledd together to help the tree grow into a full-blown city.
 
-The trunk alone is several city blocks in diameter, and the branches are wide enough that whole roads were carved into them. The branches are lit with paper lanterns with a different color for each district, allowing people to easily find their way by following the lights. Some ground dwellings also exist under the branches, and rain caught by the leaves is directed around into streams that originate from the city perrimeter, making outskirt farming easy with the plentiful water supply.
+The trunk alone is several city blocks in diameter, and the branches are wide enough that whole roads were carved into them. The branches are lit with paper lanterns with a different color for each district, allowing people to easily find their way by following the lights. Some ground dwellings also exist under the branches, and rain caught by the leaves is directed around into streams that originate from the city perrimeter, making outskirt farming easy with the plentiful water supply. The leaves in the topmost branches allow the tree to provide oxygen at its uppermost altitudes, where the air would normally be difficult to breathe.
+
+Many gryphon visitors have expressed a bizarre sensation when visiting the city, citing that it makes them feel like small birds.
 
 ## Characters
 

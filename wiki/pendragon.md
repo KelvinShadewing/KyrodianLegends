@@ -2,6 +2,8 @@
 
 &nbsp;
 
+![Pendragon](img/pendragon-sword-pose-transparent.png)
+
 **FULL NAME:** Emperor Arthur Pendragon  
 **RACE:** [Hidegvin](hidegvins.md)  
 **SEX:** Male  

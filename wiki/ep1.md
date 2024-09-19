@@ -9,7 +9,7 @@
 
 Midi is an unwilling member of the Cold Front pirates. He goes with them to the island of Gulsandur, where an ancient gryphon stronghold from the Biometal War still stands. He's tasked with clearing out the biometals and scouting for anything of value to the pirates.
 
-Further in, he discoveres the biometal nest is built atop a secret lab, one with distinctly Kyrodian technology. It contains evidence of being built by Applied Excellence, which Midi will later learn was renamed Apex Technologies. Inside this lab, he finds a glass tube containing Hunter. A few biometals follow him in, and in the fight, Hunter's pod is cracked, forcing him to be revived and released.
+Further in, he discovers the biometal nest is built atop a secret lab, one with distinctly Kyrodian technology. It contains evidence of being built by Applied Excellence, which Midi will later learn was renamed Apex Technologies. Inside this lab, he finds a glass tube containing Hunter. A few biometals follow him in, and in the fight, Hunter's pod is cracked, forcing him to be revived and released.
 
 Hunter, having no memories other than the word he takes as his name, he joins up with Midi. They fight their way out of the biometal nest, and after working together, and after Midi sees how much his own power has grown, the two decide to strike out on their own.
 

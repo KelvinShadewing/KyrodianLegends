@@ -1,0 +1,34 @@
+{
+    "maps": [
+        {
+            "fileName": "gulsandur-beach.tmj",
+            "height": 1024,
+            "width": 1536,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "gulsandur-west-jungle-a.tmj",
+            "height": 1024,
+            "width": 1536,
+            "x": 1536,
+            "y": 0
+        },
+        {
+            "fileName": "gulsandur-west-jungle-tunnel.tmj",
+            "height": 256,
+            "width": 768,
+            "x": 3072,
+            "y": 0
+        },
+        {
+            "fileName": "gulsandur-west-jungle-b.tmj",
+            "height": 768,
+            "width": 1280,
+            "x": 3840,
+            "y": -256
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

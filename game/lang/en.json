@@ -281,5 +281,13 @@
 				}
 			}
 		}
+	},
+
+	"dialogue" : {
+		"gullsandur-intro" : [
+			
+		],
+		"midi-enter-jungle" :
+		["Huh, weird. It's awful quiet around here for a jungle..."]
 	}
 }

@@ -1,0 +1,14 @@
+{ "columns":9,
+ "image":"..\/gfx\/actors.png",
+ "imageheight":16,
+ "imagewidth":144,
+ "margin":0,
+ "name":"actor",
+ "spacing":0,
+ "tilecount":9,
+ "tiledversion":"1.11.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

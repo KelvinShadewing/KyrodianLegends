@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"..\/gfx\/tile-level.png",
+ "imageheight":64,
+ "imagewidth":64,
+ "margin":0,
+ "name":"arg",
+ "spacing":0,
+ "tilecount":16,
+ "tiledversion":"1.11.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

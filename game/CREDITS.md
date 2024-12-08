@@ -2,9 +2,9 @@
 
 ## Graphics
 
-[Kelvin Shadewing](http://kelvinshadewing.net): KL sprites (Midi, Trey, Sophie, Pengrunt, acorn), JazzyPanda sprites, Foxboy83 sprites, tileset edits (grasstop, snowstone, temple, beach, copper plating), explosions (fire, ice, lightning)
+[Kelvin Shadewing](http://kelvinshadewing.net): KL sprites (Midi, Trey, Sophie, Pengrunt, acorn), tileset edits (grasstop, snowstone, temple, beach, copper plating), explosions (fire, ice, lightning)
 
-[Foxboy83](https://www.patreon.com/foxboy83/): portrait sketches (Midi, Trey, Sophie, Foxboy), Wiki images (Midi)
+[Foxboy83](https://www.patreon.com/foxboy83/): portrait sketches (Midi, Trey, Sophie), Wiki images (Midi)
 
 [Knoble Persona](https://opengameart.org/users/knoblepersona): grasstop tiles*, snowstone tiles*, pine trees, pots, copper plating*, steampunk objects*
 
@@ -16,18 +16,8 @@
 
 [13rice](https://opengameart.org/users/13rice): base for lightning explosion
 
-
-
 ## Music
 
 [JazzyPanda](https://www.youtube.com/user/SotoKevin92): Holding Tails, Flooded Ruin, Frozen Spring, Ashland Blaze, Breathing Urban, Sparkle, Sizzlin Circuits, Quiet Joy, Trashy Worries
-
-## Characters
-
-[Kelvin Shadewing](http://kelvinshadewing.net): KL characters (Midi, Trey, Sophie, Pengrunt)
-
-[JazzyPanda](https://www.youtube.com/user/SotoKevin92): Kevin Pandaheart
-
-[Foxboy83](https://www.patreon.com/foxboy83/): Foxboy
 
 \* indicates alterations made from original

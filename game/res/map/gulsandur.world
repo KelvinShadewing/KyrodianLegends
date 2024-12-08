@@ -27,6 +27,13 @@
             "width": 1280,
             "x": 3840,
             "y": -256
+        },
+        {
+            "fileName": "gulsandur-west-cave.tmj",
+            "height": 1536,
+            "width": 512,
+            "x": 5120,
+            "y": 0
         }
     ],
     "onlyShowAdjacentMaps": false,

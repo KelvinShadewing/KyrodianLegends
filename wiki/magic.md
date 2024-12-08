@@ -32,7 +32,7 @@ Along with that, another point of balance among the elements is how they relate 
 |Water  |Shock  |
 |Light  |Dark   |
 
-Conjuration in magic does not produce real matter, only an approximation of it. When a conjured object runs out of energy, either over time or bieng depleted by damage, it will disintegrate. Conjured items must be given a constant charge in order to remain indefinitely, and will cause the caster to slowly deplete mana over time, or faster if the object is more massive. For this reason, conjured food should not be consumed for sustinance, as it will simply disappear afterwards, leaving whoever ate it hugry again with no benefit. This rule does not apply to summoned objects, as that is merely a change in position, and not a creation of pseudomatter.
+Conjuration in magic does not produce real matter, only an approximation of it. When a conjured object runs out of energy, either over time or bieng depleted by damage, it will disintegrate. Conjured items must be given a constant charge in order to remain indefinitely, and will cause the caster to slowly deplete mana over time, or faster if the object is more massive. For this reason, conjured food should not be consumed for sustinance, as it will simply disappear afterwards, leaving whoever ate it hungry again with no benefit. This rule does not apply to summoned objects, as that is merely a change in position, and not a creation of pseudomatter.
 
 ## Psionics
 
@@ -58,7 +58,7 @@ Wearing armor can allow the aura to relax, saving energy as it doesn not need to
 
 Since aura only activates when the body is in danger, certain forms of "damage" can circumvent it. For example, a surgeon with no intent to harm will be able to use a scalpel or needle to treat a patient, and someone smacking someone outside of a fight (usually in comedic scenes) will not be hindered at all, especially when such strikes are meant to convey a message that would otherwise not sink in, like smacking an insubordinate underling.
 
-Because souls in KL are capable of inhabiting any body with the capacity for sentience, even machines may potentially develop them, allowing them to have auras as well.
+Because souls in KL are capable of inhabiting any body with the capacity for sapience, even machines may potentially develop them, allowing them to have auras as well.
 
 ## Fortes
 
@@ -80,7 +80,7 @@ Various examples of tric weapons include:
 * Sniper - Concentrates its bullets into a thin laser for extra precision and range.
 * Buster - An arm-mounted tric shot that can charge up large bursts.
 * Grenade - Turns mana charges into impact bombs. Midi's magic is an in-born and more complex version of this.
-* Sword - A basic melee weapon, blade length depends on the power output of the weilder.
+* Sword - A basic melee weapon, blade length depends on the power output of the wielder.
 * Whip - A flexible beam weapon that can grapple.
 * Shield - Acts as both a physical shield and magic ward. Can reflect small destruction spells.
 * Pickaxe - Used by miners to augment digging ability and break through stone with less physical effort.

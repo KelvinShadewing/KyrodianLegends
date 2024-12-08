@@ -283,11 +283,44 @@
 		}
 	},
 
+	"items" : {
+		"life-up" : "Life Up",
+		"mana-up" : "Mana Up",
+		"stamina-up" : "Stamina Up",
+		"archipelago" : "Archipelago Item",
+		"midi-transphere" : "Transphere",
+		"midi-charge" : "Charge Bomb",
+		"midi-fire" : "Fire Bomb",
+		"midi-ice" : "Ice Bomb",
+		"midi-shock" : "Shock Bomb",
+		"midi-water" : "Water Bomb",
+		"midi-earth" : "Earth Bomb",
+		"midi-air" : "Air Bomb",
+		"midi-dark" : "Dark Bomb",
+		"midi-light" : "Light Bomb",
+		"midi-grapple-talons" : "Grapple Talons",
+		"midi-banarang" : "Banarang",
+		"midi-hover-boost" : "Hover Boost",
+		"midi-acorn-mine" : "Acorn Mine",
+		"midi-wing-nut" : "Wing Nut",
+		"midi-top-spin" : "Top Spin",
+		"hunter-scanner" : "ESP Scanner",
+		"hunter-momentum" : "Momentum",
+		"hunter-dive" : "Meteor Dive",
+		"hunter-chakram" : "Chakram"
+	},
+
 	"dialogue" : {
 		"gullsandur-intro" : [
 			
 		],
-		"midi-enter-jungle" :
-		["Huh, weird. It's awful quiet around here for a jungle..."]
+		"midi-enter-jungle" : [
+			["sprMidiF", 4, "Huh, weird. It's awful quiet around here for a jungle..."],
+			["sprMidiF", 8, "I'm not going crazy, right? There aren't even any birds here."]
+		]
+	},
+
+	"book" : {
+		""
 	}
 }

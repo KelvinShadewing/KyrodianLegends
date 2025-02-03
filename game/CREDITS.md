@@ -2,7 +2,16 @@
 
 ## Graphics
 
-[Kelvin Shadewing](http://kelvinshadewing.net): KL sprites (Midi, Trey, Sophie, Pengrunt, acorn), tileset edits (grasstop, snowstone, temple, beach, copper plating), explosions (fire, ice, lightning)
+### [Kelvin Shadewing](http://kelvinshadewing.net)
+(All graphics contributions CC-BY-SA 4.0)
+hunter.png
+hunterF.png
+midi.png
+midi-aura.png
+midiF.png
+midiO.png
+
+KL sprites (Midi, Trey, Sophie, Pengrunt, acorn), tileset edits (grasstop, snowstone, temple, beach, copper plating), explosions (fire, ice, lightning)
 
 [Foxboy83](https://www.patreon.com/foxboy83/): portrait sketches (Midi, Trey, Sophie), Wiki images (Midi)
 

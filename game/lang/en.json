@@ -21,7 +21,7 @@
 
 				"kholu" : {
 					"title" : "Kholu",
-					"content" : "  While some marstels are hesitant to trust us fully, the kholu have proven far more forgiving and light-hearted. They have founded a new tradition: taking on surnames after food. We have found this to be naut more than good-natured humor, and take it as a sign of forgiveness for the times we hunted them.\n\n  We gryphons are still ever remorseful for our lack of consideration, and seek to make amends by protecting them from other dangers as best we can."
+					"content" : "  While some marstels are hesitant to trust us fully, the kholu have proven far more forgiving and light-hearted. They have founded a new tradition: taking on surnames after food. We have found this to be naut more than good-natured humor, and take it as a sign of forgiveness for the times we hunted them.\n\n  We gryphons are still ever remorseful for our failure to see them as equals, and seek to make amends by protecting them from other dangers with our very lives."
 				}
 			}
 		},
@@ -288,6 +288,8 @@
 		"mana-up" : "Mana Up",
 		"stamina-up" : "Stamina Up",
 		"archipelago" : "Archipelago Item",
+		"health-small" : "Small Health",
+		"health-large" : "Large Health",
 		"midi-transphere" : "Transphere",
 		"midi-charge" : "Charge Bomb",
 		"midi-fire" : "Fire Bomb",
@@ -321,6 +323,9 @@
 	},
 
 	"book" : {
-		""
+		"" : {
+			"title" : "",
+			"content" : ""
+		}
 	}
 }

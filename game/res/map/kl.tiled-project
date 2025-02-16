@@ -1,0 +1,15 @@
+{
+    "automappingRulesFile": "rules.txt",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "extensions",
+    "folders": [
+        ".",
+        "."
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+    ]
+}

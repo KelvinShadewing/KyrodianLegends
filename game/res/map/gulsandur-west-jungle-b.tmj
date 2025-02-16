@@ -302,9 +302,9 @@
          "name":"actor",
          "objects":[
                 {
-                 "gid":274,
+                 "gid":282,
                  "height":16,
-                 "id":1,
+                 "id":5,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -314,9 +314,9 @@
                  "y":656
                 }, 
                 {
-                 "gid":274,
+                 "gid":282,
                  "height":16,
-                 "id":2,
+                 "id":6,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -332,7 +332,7 @@
          "y":0
         }],
  "nextlayerid":10,
- "nextobjectid":5,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",

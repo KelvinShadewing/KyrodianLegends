@@ -11,6 +11,8 @@ midi-aura.png
 midiF.png
 midiO.png
 
+//TODO: Update credits to new format
+
 KL sprites (Midi, Trey, Sophie, Pengrunt, acorn), tileset edits (grasstop, snowstone, temple, beach, copper plating), explosions (fire, ice, lightning)
 
 [Foxboy83](https://www.patreon.com/foxboy83/): portrait sketches (Midi, Trey, Sophie), Wiki images (Midi)

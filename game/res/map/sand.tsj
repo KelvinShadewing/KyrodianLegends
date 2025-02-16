@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/gfx\/sand.png",
+ "imageheight":400,
+ "imagewidth":256,
+ "margin":0,
+ "name":"sand",
+ "spacing":0,
+ "tilecount":400,
+ "tiledversion":"1.11.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

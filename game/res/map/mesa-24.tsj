@@ -1,0 +1,19 @@
+{ "columns":16,
+ "image":"..\/gfx\/ts-mesa-24.png",
+ "imageheight":384,
+ "imagewidth":384,
+ "margin":0,
+ "name":"mesa-24",
+ "spacing":0,
+ "tilecount":256,
+ "tiledversion":"1.11.0",
+ "tileheight":24,
+ "tileoffset":
+    {
+     "x":-4,
+     "y":4
+    },
+ "tilewidth":24,
+ "type":"tileset",
+ "version":"1.10"
+}

@@ -19,7 +19,7 @@ These pages contain spoilers for the game's storyline. If you are not interested
 |[Midi Waffle](midi.md)       |[Emperor Pendragon](pendragon.md)  |[Rusty](rusty.md)|
 |[Trey Nuberro](trey.md)      |[Guinevere Pendragon](guinevere.md)|
 |[Sophie Nuberro](sophie.md)  |[Puck Pendragon](puck.md)          |
-|[Hunter Shadewing](hunter.md)|[Dr. Alastor Quincey](drq.md)      |
+|[Hunter Shadewing](hunter.md)|[Dr. Alastor Quincey](quincey.md)  |
 |                             |[Obtuse Angler](obtuse.md)         |
 
 &nbsp;
@@ -44,6 +44,7 @@ These pages contain spoilers for the game's storyline. If you are not interested
 |[Blood Victual](ep2.md)    |[Controls](controls.md)  |
 |                           |[Platformer](platform.md)|
 |                           |[Enemies](enemies.md)    |
+|                           |[Bosses](bosses.md)      |
 |                           |[Items](items.md)        |
 
 ## TODO

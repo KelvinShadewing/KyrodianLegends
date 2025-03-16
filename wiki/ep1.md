@@ -22,3 +22,7 @@ A biometal shadewing that Midi and Hunter fought on the way out is recovered and
 ## Gameplay Outline
 
 The game opens with the CF dropship landing on the beach of Gulsandur. After a brief cutscene with Midi and the penguins getting out and going over the mission, the player is given free reign to explore the ruins.
+
+Planned events/setpieces:
+
+* In the fire area, the geothermal generator can be shut down, disabling the freezer in the ice area and turning it into a water area.

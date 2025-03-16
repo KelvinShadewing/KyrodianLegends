@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "7181fb2da79a9b22",
+    "type": "split",
+    "children": [
+      {
+        "id": "291448b826dc32b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3170d32129689b52",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d814bb2a2faea810",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3913aca88adab84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6781cfb9d82508",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a2bd5e8e2db0860",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e41df34bed0ea8a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c29bb7ae495b00c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a50d27f2d538775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c33f8fad59f9c3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f54cd4189e392953",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "25e85b5ec04de7c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9a24a0e7ee80a5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3170d32129689b52",
+  "lastOpenFiles": [
+    "wiki/enemies/pengrunt.md",
+    "wiki/enemies/titantula.md",
+    "wiki/enemies/scuttler.md",
+    "wiki/enemies/pillbug.md",
+    "wiki/enemies",
+    "wiki/titantula.md",
+    "game/docs/game-mechanics.md",
+    "wiki/pillbug.md",
+    "wiki/nme-pillbug.md",
+    "wiki/nme-titantula.md",
+    "wiki/scuttler.md",
+    "wiki/enemies.md"
+  ]
+}

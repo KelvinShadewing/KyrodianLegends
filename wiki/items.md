@@ -4,9 +4,9 @@
 
 **Mana Cell** - Increases maximum magic/stamina. Not compatible with Hunter.
 
-**Thermal Barrier** - Consumable shield for acid and extreme temperatures. Recharges over time when outside of hazards. If drained, the device breaks and must be replaced.
+**Thermal Barrier** - Shield for acid and extreme temperatures, drains when in use. Recharges over time when outside of hazards.
 
-**Va(r/l)iant Shield** - Unlimited protection from acid and convection. No one in game can agree on whether to call it a Variant Shield or a Valiant Shield, and so the name flip-flops randomly whenever viewed in the inventory.
+**Sapran Shield** - Unlimited protection from acid and convection.
 
 **Air Tank** - Extends how long the player can remain submerged. Recharges when surfaced. The player will instantly regain a minimum amount of air upon resurfacing, the amount they can hold without a tank.
 

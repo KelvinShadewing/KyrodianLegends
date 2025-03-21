@@ -7,7 +7,7 @@
 ### Pengrunt
 
 * **Type:** Ground patrol
-* **Attack:** Ice ball (5 damage, 2s cooldown)
+* **Attacks:** Ice ball (5 damage, 2s cooldown)
 * **Health:** 10
 
 Patrols left and right, dropping down short ledges. Able to jump up one block. When they detect the player in attack range with a clear line of sight, they will throw and ice ball with a slight arc. If hit with an attack, the ice ball can be parried.
@@ -19,7 +19,7 @@ Patrols left and right, dropping down short ledges. Able to jump up one block. W
 ### Pillbug
 
 * **Type:** Ground patrol
-* **Attack:** Bullet (2 damage, triple shot, 3s cooldown after chain)
+* **Attacks:** Bullet (2 damage, triple shot, 3s cooldown after chain)
 * **Health:** 5, melee damage x 0.5
 * **Attributes:** Grabbable
 
@@ -28,7 +28,7 @@ Drops from vents and rolls into attack position. Will fire three shots rapidly, 
 ### Scuttler
 
 * **Type:** Wall patrol
-* **Attack:** Melee
+* **Attacks:** Melee
 * **Health:** 5, melee damage x 0.5
 * **Attributes:** Grabbable
 
@@ -37,7 +37,7 @@ Crawls along walls and ceilings, moves faster when near player. If it doesn't hi
 ### Hoverbee
 
 * **Type:** Flying
-* **Attack:** Melee
+* **Attacks:** Melee
 * **Health:** 3
 * **Attributes:** Grabbable
 
@@ -50,7 +50,7 @@ Flies in a patrol route. When the player gets near, it will persue. When it gets
 ### Titantula
 
 * **Type:** Ceiling patrol
-* **Attack:** Web shot (0 damage, bind 8)
+* **Attacks:** Web shot (0 damage, bind 8)
 * **Health:** 2
 * **Attributes:** Grabbable, edible
 
@@ -59,7 +59,7 @@ Large spider that crawls on ceilings and drops down on a web. When down on the g
 ### Puffranah
 
 * **Type:** Swimming
-* **Attack:** Inhale (bind 8, 1 DPS while bound)
+* **Attacks:** Inhale (bind 8, 1 DPS while bound)
 * **Health:** 4, shock damage x 2.0, water damage x 0.0
 
 Red and white fish that attempts to inhale and chew on the player. Player cannot attack while inside.
@@ -67,7 +67,7 @@ Red and white fish that attempts to inhale and chew on the player. Player cannot
 ### Baby Puffranah
 
 * **Type:** Swimming
-* **Attack:** Jumping bite (cling 8, 1 DPS while clinging)
+* **Attacks:** Jumping bite (cling 8, 1 DPS while clinging)
 * **Health:** 1
 * **Attributes:** Grabbable, edible
 

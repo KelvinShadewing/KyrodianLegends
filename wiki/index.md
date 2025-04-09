@@ -1,5 +1,4 @@
-![KL Title](img/titleTrans.png)
-# Wiki
+# ![KL Title](img/titleTrans.png)
 
 &nbsp;
 
@@ -10,9 +9,8 @@ These pages contain spoilers for the game's storyline. If you are not interested
 
 &nbsp;
 
-###Characters
+### Characters
 
-**Heroes**
 
 |Heroes                       |Villains                           |Friendlies       |
 |-----------------------------|-----------------------------------|-----------------|

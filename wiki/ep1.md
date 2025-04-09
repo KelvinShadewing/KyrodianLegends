@@ -25,4 +25,7 @@ The game opens with the CF dropship landing on the beach of Gulsandur. After a b
 
 Planned events/setpieces:
 
-* In the fire area, the geothermal generator can be shut down, disabling the freezer in the ice area and turning it into a water area.
+* In the fire area, the geothermal generator can be shut down, disabling the freezer in the ice area and turning it into a water area. This will also make certain rooms go dark that can be seen in by Hunter.
+
+* Upper ruin will have a library. Remaining books in it can be read for lore.
+

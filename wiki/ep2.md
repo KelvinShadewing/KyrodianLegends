@@ -23,4 +23,4 @@ Haskell comes and tells them they have earned the right to rule the castle. They
 
 * Flint Mistwing - A gryphon with the power of blood drain. Devours Dexter when he tries to flee. When defeated, he imparts both abilities, granting Trey and Sophie both the bat form transformation and life steal for Trey's melee attacks.
 
-* 
+* Asher Jablonski - 

@@ -20,13 +20,7 @@ The game plays similar to games like Gargoyle's Quest and Zelda 2, with players 
 
 ## How to Play
 
-This game runs in the [XYG Studio](https://github.com/KelvinShadewing/XYG-Studio) game engine.
-
-To run, it, build the runtime (sorry, no release yet), and install it to wherever your terminal can call it without the need for a path. On UNIX-like systems, this will be your `/usr/bin/` folder. On Windows, it can be anywere as long as your `%PATH%` variable is set to it. You should be able to open a command prompt/terminal and simply type in `xyg`.
-
-From here, go to where you downloaded Kyrodian Legends and open a terminal/command prompt, and type in `xyg kyle.nut`. If it worked, you should see a small window appear with Midi. Press left or right to move him, and space to drop a ball.
-
-This is simply a test function to demonstrate instance management. If you look on the console window, you'll see it announce whenever a ball is made or deleted, along with a count of how many actors are on screen (Midi himself is not an actor at this point).
+The game runs with [Brux GDK](https://codeberg.org/KelvinShadewing/brux-gdk). Once you have the runtime installed, just launch `game.brx`.
 
 &nbsp;
 
@@ -44,6 +38,8 @@ Non-environment sprites use three shades per color and selective outlines with t
 
 Tilesets should be filled with a solid color in the middle to provide dark negative space. Colors should have three or four shades each, four preferred. Slope gradess should be 1x2, 1x1, or 2x1. Other grades can be used, but should be whole numbers (eg. 1x3, 1x4, etc.), and any slope steeper than 1x1 will cause characters to slide down them.
 
+Tiles may be in dimensions between 16x16 and 24x24 for ones that use a bit of overlap. Because of how tiles are rendered, tiles below and to the right will be drawn over those above and to the left. Remember that when designing overlaps.
+
 #### Sprites
 
 In addition to the color guides above, Kyrodian Legends uses a scale factor of 7 pixels per foot. This allows the sprites to cross over with certain games while keeping an approximately accurate scale to non-KL characters. Most animations have an even number of frames, unless it's a static pose. For movement, playable bipeds have 8 frames per speed (walking, running, sprinting), quadrupeds have 6, and NPCs, regardless of stance, have 4.
@@ -54,7 +50,7 @@ Examples of games that KL's sprites could fit into include Super Mario 1-3/World
 
 #### Maps
 
-Maps use 16*16 tilesets. Tilesets should be embedded; the game engine will check that the appropriate tilesets have been loaded based on their filenames.
+Maps use 16*16 tilesets. External tilesets can be used. Use `tmj` format for maps and `tsj` for tilesets. Do not use Tiled's XML formats.
 
 Maps in the game use three distinct layers: 'ground', 'under' and 'over'. Ground is for overworld terrain, and shows up under everything but the background. It is not used in platforming sections.
 
@@ -75,7 +71,6 @@ A group of hidegvin pirates that have blue feathers and use a variety of ice-rel
 ***Biometal***
 
 These are robotic alien remnants from the Biometal War, and act as monsters for the game. They can take on many forms, so long as they appear to be living things but still distinctly mechanical. Their design should be sleek but segmented, and can incorporate crystal lights, in contrast the the stiffer, rivited look of terrestrial technology.
-
 
 ***Monsters***
 

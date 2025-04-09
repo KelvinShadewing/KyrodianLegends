@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/missions/avianmissions/avianmission1.json",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
         "."
@@ -51,10 +51,233 @@
         "/home/kelvin/Code/sta/res/map/actors.tsj": {
             "scaleInDock": 1
         },
+        "/home/kelvin/Code/sta/res/map/aurora-pennyton.json": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1392.75,
+                "y": 208.25
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/aurora-pennyton.json#grass": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/aurora-pennyton.json#icecave": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/aurora-pennyton.json#ropes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/aurora-pennyton.json#rpg16": {
+            "scaleInDock": 1
+        },
         "/home/kelvin/Code/sta/res/map/castle.tsj": {
             "scaleInDock": 1
         },
         "/home/kelvin/Code/sta/res/map/honeycomb.tsj": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3688,
+                "y": 319
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#grass": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-attack.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3440,
+                "y": 480
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#dirtcavetiles": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#rocktiles": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#rope": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#signpost": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-bedrock.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-cliffs.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1600,
+                "y": 768
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-cliffs.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-cliffs.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3200,
+                "y": 448
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#rocktiles": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-crush.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2976,
+                "y": 400
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#grass": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-earth.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3600,
+                "y": 568
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json#rocktiles": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-fly.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-henge.json": {
+            "scale": 0.25909090909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2161.4035087719303,
+                "y": 1760.0000000000005
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-henge.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-henge.json#rail": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-henge.json#solid": {
             "scaleInDock": 1
         },
         "/home/kelvin/Code/sta/res/map/nessland-hive-f.tmj": {
@@ -92,9 +315,9 @@
         },
         "/home/kelvin/Code/sta/res/map/nessland-hive.json": {
             "expandedObjectLayers": [
-                3,
                 12,
-                4
+                4,
+                3
             ],
             "scale": 3,
             "selectedLayer": 1,
@@ -113,6 +336,335 @@
             "scaleInDock": 1
         },
         "/home/kelvin/Code/sta/res/map/nessland-hive.json#tsGrasstop": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json": {
+            "scale": 0.234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3234.133333333333,
+                "y": 281.60000000000014
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#icecave": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#rope": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#snow": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-left.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json": {
+            "scale": 0.234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3438.9333333333334,
+                "y": 320.0000000000002
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#icecave": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#snow": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-mint.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night-old.json": {
+            "scale": 0.277875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2400.359874044085,
+                "y": 399.46018893387304
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night-old.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night-old.json#rocktiles": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night-old.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night-old.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night.json": {
+            "scale": 0.234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3200,
+                "y": 512.0000000000002
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-night.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json": {
+            "scale": 0.234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3200,
+                "y": 477.86666666666656
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#rocktiles": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#rope": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-owl.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-secret.json": {
+            "scale": 0.35624999999999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1440,
+                "y": 1280.0000000000002
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json": {
+            "scale": 0.234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3511.4666666666667,
+                "y": 320.0000000000002
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#pipetiles_blue": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#rope": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-shells.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json": {
+            "scale": 0.4168125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1600.2399160293899,
+                "y": 798.9203778677463
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#dirtcavetiles": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#igloo": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#spikes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-situation.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-switch.json": {
+            "scale": 0.6785714285714286,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.42105263157896,
+                "y": 672
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-switch.json#actors": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-switch.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json": {
+            "scale": 0.320625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2080.3118908382066,
+                "y": 480.31189083820675
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#car": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#city": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#goal": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#grass": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#icecave": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#mamabear-sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#pipes": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#rpg16": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#snow": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-welcome.json#solid": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-well.json": {
+            "scale": 0.234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3118.9333333333334,
+                "y": 520.5333333333335
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-well.json#sign": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-well.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-wood.json": {
+            "scale": 0.6221082089552238,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1072.1607437396913,
+                "y": 432.4006597690809
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-wood.json#city": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-wood.json#forestdeco": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-wood.json#woodplat": {
+            "scaleInDock": 1
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-xtreme.json": {
+            "scale": 0.35624999999999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1280.0000000000002,
+                "y": 1280.0000000000002
+            }
+        },
+        "/home/kelvin/Code/sta/res/map/nessland-xtreme.json#lighthouse": {
             "scaleInDock": 1
         },
         "/home/kelvin/Code/sta/res/map/overworld-1.json": {
@@ -138,6 +690,202 @@
         "/home/kelvin/Code/sta/res/map/solid.tsj": {
             "scaleInDock": 2
         },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp1.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp2.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp3.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp4.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp5.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancampendleft1.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancampendright1.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamphill1.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamplake1.json": {
+            "scale": 1.9,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamptoilet1.json": {
+            "scale": 1.9,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 240,
+                "y": 239.99999999999997
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/missions/avianmissions/avianmission1.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1234,
+                "y": 754
+            }
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/huge-objects.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/liquids.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/materials.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 2
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/miscellaneous.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/crafting.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/decorative.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/door.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/farmable.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/furniture.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/light.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/other.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/pot.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/sapling.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/spawner.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/storage.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/teleporter.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/tool.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/tools.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/trap.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-category/wire.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/ancient.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/apex.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/avian.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/floran.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/generic.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/glitch.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/human.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/hylotl.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-race/novakid.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-type/container.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-type/farmable.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-type/loungeable.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-type/noisy.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/objects-by-type/teleporter.json": {
+            "scaleInDock": 1
+        },
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/tilesets/packed/supports.json": {
+            "scaleInDock": 1
+        },
         ":/automap-tiles.tsx": {
             "scaleInDock": 1
         },
@@ -146,6 +894,10 @@
         },
         "arg.tsj": {
             "scaleInDock": 1
+        },
+        "grass-24.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
         },
         "grass.tsj": {
             "scaleInDock": 1,
@@ -190,8 +942,9 @@
             }
         },
         "mesa-24.tsj": {
+            "dynamicWrapping": false,
             "scaleInDock": 1.5,
-            "scaleInEditor": 1
+            "scaleInEditor": 4
         },
         "mesa.tsj": {
             "scaleInDock": 1,
@@ -238,22 +991,23 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "mesa-24.tsj"
+        "mesa-24.tsj",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/missions/avianmissions/avianmission1.json"
     ],
     "project": "kl.tiled-project",
     "recentFiles": [
         "mesa-24.tsj",
-        "/home/kelvin/Code/sta/res/map/nessland-hive.json",
-        "/home/kelvin/Code/sta/res/map/nessland-hive-f.tmj",
-        "/home/kelvin/Code/sta/res/map/overworld-1.json",
-        "mesa.tsj",
-        "gulsandur-beach.tmj",
-        "gulsandur-west-jungle-tunnel.tmj",
-        "grass.tsj",
-        "rules/auto-mesa.tmj",
-        "gulsandur-west-jungle-a.tmj",
-        "gulsandur-west-jungle-b.tmj",
-        "sand.tsj"
+        "grass-24.tsj",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/missions/avianmissions/avianmission1.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp1.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp2.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp3.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp4.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp5.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancampendleft1.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancampendright1.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamphill1.json",
+        "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamplake1.json"
     ],
     "tileset.lastUsedFormat": "json",
     "tileset.tileSize": {

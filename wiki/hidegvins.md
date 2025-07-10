@@ -19,4 +19,4 @@ Ice bricks used for walls are normally white, but can be dyed to give buildings 
 
 ## Notes
 
-Hidegvin is a portmanteau of Hungarian words "hideg" meaning "chill" and "pingvin" meaning "penguin". It's both a reference to my herritage and to Chill Penguin from Mega Man X, my favorite game as a kid.
+Hidegvin is a portmanteau of Hungarian words "hideg" meaning "chill" and "pingvin" meaning "penguin". It's both a reference to my heritage and to Chill Penguin from Mega Man X, my favorite game as a kid.

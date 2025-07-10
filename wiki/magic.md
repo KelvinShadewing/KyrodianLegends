@@ -6,7 +6,7 @@ Because mana is slightly out of phase, only partially overlapping physical matte
 
 When a mage casts a spell, their brain translates their will into an electronic signal that the mana in their body will react to, similar to the electronic signals that tell the muscles when and how to move. After completing its task, the mana will return to a resting state, at which point it can be reabsorbed by living beings. Areas with high concentrations of mana can be beneficial to mages who have learned to draw it in on command. This is done by willing the mana in their bodies to compress, creating a void that pulls ambient energy in like a vacuum. However, this can have harmful effects if too much is drawn in at once, as once the compression stops, the mana will attempt to spread out within its new host, and may damage them by leaking out.
 
-The effect of damaging a mage who charges too much is due to the fact that the mana has not had time to acclimate to its new host; it's frequency has not yet changed to match the signature of the host's aura. Mana that is absorbed naturally over time will perfectly resonate with the aura, allowing the caster to cast spells without harming themselves at all. For instance, Midi is able to be caught in his own explosions becaues the mana creating his bombs matches his aura.
+The effect of damaging a mage who charges too much is due to the fact that the mana has not had time to acclimate to its new host; it's frequency has not yet changed to match the signature of the host's aura. Mana that is absorbed naturally over time will perfectly resonate with the aura, allowing the caster to cast spells without harming themselves at all. For instance, Midi is able to be caught in his own explosions because the mana creating his bombs matches his aura.
 
 Enchanting is the process of ordering mana to take on a new host and use the stored energy their to perform a persistent task. Because enchanted objects are wrapped in a magical aura, they are capable of interacting with ethereal entities, which is why, for example, an enchanted sword is needed to fight a ghost.
 
@@ -23,7 +23,7 @@ Elemental magic comes in eight forms, half of which representing forms of matter
 
 Mages with elemental skill tend to lean towards one or the other type, matter or energy. However, this is where the yin-yang principal comes into play. A mage who specializes in energy will have one matter element they can use, and one who specializes in matter will have one energy element. For example, [Midi](midi.md) can use fire, ice, and shock bombs, and can also make dark bombs that create a gravity well.
 
-Along with that, another point of balance among the elements is how they relate to their compliments. Each elemental category has two elements that counteract each other, and two that counteract one from the other category.These elements will have a greater effect against their counterpart, while offering resistance against themselves.
+Along with that, another point of balance among the elements is how they relate to their compliments. Each elemental category has two elements that counteract each other, and two that counteract one from the other category. These elements will have a greater effect against their counterpart, while offering resistance against themselves.
 
 |Element|Counter|
 |-------|-------|
@@ -32,13 +32,13 @@ Along with that, another point of balance among the elements is how they relate 
 |Water  |Shock  |
 |Light  |Dark   |
 
-Conjuration in magic does not produce real matter, only an approximation of it. When a conjured object runs out of energy, either over time or bieng depleted by damage, it will disintegrate. Conjured items must be given a constant charge in order to remain indefinitely, and will cause the caster to slowly deplete mana over time, or faster if the object is more massive. For this reason, conjured food should not be consumed for sustinance, as it will simply disappear afterwards, leaving whoever ate it hungry again with no benefit. This rule does not apply to summoned objects, as that is merely a change in position, and not a creation of pseudomatter.
+Conjuration in magic does not produce real matter, only an approximation of it. When a conjured object runs out of energy, either over time or being depleted by damage, it will disintegrate. Conjured items must be given a constant charge in order to remain indefinitely, and will cause the caster to slowly deplete mana over time, or faster if the object is more massive. For this reason, conjured food should not be consumed for sustinance, as it will simply disappear afterwards, leaving whoever ate it hungry again with no benefit. This rule does not apply to summoned objects, as that is merely a change in position, and not a creation of pseudomatter.
 
 ## Psionics
 
 On rare occasions, a person will be born able to learn psionic abilities instead of magic. Psi, the energy used in psionics, does not share a 4th space with mana, but does with physical matter, meaning the two energies do not have any effect on one another and must use some physical means in order to affect each other. Because of the 4th distance from mana, psionics are virtually useless against ethereal beings, making psychic types not very effective against ghosts.
 
-Despite common belief, having psionic abilities does not automatically grant one telepathy, mind reading, or mind control. While it is possible to learn telepathy fairly easy, in order to read minds, the user would first have to learn to sense and understand brain waves, which for non-telepaths, have an extremely short emission range. It works like a radio; if one is not actually transmitting, the other cannot recieve anything. Physical contact is necessary to read minds psionically without the one being read being a telepath. In fact, it is actually those recieving telepathic messages who are reading the mind of the psychic.
+Despite common belief, having psionic abilities does not automatically grant one telepathy, mind reading, or mind control. While it is possible to learn telepathy fairly easily, in order to read minds, the user would first have to learn to sense and understand brain waves, which for non-telepaths, have an extremely short emission range. It works like a radio; if one is not actually transmitting, the other cannot recieve anything. Physical contact is necessary to read minds psionically without the one being read being a telepath. In fact, it is actually those recieving telepathic messages who are reading the mind of the psychic.
 
 Mind control is even more complicated, requiring the user to have an intimate understanding of the subject's thought process in order to get the desired result, otherwise, it would be like pushing buttons without knowing what they do. Most psychics, at best, are able to learn empathic compulsion, projecting their emotions or memories of emotions onto others.
 
@@ -84,6 +84,10 @@ Various examples of tric weapons include:
 * Whip - A flexible beam weapon that can grapple.
 * Shield - Acts as both a physical shield and magic ward. Can reflect small destruction spells.
 * Pickaxe - Used by miners to augment digging ability and break through stone with less physical effort.
+
+## Hero Crystals
+
+Hero crystals are magical minerals that can convert heroic emotions into magical power. When called upon, the energy is released and triggers a temporary transformation in the holder that lasts until the energy runs out. This transformation comes with increased offensive and defensive power, including limited-time access to endless mana. The transformation is different for everyone, though the change is generally minor in appearance, usually exaggerating a specific trait of the holder.
 
 ## Goats
 

@@ -20,7 +20,7 @@ Patrols left and right, dropping down short ledges. Able to jump up one block. W
 
 * **Type:** Ground patrol
 * **Attacks:** Bullet (2 damage, triple shot, 3s cooldown after chain)
-* **Health:** 5, melee damage x 0.5
+* **Health:** 5, melee damage * 0.5
 * **Attributes:** Grabbable
 
 Drops from vents and rolls into attack position. Will fire three shots rapidly, wait a second, jump to a new position, then fire again, either upon landing or in the air, whenever they line up with the player.
@@ -29,7 +29,7 @@ Drops from vents and rolls into attack position. Will fire three shots rapidly, 
 
 * **Type:** Wall patrol
 * **Attacks:** Melee
-* **Health:** 5, melee damage x 0.5
+* **Health:** 5, melee damage * 0.5
 * **Attributes:** Grabbable
 
 Crawls along walls and ceilings, moves faster when near player. If it doesn't hit another enemy when thrown, it will stick to whatever surface it hits and resume patrolling.
@@ -60,7 +60,7 @@ Large spider that crawls on ceilings and drops down on a web. When down on the g
 
 * **Type:** Swimming
 * **Attacks:** Inhale (bind 8, 1 DPS while bound)
-* **Health:** 4, shock damage x 2.0, water damage x 0.0
+* **Health:** 4, shock damage * 2.0, water damage * 0.0
 
 Red and white fish that attempts to inhale and chew on the player. Player cannot attack while inside.
 
@@ -74,6 +74,13 @@ Red and white fish that attempts to inhale and chew on the player. Player cannot
 Jumps from water towards player and latches onto them, chewing while attached. They can be shaken off and will fly off in a random direction when detached. Player cannot attack while one is on them.
 
 If eaten, it will damage the player instead of healing them. It's the snack that bites back.
+
+### Jellybird
+
+* **Type:** Floating
+* **Attacks:** Stinging (collision 4)
+* **Health:** 4, water damage * 0.0, shock damage * 2.0, air damage * 0.0, earth damage * 2.0
+* **Attributes:** Grabbable, edible
 
 ---
 

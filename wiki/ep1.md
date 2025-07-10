@@ -17,7 +17,7 @@ Upon reaching the surface, they defeat the pirates who came with Midi and steal 
 
 Shortly after, Emperor Pendragon is informed of Midi's betrayal, though he doesn't care too much about it, believing what they'll find in the old Apex lab will far outweigh his value to them. They meet with the stranded crewmen and begin excavating the lab.
 
-A biometal shadewing that Midi and Hunter fought on the way out is recovered and taken by Dr. Quincey for study, along with the notes found within the lab. He is elated at the find, and immedately sets to work on creating Midi and Hunter's greatest rivals, Vorbis and Zero.
+A biometal shadewing that Midi and Hunter fought on the way out is recovered and taken by Dr. Quincey for study, along with the notes found within the lab. He is elated at the find, and immediately sets to work on creating Midi and Hunter's greatest rivals, Vorbis and Zero.
 
 ## Gameplay Outline
 

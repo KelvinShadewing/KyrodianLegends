@@ -11,7 +11,7 @@
 
 This episode takes place as a mission-based campaign instead of a single metroidvania. All characters retain their abilities from episodes 1 and 2, with a few new ones they can learn on missions.
 
-It begins where [episode 1](ep1.md) leaves off, with Midi and Hunter reaching the mainland. Because they're in a Cood Front drop ship, the town they fly over ends up shooting them down, forcing a crash landing. They quickly clear their names with the aurthorities, but are now stranded and have to take missions to repair and repaint their ship. The downed ship acts as a temporary home base for them.
+It begins where [episode 1](ep1.md) leaves off, with Midi and Hunter reaching the mainland. Because they're in a [Cold Front](coldfront.md) drop ship, the town they fly over mistakes them for pirates and shoots them down, forcing a crash landing. They quickly clear their names with the aurthorities, but are now stranded and have to take missions to repair and repaint their ship. The downed ship acts as a temporary home base for them.
 
 After a few missions, they get an emergency request. The Cold Front have caught up with them, and are preparing to raid the town. During this mission, Trey and Sophie meet them. The two teams work together to fend off the pirates, leading up to a battle with [Dr. Quincey](quincey.md), who berates Midi for his betrayal during the fight.
 

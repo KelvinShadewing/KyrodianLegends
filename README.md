@@ -74,7 +74,7 @@ These are robotic alien remnants from the Biometal War, and act as monsters for 
 
 ***Monsters***
 
-Organic monsters can be used as well, and mainly consist of plants and land versions of sea invertibrates, such as jellybirds, an airborne variant of jellyfish, and various crustaceans and mollusks.
+Organic monsters can be used as well, and mainly consist of plants and land versions of sea invertebrates, such as jellybirds, an airborne variant of jellyfish, and various crustaceans and mollusks.
 
 ***Bandits/Scavengers***
 
@@ -96,7 +96,7 @@ The mods.list file contains the names of user-made scripts to be run after the g
 
 #### Filenames and Paths
 
-The game will refernce all paths from the directory it was launched in, unless the path is global (eg. beginning with `/` or `C:\\`). If, for instance, a mod uses sprites, and those sprites are in their own folder under the mod folder, you would use something like `"mod/sprites/filename.png"` to load it, even if the file calling it is already in the mod folder.
+The game will reference all paths from the directory it was launched in, unless the path is global (eg. beginning with `/` or `C:\\`). If, for instance, a mod uses sprites, and those sprites are in their own folder under the mod folder, you would use something like `"mod/sprites/filename.png"` to load it, even if the file calling it is already in the mod folder.
 
 #### Patching
 

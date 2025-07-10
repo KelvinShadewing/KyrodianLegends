@@ -23,7 +23,7 @@ Trey is mainly a stealth character whose power is affected by light. When in the
 
 By destroying light sources, he can keep himself safer from enemies and increase his magic efficiency. Certain light sources, such as windows, cannot be disabled in some cases, such as ones without curtains.
 
-Unlike Midi, who gains new attacks as he progresses, Trey focuses on mobility upgrades. Upgrades he can accquire include:
+Unlike Midi, who gains new attacks as he progresses, Trey focuses on mobility upgrades. Upgrades he can acquire include:
 
 * Double Jump - Trey conjures a pair of shadowy wings to boost his height. To avoid breaking the level design, double jumps will not be recharged by wall kicking.
 * Fog Dash - Trey becomes a black cloud and rushes forward, allowing him to pass through grates and other permeable objects.

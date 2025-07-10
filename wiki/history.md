@@ -8,7 +8,7 @@ Recorded history begins with only vague accounts of this era due to a lack of em
 
 ## Biometal War
 
-This era began when the biometal army descended from space with the intention of siezing the planet's resources and assimilating Kyroda's rare magical minerals to enhance their own abilities. The war spurred truces, and then cooperation, between the races, forcing them to band together to defend their world from the invading machines. During this time, Kyroda's great wonders, the haven cities, were founded as bastions against the biometals.
+This era began when the [biometal](biometals.md) army descended from space with the intention of siezing the planet's resources and assimilating Kyroda's rare magical minerals to enhance their own abilities. The war spurred truces, and then cooperation, between the races, forcing them to band together to defend their world from the invading machines. During this time, Kyroda's great wonders, the haven cities, were founded as bastions against the biometals.
 
 At the end of the war, the surviving biometal cerebrates retreated from the planet, leaving their forces to live like mindless animals on the planet's surface.
 

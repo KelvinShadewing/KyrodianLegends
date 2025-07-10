@@ -264,11 +264,11 @@
             "scaleInDock": 1
         },
         "/home/kelvin/Code/sta/res/map/nessland-henge.json": {
-            "scale": 0.25909090909090904,
-            "selectedLayer": 0,
+            "scale": 2,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2161.4035087719303,
-                "y": 1760.0000000000005
+                "x": 1341,
+                "y": 3265
             }
         },
         "/home/kelvin/Code/sta/res/map/nessland-henge.json#pipes": {
@@ -997,8 +997,8 @@
     "project": "kl.tiled-project",
     "recentFiles": [
         "mesa-24.tsj",
-        "grass-24.tsj",
         "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/missions/avianmissions/avianmission1.json",
+        "grass-24.tsj",
         "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp1.json",
         "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp2.json",
         "/media/kelvin/data/gog/Starbound/game/assets/packed/dungeons/human/humancamp/humancamp3.json",

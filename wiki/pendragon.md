@@ -23,4 +23,4 @@ In battle, Pendragon is ruthless and merciless. Even when negotiating a surrende
 
 While he normally leads as a captain and commander from within his ship (but never under those titles; he is an emperor first and foremost to his subjects), he is no slouch when fighting on his own. Like the rest of the [hidegvins](hidegvins.md) under him, he specializes in ice magic. By creating ice that is denser than normal, he can made armor and weapons that are as hard as steel at a fraction of the weight. With this, he can conjure a broadsword that is as long as he is tall and wield it as easily as a normal longsword. While he can also conjure a shield, he tends to hold his sword in both hands, and instead creates walls of ice between himself and his opponent while he winds up a wide swing that would normally leave him open to attack, dispelling the wall right before contact so his attack can land the second his defence goes down.
 
-Pendragon is actually a little blue breed like his subordinates, and has giantism.
+Pendragon is actually a little blue breed like his subordinates, and has gigantism.

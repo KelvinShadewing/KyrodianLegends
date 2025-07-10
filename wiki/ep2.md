@@ -17,10 +17,10 @@ Haskell comes and tells them they have earned the right to rule the castle. They
 
 ## Candidates
 
-* Marie Annette - A [kholu](kholu.md) with the power of compulsion, with a bodyguard thrall. After her thrall is defeated (rather easily), she flees through a window and gets immediately devoured by a giant plant, which is the real boss. Haskell clarifies that her ability will not be granted since she took her own life, but as a consolaiton, Sophie is granted a seed sniper that can bind enemies in vines.
+* Marie Annette - A [kholu](kholu.md) with the power of compulsion, with a bodyguard thrall. After her thrall is defeated (rather easily), she flees through a window and gets immediately devoured by a giant plant, which is the real boss. Haskell clarifies that her ability will not be granted since she took her own life, but as a consolation, Sophie is granted a seed sniper that can bind enemies in vines.
 
 * Dexter Quailheart - A [hidegvin](hidegvins.md) with the power of bat form. Tries to flee, but is devoured by the next candidate when he tries to flee.
 
-* Flint Mistwing - A gryphon with the power of blood drain. Devours Dexter when he tries to flee. When defeated, he imparts both abilities, granting Trey and Sophie both the bat form transformation and life steal for Trey's melee attacks.
+* Flint Mistwing - A [gryphon](gryphons.md) with the power of blood drain. Devours Dexter when he tries to flee. When defeated, he imparts both abilities, granting Trey and Sophie both the bat form transformation and life steal for Trey's melee attacks. His battle involves using the gryphon primal transformation.
 
-* Asher Jablonski - 
+* Asher Jablonski - A [naga](nagas.md) with the power of mist form.

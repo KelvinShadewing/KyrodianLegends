@@ -39,4 +39,4 @@ In some instances, biometals will allow the creation of weapons that appear to b
 
 ## Nest Behavior
 
-Biometal nests exist in areas of material benefit, such as ore veins used as food to reproduce, or areas of strategic or historical significance to stifle unwantes growth in local populations. To keep focus on themselves as enemies of all life, their grand purpose, they will carefully preserve the journals of those who stumble upon their nests and scatter entries from them around the nest so that adventurers and self-styled heroes will be further insensed against them.
+Biometal nests exist in areas of material benefit, such as ore veins used as food to reproduce, or areas of strategic or historical significance to stifle unwanted growth in local populations. To keep focus on themselves as enemies of all life, their grand purpose, they will carefully preserve the journals of those who stumble upon their nests and scatter entries from them around the nest so that adventurers and self-styled heroes will be further incensed against them.

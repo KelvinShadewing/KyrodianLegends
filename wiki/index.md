@@ -12,13 +12,14 @@ These pages contain spoilers for the game's storyline. If you are not interested
 ### Characters
 
 
-|Heroes                       |Villains                           |Friendlies       |
-|-----------------------------|-----------------------------------|-----------------|
-|[Midi Waffle](midi.md)       |[Emperor Pendragon](pendragon.md)  |[Rusty](rusty.md)|
-|[Trey Nuberro](trey.md)      |[Guinevere Pendragon](guinevere.md)|
-|[Sophie Nuberro](sophie.md)  |[Puck Pendragon](puck.md)          |
-|[Hunter Shadewing](hunter.md)|[Dr. Alastor Quincey](quincey.md)  |
-|                             |[Obtuse Angler](obtuse.md)         |
+| Heroes                        | Villains                            | Friendlies        |
+| ----------------------------- | ----------------------------------- | ----------------- |
+| [Midi Waffle](midi.md)        | [Emperor Pendragon](pendragon.md)   | [Rusty](rusty.md) |
+| [Trey Nuberro](trey.md)       | [Guinevere Pendragon](guinevere.md) |                   |
+| [Sophie Nuberro](sophie.md)   | [Puck Pendragon](puck.md)           |                   |
+| [Hunter Shadewing](hunter.md) | [Dr. Alastor Quincey](quincey.md)   |                   |
+|                               | [Duke](duke.md)                     |                   |
+|                               |                                     |                   |
 
 &nbsp;
 

@@ -1,0 +1,3 @@
+# Guinevere Pendragon
+
+Guinevere is the name of [Emperor Pendragon's](pendragon.md) pet akhlut. The story of how he tamed her has grown over the years, from him capturing her as a calf, to wrestling her down as an adult, to straight up knocking her out in a single punch. While normally docile around Pendragon, Guin is ferocious and predatory, and has even attacked members of the Cold Front who approached her without his presence.

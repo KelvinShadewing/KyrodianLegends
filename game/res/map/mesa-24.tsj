@@ -6,12 +6,12 @@
  "name":"mesa-24",
  "spacing":0,
  "tilecount":256,
- "tiledversion":"1.11.0",
+ "tiledversion":"1.11.2",
  "tileheight":24,
  "tileoffset":
     {
      "x":-4,
-     "y":4
+     "y":0
     },
  "tiles":[
         {

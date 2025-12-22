@@ -313,13 +313,25 @@
 	},
 
 	"dialogue" : {
-		"gullsandur-intro" : [
-			
-		],
-		"midi-enter-jungle" : [
-			["sprMidiF", 4, "Huh, weird. It's awful quiet around here for a jungle..."],
-			["sprMidiF", 8, "I'm not going crazy, right? There aren't even any birds here."]
-		]
+		"gullsandur-intro" : {
+			"default" : [
+				["sprMidiF", 8, "Are you guys sure this is the right place? Looks like a real dump to me."],
+				[0, 0, "Our orders come straight from the top. Don't start your complaining now, Midi. I can always report you to the doc."],
+				["sprMidiF", 8, "What are we even looking for anyway?"],
+				[0, 0, "That's for us to know. You're just here as muscle."],
+				["sprMidiF", 7, "What? Ol' Emperor Pennydrag doesn't trust me anymore?"],
+				[0, 0, "Hey! Show some respect! It's by his grace you're even here to begin with!"],
+				["sprMidiF", 6, "Yeah, yeah, \"By his grace\". Whatever. Let's just get this mission over with already."],
+				[0, 0, "Right. We'll set up here while you scout ahead. Find Fort Gulsandur and return once you've mapped it out."],
+				["sprMidiF", 3, "Sure, give me the easy part."]
+			]
+		},
+		"midi-enter-jungle" : {
+			"default" : [
+				["sprMidiF", 4, "Huh, weird. It's awful quiet around here for a jungle..."],
+				["sprMidiF", 8, "I'm not going crazy, right? There aren't even any birds here."]
+			]
+		}
 	},
 
 	"book" : {

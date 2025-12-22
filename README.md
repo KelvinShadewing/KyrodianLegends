@@ -26,6 +26,8 @@ The game runs with [Brux GDK](https://codeberg.org/KelvinShadewing/brux-gdk). On
 
 ## How to Contribute
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A021L5F)
+
 If you'd like to submit content to be used in official releases, the following information can help you when creating assets.
 
 #### Colors
@@ -92,7 +94,7 @@ Some things to bear in mind when writing mods for KL.
 
 #### Mods List
 
-The mods.list file contains the names of user-made scripts to be run after the game's core assets and code have been loaded. As each file overwrites what was made by the one before it when modifying the same code, loading order is important to prevent dependancy errors.
+The mods.list file contains the names of user-made scripts to be run after the game's core assets and code have been loaded. As each file overwrites what was made by the one before it when modifying the same code; loading order is important to prevent dependancy errors.
 
 #### Filenames and Paths
 

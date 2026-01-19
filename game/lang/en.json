@@ -335,9 +335,13 @@
 	},
 
 	"book" : {
-		"" : {
-			"title" : "",
-			"content" : ""
+		"template" : {
+			"title" : "Template",
+			"content" : "Write stuff here."
+		},
+		"kholu-commentary-gallium-stormreach" : {
+			"title" : "Commentaries on the Social Structure of Kholua",
+			"content" : "Commentaries on the Social Structure of Kholua, by Gallium Stormreach \n \n For as long as gryphons have soared among the clouds and roosted upon the lands of the sky, we have recognized our exceptional status among the world, the value of elevation, and the simple truth that one's place in society is not merely built; it is earned and preserved. Rank is made visible because it must be; order demands clarity. Those below labor so that those above may govern, and in this balance, our civilization has endured. \n \n Kholu, by contrast, have somehow managed to endure despite avoiding such distinction altogether. The mystery of how they have accomlpished this, even after the Biometal War brought our civilizations into an alliance of necessity, continues to elude even the brightest of the surface class. Therefore it falls to me to bring enlightment to them, and to anyone else who shares such curiosity in the quaint forest folk."
 		}
 	}
 }

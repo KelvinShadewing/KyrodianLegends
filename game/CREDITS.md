@@ -3,7 +3,8 @@
 ## Graphics
 
 ### [Kelvin Shadewing](http://kelvinshadewing.net)
-(All graphics contributions CC-BY-SA 4.0)
+(All Kyrodian Legends-specific assets are under KLPL 1.0)
+(All other graphics contributions CC-BY-SA 4.0)
 hunter.png
 hunterF.png
 midi.png

@@ -108,8 +108,7 @@
 		local closestY = y1 + parameter * ABy;
 
 		// Calculate distance squared between closest point and circle center
-		local distanceSq =
-			(x - closestX) * (x - closestX) + (y - closestY) * (y - closestY);
+		local distanceSq = (x - closestX) * (x - closestX) + (y - closestY) * (y - closestY);
 
 		// Check if the distance squared is less than or equal to the circle's radius squared
 		return distanceSq <= r * r;
@@ -139,8 +138,7 @@
 
 		if (numPoints == 0) return false;
 
-		if (numPoints == 1)
-			return points[0][0] + x == px && points[0][1] + y == py;
+		if (numPoints == 1) return points[0][0] + x == px && points[0][1] + y == py;
 
 		// Iterate through each edge of the polygon
 		for (local i = 0; i < numPoints; i++) {
@@ -155,12 +153,7 @@
 			}
 
 			// Check for intersection with horizontal ray from point
-			if (
-				py > min(y1, y2) &&
-				py <= max(y1, y2) &&
-				px <= max(x1, x2) &&
-				y1 != y2
-			) {
+			if (py > min(y1, y2) && py <= max(y1, y2) && px <= max(x1, x2) && y1 != y2) {
 				local xIntersect = ((py - y1) * (x2 - x1)) / (y2 - y1) + x1;
 				if (x1 == x2 || px <= xIntersect) {
 					intersections++;
@@ -251,6 +244,29 @@
 	}
 };
 
+::CompShape <- class {
+	x = 0;
+	y = 0;
+	ox = 0;
+	oy = 0;
+	list = null;
+
+	constructor(_x, _y, _ox, _oy, _arr = null) {
+		x = _x;
+		y = _y;
+		ox = _ox;
+		oy = _oy;
+		if (typeof _arr == "array") {
+			list = _arr;
+			for (local i = list.len(); i >= 0; i--) {
+				if (!("setPos" in list[i])) list.remove(i);
+			}
+		}
+	}
+
+	function setPos(_x, _y)
+};
+
 ::hitTest <- function (a, b) {
 	switch (typeof a) {
 		case "Rec":
@@ -270,54 +286,40 @@
 										return true;
 										break;
 									case 1:
-										if (a.x - a.w - (b.x + b.w) == 0)
-											return false;
+										if (a.x - a.w - (b.x + b.w) == 0) return false;
 
 										// Get slope angle
 										local a0 = b.h / b.w;
-										local a1 =
-											(a.y + a.h - (b.y + b.h)) /
-											(a.x - a.w - (b.x + b.w));
+										local a1 = (a.y + a.h - (b.y + b.h)) / (a.x - a.w - (b.x + b.w));
 										if (a1 > a0) return false;
 										break;
 									case 2:
-										if (a.x + a.w - (b.x - b.w) == 0)
-											return false;
+										if (a.x + a.w - (b.x - b.w) == 0) return false;
 
 										// Get slope angle
 										local a0 = b.h / -b.w;
-										local a1 =
-											(a.y + a.h - (b.y + b.h)) /
-											(a.x + a.w - (b.x - b.w));
+										local a1 = (a.y + a.h - (b.y + b.h)) / (a.x + a.w - (b.x - b.w));
 										if (a1 < a0) return false;
 										break;
 									case 3:
-										if (a.x - a.w - (b.x + b.w) == 0)
-											return false;
+										if (a.x - a.w - (b.x + b.w) == 0) return false;
 
 										// Get slope angle
 										local a0 = -b.h / b.w;
-										local a1 =
-											(a.y - a.h - (b.y - b.h)) /
-											(a.x - a.w - (b.x + b.w));
+										local a1 = (a.y - a.h - (b.y - b.h)) / (a.x - a.w - (b.x + b.w));
 										if (a1 < a0) return false;
 										break;
 									case 4:
-										if (a.x + a.w - (b.x - b.w) == 0)
-											return false;
+										if (a.x + a.w - (b.x - b.w) == 0) return false;
 
 										// Get slope angle
 										local a0 = -b.h / -b.w;
-										local a1 =
-											(a.y - a.h - (b.y - b.h)) /
-											(a.x + a.w - (b.x - b.w));
+										local a1 = (a.y - a.h - (b.y - b.h)) / (a.x + a.w - (b.x - b.w));
 										if (a1 > a0) return false;
 										break;
 									case 5:
-										if (abs(a.x - b.x) > abs(b.w))
-											return false;
-										if (abs(a.y - b.y) > abs(b.h))
-											return false;
+										if (abs(a.x - b.x) > abs(b.w)) return false;
+										if (abs(a.y - b.y) > abs(b.h)) return false;
 										break;
 								}
 								break;
@@ -328,13 +330,10 @@
 									case 1:
 									case 2:
 									case 3:
-										if (a.x - a.w - (b.x + b.w) == 0)
-											return false;
+										if (a.x - a.w - (b.x + b.w) == 0) return false;
 										// Get slope angle
 										local a0 = b.h / b.w;
-										local a1 =
-											(a.y + a.h - (b.y + b.h)) /
-											(a.x - a.w - (b.x + b.w));
+										local a1 = (a.y + a.h - (b.y + b.h)) / (a.x - a.w - (b.x + b.w));
 										if (a1 > a0) return false;
 										break;
 									case 4:
@@ -435,24 +434,9 @@
 					switch (a.kind) {
 						case 1: // Top right
 							if (
-								b.hitLine(
-									a.x - a.w,
-									a.y - a.h,
-									a.x - a.w,
-									a.y + a.h
-								) ||
-								b.hitLine(
-									a.x - a.w,
-									a.y + a.h,
-									a.x + a.w,
-									a.y + a.h
-								) ||
-								b.hitLine(
-									a.x - a.w,
-									a.y - a.h,
-									a.x + a.w,
-									a.y + a.h
-								)
+								b.hitLine(a.x - a.w, a.y - a.h, a.x - a.w, a.y + a.h) ||
+								b.hitLine(a.x - a.w, a.y + a.h, a.x + a.w, a.y + a.h) ||
+								b.hitLine(a.x - a.w, a.y - a.h, a.x + a.w, a.y + a.h)
 							)
 								return true;
 							break;

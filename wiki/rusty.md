@@ -6,7 +6,7 @@
 **RACE:** [Kholu](kholu.md)  
 **SEX:** Male  
 **AGE:** 24  
-**HEIGHT:** 8'4"  
+**HEIGHT:** 6'4"  
 **WEIGHT:** ...  
 **COLORS:** Red fur, banana cream underfur, ice blue eyes  
 **FACTION:** N/A

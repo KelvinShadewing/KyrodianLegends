@@ -16,9 +16,7 @@
 ## BIO:
 A young bounty hunter, formerly a pirate. After losing his parents in a [biometal](biometal.md) attack, he was found by the [Cold Front](coldfront.md) and taken in for his magical potential. Although he stayed with them for several years, he was never fully committed, and always had his eyes open for an opportunity to escape from them, biding his time until he felt he was capable of taking care of himself.
 
-After encountering [Hunter](hunter.md) at Gulsandur, the two quickly bonded and set out together, using a repainted Cold Front dropship as their new mobile home.
-
-After meeting [Hunter](hunter.md) at Gulsandur, he decided he was ready to leave the pirates. He would soon learn later that violent conflicts were known to draw in biometal raids, and upon making the connection that Pendragon was indirectly responsible for his parents' deaths, he swore that he would return to take Pendragon down.
+After encountering [Hunter](hunter.md) at Gulsandur, the two quickly bonded and set out together, using a repainted Cold Front dropship as their new mobile home. He would learn later that violent conflicts were known to draw in biometal raids, and upon making the connection that Pendragon was indirectly responsible for his parents' deaths, he swore that he would return to take Pendragon down.
 
 ## GAMEPLAY:
 

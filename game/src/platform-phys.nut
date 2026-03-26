@@ -43,7 +43,7 @@
 	// Valid tile kinds: solid, pass, ladder, sideladder, line, damage, magnet, break
 	{
 		// 0 full block
-		shape = Rec(0, 0, 8, 8),
+		shape = Rec(0, 0, 8, 8, 0),
 		kind = ["solid"]
 	},
 	{

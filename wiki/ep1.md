@@ -19,6 +19,8 @@ Shortly after, Emperor Pendragon is informed of Midi's betrayal, though he doesn
 
 A biometal shadewing that Midi and Hunter fought on the way out is recovered and taken by Dr. Quincey for study, along with the notes found within the lab. He is elated at the find, and immediately sets to work on creating Midi and Hunter's greatest rivals, Vorbis and Zero.
 
+Midi and Hunter make their way towards a city near the coast. 
+
 ## Gameplay Outline
 
 The game opens with the CF dropship landing on the beach of Gulsandur. After a brief cutscene with Midi and the penguins getting out and going over the mission, the player is given free reign to explore the ruins.

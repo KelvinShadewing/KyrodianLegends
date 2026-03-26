@@ -366,6 +366,8 @@ The KLPL promotes openness, collaboration, and continuity of KLC. Members should
 
 ## KLPL Icon
 
+![KLPL Icon](klpl.png)
+
 This icon is for creators to use to indicate that a work is licensed under the KLPL without embedding the full license text. Use the icon whenever including the full license is impractical, such as in social media posts, small promotional images, merchandise tags, or in-game UI elements.
 
 **Does using the icon replace the license?**

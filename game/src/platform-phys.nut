@@ -40,64 +40,64 @@
 };
 
 ::gvSolidTileID <- [
-	// Valid tile kinds: solid, pass, ladder, sideladder, line, damage, magnet, break
+	// Valid tile kinds: solid, pass, ladder, sideladder, line, damage, magnet, break, force,
 	{
 		// 0 full block
-		shape = Rec(0, 0, 8, 8, 0),
+		shape = [Rec(0, 0, 8, 8, 0, 8, 8)],
 		kind = ["solid"]
 	},
 	{
 		// 1 half down
-		shape = Rec(0, 0, 8, 4, 0, 0, 4),
+		shape = [Rec(0, 0, 8, 4, 0, 0, 8, 12)],
 		kind = ["solid"]
 	},
 	{
 		// 2 half up
-		shape = Rec(0, 0, 8, 4, 0, 8, 4),
+		shape = [Rec(0, 0, 8, 4, 0, 8, 4)],
 		kind = ["solid"]
 	},
 	{
 		// 3 half left
-		shape = Rec(0, 0, 4, 8, 0, 4, 8),
+		shape = [Rec(0, 0, 4, 8, 0, 4, 8)],
 		kind = ["solid"]
 	},
 	{
 		// 4 half right
-		shape = Rec(0, 0, 4, 8, 0, 12, 8),
+		shape = [Rec(0, 0, 4, 8, 0, 12, 8)],
 		kind = ["solid"]
 	},
 	{
 		// 5 half middle h
-		shape = Rec(0, 0, 8, 4, 0, 8, 8),
+		shape = [Rec(0, 0, 8, 4, 0, 8, 8)],
 		kind = ["solid"]
 	},
 	{
 		// 6 half middle v
-		shape = Rec(0, 0, 4, 8, 0, 8, 8),
+		shape = [Rec(0, 0, 4, 8, 0, 8, 8)],
 		kind = ["solid"]
 	},
 	{
-		// 7 top left 1/4
-		shape = Rec(0, 0, 8, 2, 2, 8, 14),
+		// 7 top left 1/4 h
+		shape = [Rec(0, 0, 8, 2, 2, 8, 14)],
 		kind = ["solid"]
 	},
 	{
-		// 8 top left 2/4
+		// 8 top left 2/4 h
 		shape = [Rec(0, 0, 8, 2, 2, 8, 10), Rec(0, 0, 8, 2, 2, 8, 14)],
 		kind = ["solid"]
 	},
 	{
-		// 9 top left 3/4
+		// 9 top left 3/4 h
 		shape = [Rec(0, 0, 8, 2, 2, 8, 6), Rec(0, 0, 8, 4, 2, 8, 12)],
 		kind = ["solid"]
 	},
 	{
-		// 10 top left 4/4
+		// 10 top left 4/4 h
 		shape = [Rec(0, 0, 8, 2, 2, 8, 2), Rec(0, 0, 8, 6, 2, 8, 10)],
 		kind = ["solid"]
 	},
 	{
-		// 11 top right 4/4
+		// 11 top right 4/4 h
 		shape = [Rec(0, 0, 8, 2, 1, 8, 2), Rec(0, 0, 8, 6, 1, 8, 10)],
 		kind = ["solid"]
 	}

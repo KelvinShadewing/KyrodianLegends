@@ -5,8 +5,8 @@ The game's controls will be limited to what can be done with a six-button pad to
 ```
 ╔[L]═════════════════════[R]╗
 ║  ┌ ▄ ┐   (str)     (Y)    ║
-║  ■ + ■   (sel)   (A) (B)  ║
-║  └ ▀ ┘   (PND)     (X)    ║
+║  ■ + ■   (sel)   (X) (B)  ║
+║  └ ▀ ┘   (PND)     (A)    ║
 ║                           ║
 ║ ▒ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ▒ ║
 ║  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ║
@@ -18,47 +18,43 @@ The game's controls will be limited to what can be done with a six-button pad to
 
 * start: submenu
 * select: change character (one player)/join partner (two player)
-* A(M): melee attack
-* X(J): jump/swim/glide
-* Y(P): primary(P) special
-* B(S): secondary(S) special
-* R(T): tertiary(T) special
-* L(D): backdash
+* X(1): primary attack
+* A(J): jump/swim/glide
+* Y(P): 
+* B(S): special ability
+* R(2): secondary attack
+* L(H): halt (used for aiming)
 
 ## Character Specific Controls
 
 **Midi**
 
-* P: acorn bomb
-* S: transphere 
-* T: cycle element
+* 1: acorn bomb right hand
+* 2: acorn bomb left and
+* S: transphere
 
 **Midi's Transphere**
 
-* M: time bomb
-* D: fire boost
-* P: remote bomb
+* 1: acorn bomb right hand
+* 2: acorn bomb left and
 * S: normal form
-* R: cold/magnet field
+* H: cold/magnet field
 
 **Trey**
 
-* P: shadow kunai
-* S: grappling whip
-* T: dark shift (hold)
+* 1: shadow kunai
+* 2: grappling whip
+* S: dark shift (hold)
 
 **Sophie**
 
-* P: blaster (rapid)
-* S: blaster (charge)
-* T: sniper mode (hold)
+* 1: blaster (rapid)
+* 2: blaster (charge)
+* H: sniper mode (hold)
 
 **Hunter**
 
-* P: throw/punt
-* S: attract/grab
-* T: extrasensory
-
-## Notes
-
-I've considered campaigns and side modes that would allow for two-player co-op, but so far, only the episode planned for Trey and Sophie will have room for this. I may have Midi return as a playable partner in Hunter's story, though.
+* 1: throw/punt/slash
+* 2: attract/grab
+* S: extrasensory
+* H: steady control

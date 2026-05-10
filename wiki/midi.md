@@ -42,6 +42,25 @@ His bombs can be dispensed in several ways:
 
 Even when charged, Midi's bombs suffer a speed reduction when under water. A second element can be set to Midi's off hand, similar to Zero's subweapon in the Mega Man Zero games.
 
+### Element Mixing
+
+(This part is still being debated, but could be useful in non-gameplay settings.)
+
+By mixing elements, Midi can create new effects. In gameplay, this would be done with an in-menu toggle, and when active, holding the secondary attack button and pressing fire will launch a mixed bomb. Bombs cannot be mixed with their counter elements, and will produce a normal bomb if attempted.
+
+* Fire + Water: Steam
+* Fire + Air: Oven
+* Fire + Earth: Lava
+* Fire + Shock: Plasma
+* Ice + Water: Snow
+* Ice + Air: Chill
+* Ice + Earth: Crystal
+* Ice + Shock: Aurora
+* Earth + Water: Mud
+* Earth + Shock: Magnet
+* Water + Air: Fog
+* Air + Shock: Nimbus
+
 ### Transphere:
 ![Transphere](img/transphere.gif)
 

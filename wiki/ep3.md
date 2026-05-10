@@ -19,12 +19,4 @@ Trey and Sophie demand an explanation after the fight, and Midi tells everyone a
 
 After learning the location of Excalibur, they follow the Cold Front there to confront them.
 
-## Missions
-
-### Report on Professor Banyan
-
-An archeology museum is requesting any information anyone can provide on a missing professor. It turns out to be the one Midi found the journal of at Gulsandur. He brings them the journal and gives his condolences. They are impressed that he was able to recover the journal, and tell him they'll be posting archeology missions just for him if he wants to do any more artefact hunting.
-
-Seeing Hunter, they'll be amazed at meeting a real shadewing in person, explaining how they were thought to be mythological, with confirmed sightings only happening within the last few decades. They urge him to go to the natural history museum for an examination. If the player takes them up on this, it unlocks missions to research wildlife and biometals using Hunter's scan ability.
-
 

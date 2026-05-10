@@ -14,8 +14,4 @@ At the end of the war, the surviving biometal cerebrates retreated from the plan
 
 ## Reconstruction
 
-The shortest completed era. During this time, new laws and treaties were put in place to ensure lasting peace and alliances to keep the world prepared in case the biometals ever returned. The haven cities were repurposed into bustling metropolises, and borders between nations were opened to foster interracial relations. Much of Kyroda's non-military inventions happened here as well thanks to the cooperation between peoples enabling trade and industry to make new creations possible.
-
-## Stability
-
-The current era the games take place in.
+The current era. During this time, new laws and treaties were put in place to ensure lasting peace and alliances to keep the world prepared in case the biometals ever returned. The haven cities were repurposed into bustling metropolises, and borders between nations were opened to foster interracial relations. Much of Kyroda's non-military inventions happened here as well thanks to the cooperation between peoples enabling trade and industry to make new creations possible.

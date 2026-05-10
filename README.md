@@ -1,6 +1,6 @@
 # **Kyrodian Legends**
 
-An action-adventure platformer with cute, fuzzy heroes.
+An open-source mythology set in an action-adventure platformer with cute, fuzzy heroes.
 
 &nbsp;
 
@@ -8,7 +8,7 @@ An action-adventure platformer with cute, fuzzy heroes.
 
 The code for this game is free under the GNU General Public License.
 
-All materials and assets are licensed under CC-BY-SA 4.0, unless otherwise specified.
+All original materials and assets are licensed under the [Kyrodian Legends Public License](KLPL.md), unless otherwise specified. Other materials will be listed respectively.
 
 &nbsp;
 

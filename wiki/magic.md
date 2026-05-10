@@ -8,7 +8,7 @@ When a mage casts a spell, their brain translates their will into an electronic 
 
 The effect of damaging a mage who charges too much is due to the fact that the mana has not had time to acclimate to its new host; it's frequency has not yet changed to match the signature of the host's aura. Mana that is absorbed naturally over time will perfectly resonate with the aura, allowing the caster to cast spells without harming themselves at all. For instance, Midi is able to be caught in his own explosions because the mana creating his bombs matches his aura.
 
-Enchanting is the process of ordering mana to take on a new host and use the stored energy their to perform a persistent task. Because enchanted objects are wrapped in a magical aura, they are capable of interacting with ethereal entities, which is why, for example, an enchanted sword is needed to fight a ghost.
+Enchanting is the process of ordering mana to take on a new host and use the stored energy there to perform a persistent task. Because enchanted objects are wrapped in a magical aura, they are capable of interacting with ethereal entities, which is why, for example, an enchanted sword is needed to fight a ghost. Enchantments cannot be industrially produced due to magic requiring a user's intent to function.
 
 ## Elements
 
@@ -68,9 +68,9 @@ For example, Midi's forte grants him his elemental bombs, and his passive tailsa
 
 ## "Tric" Weapons
 
-A slang shortening for "thaumaturgic", tric weapons do not carry their own enchantment, but instead rely on the magic of their weilder for power. This allows for virtually unlimited use; if the user keeps regenerating mana, they can keep channeling it into a tric weapon. Such arms are able to siphon mana easily enough on their own that no magical skill is required to use them, simply a supply of energy.
+A slang shortening for "thaumaturgic", tric weapons do not carry their own enchantment, but instead rely on the magic of their weilder for power. This allows for virtually unlimited use; if the user keeps regenerating mana, they can keep channeling it into a tric weapon. Such arms are able to siphon mana easily enough on their own that no magical skill is required to use them, simply a supply of energy. They can also be powered by mana-storing crystals.
 
-Two common uses for such technology include the tric shot, a pistol that turns the weilder's mana into bullets, and the tric blade, which turns mana into a sword of energy. Depending on the user, such weapons can take on elemental effects, or other spell effects entirely. Someone with a forte for light magic, for instance, would shoot bullets of light from a tric shot, while a healer could pump a healing spell into it to create a healing bullet.
+Two common uses for such technology include the tric shot, a pistol that turns the weilder's mana into bullets, and the tric blade, which turns mana into a sword of energy. Depending on the user, such weapons can take on elemental effects, or other spell effects entirely. Someone with a forte for light magic, for instance, would shoot bullets of light from a tric shot, while a healer could pump a healing spell into it to create a healing bullet. The user's intent can also affect the lethality of tric weapons; someone who doesn't have it in them to kill someone won't be able to do so with the weapon, making them very useful when fighting biometals while avoiding collateral damage.
 
 Some fortes are incompatible with certain tric weapons, and will thus confer no special effects.
 
@@ -79,7 +79,7 @@ Various examples of tric weapons include:
 * Shot - A basic pistol that fires medium-range bullets.
 * Sniper - Concentrates its bullets into a thin laser for extra precision and range.
 * Buster - An arm-mounted tric shot that can charge up large bursts.
-* Grenade - Turns mana charges into impact bombs. Midi's magic is an in-born and more complex version of this.
+* Grenade - Turns mana charges into impact bombs. (Midi's magic is an in-born and more complex version of this.)
 * Sword - A basic melee weapon, blade length depends on the power output of the wielder.
 * Whip - A flexible beam weapon that can grapple.
 * Shield - Acts as both a physical shield and magic ward. Can reflect small destruction spells.
